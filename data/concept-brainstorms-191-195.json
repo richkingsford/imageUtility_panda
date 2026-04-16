@@ -1,0 +1,93 @@
+{
+  "source": "concepts",
+  "startIndex": 191,
+  "endIndex": 195,
+  "conceptCount": 5,
+  "items": [
+    {
+      "concept": "viscosity",
+      "brainstorms": [
+        {
+          "idea": "Honey Drip Jar",
+          "connection": "Honey's slow pour makes viscosity instantly easy to picture."
+        },
+        {
+          "idea": "Motor Oil Bottle",
+          "connection": "Thick flowing oil gives the concept a rugged everyday object."
+        },
+        {
+          "idea": "Molten Lava Blob",
+          "connection": "Heavy slow moving lava makes flow resistance feel dramatic."
+        }
+      ]
+    },
+    {
+      "concept": "water molecule",
+      "brainstorms": [
+        {
+          "idea": "Raindrop Window Bead",
+          "connection": "A single droplet makes water feel simple, familiar, and visual."
+        },
+        {
+          "idea": "Snowflake Ice Crystal",
+          "connection": "Its shape ties water molecules to something delicate and iconic."
+        },
+        {
+          "idea": "Dewdrop Spider Web",
+          "connection": "Tiny water beads turn the molecule idea into a striking natural image."
+        }
+      ]
+    },
+    {
+      "concept": "weak acid",
+      "brainstorms": [
+        {
+          "idea": "Apple Cider Vinegar",
+          "connection": "Vinegar gives acidity a familiar kitchen-scale connection."
+        },
+        {
+          "idea": "Black Coffee Mug",
+          "connection": "Coffee is a relatable everyday example of mild acidity."
+        },
+        {
+          "idea": "Orange Juice Carton",
+          "connection": "Fruit juice makes weak acids feel bright and instantly recognizable."
+        }
+      ]
+    },
+    {
+      "concept": "weak base",
+      "brainstorms": [
+        {
+          "idea": "Baking Soda Box",
+          "connection": "It is the clearest household example of a mild base."
+        },
+        {
+          "idea": "Egg White Bowl",
+          "connection": "Egg whites give weak basicity a simple food-based connection."
+        },
+        {
+          "idea": "Ammonia Cleaner Bottle",
+          "connection": "Household ammonia makes weak bases feel practical and familiar."
+        }
+      ]
+    },
+    {
+      "concept": "weight",
+      "brainstorms": [
+        {
+          "idea": "Bathroom Scale Dial",
+          "connection": "It is the most familiar everyday object for reading weight."
+        },
+        {
+          "idea": "Loaded Barbell Plate",
+          "connection": "Heavy gym equipment makes weight feel physical and obvious."
+        },
+        {
+          "idea": "Freight Elevator Counterweight",
+          "connection": "It turns weight into a bold industrial visual with real heft."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "source": "concepts",
+  "startIndex": 91,
+  "endIndex": 110,
+  "conceptCount": 20,
+  "items": [
+    {
+      "concept": "first order reaction",
+      "brainstorms": [
+        {
+          "idea": "Burning Incense Stick",
+          "connection": "Its steady fade suggests a process tied to how much material remains."
+        },
+        {
+          "idea": "Dimming Glow Stick",
+          "connection": "It gives reaction rate a simple one-object visual over time."
+        },
+        {
+          "idea": "Rusting Iron Nail",
+          "connection": "A nail slowly changing helps make time-dependent reaction feel tangible."
+        }
+      ]
+    },
+    {
+      "concept": "freezing point",
+      "brainstorms": [
+        {
+          "idea": "Slushy Soda Bottle",
+          "connection": "It captures the exact edge where liquid starts turning solid."
+        },
+        {
+          "idea": "Icicle Window Pane",
+          "connection": "Frozen water on glass makes the threshold feel visual and dramatic."
+        },
+        {
+          "idea": "Frosted Windshield Wiper",
+          "connection": "It turns freezing into a relatable cold-morning object."
+        }
+      ]
+    },
+    {
+      "concept": "frequency",
+      "brainstorms": [
+        {
+          "idea": "Metronome Pendulum Arm",
+          "connection": "Its repeated ticking makes cycles per second easy to picture."
+        },
+        {
+          "idea": "Vinyl Record Groove",
+          "connection": "It ties repeating patterns directly to sound and rhythm."
+        },
+        {
+          "idea": "Tuning Fork Prong",
+          "connection": "It gives vibration frequency a classic, highly visual object."
+        }
+      ]
+    },
+    {
+      "concept": "functional group",
+      "brainstorms": [
+        {
+          "idea": "Swiss Army Corkscrew",
+          "connection": "One small feature changes what the whole object can do."
+        },
+        {
+          "idea": "Carabiner Keychain Clip",
+          "connection": "A specific attachment point defines how the object behaves."
+        },
+        {
+          "idea": "Velcro Sneaker Strap",
+          "connection": "That one active part gives the object its key interaction."
+        }
+      ]
+    },
+    {
+      "concept": "gas laws",
+      "brainstorms": [
+        {
+          "idea": "Weather Balloon Envelope",
+          "connection": "Its size changes make gas behavior easy to visualize."
+        },
+        {
+          "idea": "Bicycle Pump Piston",
+          "connection": "It turns pressure and volume into a hands-on everyday motion."
+        },
+        {
+          "idea": "Puffed Snack Bag",
+          "connection": "Altitude swelling gives gas laws a social-media-friendly hook."
+        }
+      ]
+    },
+    {
+      "concept": "geometric isomer",
+      "brainstorms": [
+        {
+          "idea": "Twisted Balloon Animal",
+          "connection": "The same material can take clearly different spatial arrangements."
+        },
+        {
+          "idea": "Folding Patio Chair",
+          "connection": "Its shape shifts without changing the parts making it up."
+        },
+        {
+          "idea": "Curled Ribbon Candy",
+          "connection": "A different arrangement gives the same ingredients a new look."
+        }
+      ]
+    },
+    {
+      "concept": "gibbs free energy",
+      "brainstorms": [
+        {
+          "idea": "Wound Clock Spring",
+          "connection": "It suggests stored energy that can actually drive change."
+        },
+        {
+          "idea": "Shaken Soda Can",
+          "connection": "It feels poised to release energy once conditions allow."
+        },
+        {
+          "idea": "Domino Ready Stack",
+          "connection": "It captures a system sitting on the edge of spontaneous change."
+        }
+      ]
+    },
+    {
+      "concept": "green chemistry",
+      "brainstorms": [
+        {
+          "idea": "Solar Roof Panel",
+          "connection": "It gives cleaner energy and smarter design a bold visual anchor."
+        },
+        {
+          "idea": "Reusable Glass Straw",
+          "connection": "It connects chemistry choices to waste reduction people recognize."
+        },
+        {
+          "idea": "Compost Tumbler Barrel",
+          "connection": "It makes sustainable material cycles feel practical and real."
+        }
+      ]
+    },
+    {
+      "concept": "half-life",
+      "brainstorms": [
+        {
+          "idea": "Hourglass Sand Timer",
+          "connection": "It gives gradual decrease over time a clean visual metaphor."
+        },
+        {
+          "idea": "Fading Glow Stick",
+          "connection": "Its brightness dropping over time feels like measurable decay."
+        },
+        {
+          "idea": "Dying Campfire Ember",
+          "connection": "A shrinking glow makes the idea of diminishing amount feel vivid."
+        }
+      ]
+    },
+    {
+      "concept": "heat",
+      "brainstorms": [
+        {
+          "idea": "Cast Iron Skillet",
+          "connection": "It makes stored and transferred heat feel heavy and familiar."
+        },
+        {
+          "idea": "Radiator Steam Pipe",
+          "connection": "It turns heat into a strong industrial-looking object."
+        },
+        {
+          "idea": "Sunbaked Desert Rock",
+          "connection": "A hot rock gives heat a natural, tactile form."
+        }
+      ]
+    },
+    {
+      "concept": "heat of fusion",
+      "brainstorms": [
+        {
+          "idea": "Melting Ice Sculpture",
+          "connection": "It shows the energy needed to turn a solid into liquid."
+        },
+        {
+          "idea": "Wax Seal Drip",
+          "connection": "Softening wax makes solid-to-liquid change feel elegant and visual."
+        },
+        {
+          "idea": "Softening Butter Cube",
+          "connection": "It turns melting into a simple everyday kitchen moment."
+        }
+      ]
+    },
+    {
+      "concept": "heat of vaporization",
+      "brainstorms": [
+        {
+          "idea": "Whistling Tea Kettle",
+          "connection": "It captures the push from liquid water into visible steam."
+        },
+        {
+          "idea": "Espresso Steam Wand",
+          "connection": "It makes vapor formation feel fast, hot, and stylish."
+        },
+        {
+          "idea": "Pressure Cooker Vent",
+          "connection": "Escaping steam gives the liquid-to-gas jump a dramatic outlet."
+        }
+      ]
+    },
+    {
+      "concept": "heterogeneous mixture",
+      "brainstorms": [
+        {
+          "idea": "Chocolate Chip Cookie",
+          "connection": "Its clearly different bits make non-uniform mixing instantly obvious."
+        },
+        {
+          "idea": "Granite Counter Slab",
+          "connection": "Visible mineral patches give the concept a polished natural example."
+        },
+        {
+          "idea": "Confetti Snow Globe",
+          "connection": "Different suspended pieces keep the mix visually varied."
+        }
+      ]
+    },
+    {
+      "concept": "homogeneous mixture",
+      "brainstorms": [
+        {
+          "idea": "Blue Mouthwash Bottle",
+          "connection": "Its even color makes uniform mixing easy to see."
+        },
+        {
+          "idea": "Neon Sports Drink",
+          "connection": "It looks consistent throughout, which fits a homogeneous mixture well."
+        },
+        {
+          "idea": "Maple Syrup Bottle",
+          "connection": "A smooth uniform liquid gives the concept a cozy everyday form."
+        }
+      ]
+    },
+    {
+      "concept": "hydration reaction",
+      "brainstorms": [
+        {
+          "idea": "Concrete Mix Bag",
+          "connection": "Adding water starts a real-world hardening reaction people recognize."
+        },
+        {
+          "idea": "Plaster Cast Roll",
+          "connection": "It changes behavior when water is added, which fits the concept nicely."
+        },
+        {
+          "idea": "Compressed Towel Tablet",
+          "connection": "A tiny dry object transforming with water gives a catchy visual."
+        }
+      ]
+    },
+    {
+      "concept": "hydrocarbon",
+      "brainstorms": [
+        {
+          "idea": "Motor Oil Bottle",
+          "connection": "It ties hydrocarbons directly to machines and everyday fuel culture."
+        },
+        {
+          "idea": "Candle Wax Pillar",
+          "connection": "Wax makes simple hydrocarbons feel familiar and tactile."
+        },
+        {
+          "idea": "Asphalt Road Patch",
+          "connection": "It shows hydrocarbons as a real material shaping the built world."
+        }
+      ]
+    },
+    {
+      "concept": "hydrogen",
+      "brainstorms": [
+        {
+          "idea": "Hydrogen Fuel Cell",
+          "connection": "It gives hydrogen a clean-tech object people already associate with energy."
+        },
+        {
+          "idea": "Rocket Fuel Tank",
+          "connection": "Hydrogen feels powerful and futuristic through spaceflight."
+        },
+        {
+          "idea": "Rainwater Drop Pendant",
+          "connection": "Water keeps hydrogen connected to something simple and universal."
+        }
+      ]
+    },
+    {
+      "concept": "hydrogen bond",
+      "brainstorms": [
+        {
+          "idea": "Snowflake Ice Crystal",
+          "connection": "Its structure makes hydrogen bonding feel beautiful instead of abstract."
+        },
+        {
+          "idea": "Water Strider Leg",
+          "connection": "Surface tension hints at the hidden pull between water molecules."
+        },
+        {
+          "idea": "DNA Helix Strand",
+          "connection": "It links hydrogen bonds to something iconic and biological."
+        }
+      ]
+    },
+    {
+      "concept": "hydrolysis",
+      "brainstorms": [
+        {
+          "idea": "Laundry Detergent Pod",
+          "connection": "Water-triggered breakdown makes hydrolysis feel useful and familiar."
+        },
+        {
+          "idea": "Germinating Bean Seed",
+          "connection": "Water-driven breakdown of stored material gives the idea a natural hook."
+        },
+        {
+          "idea": "Biodegradable Fork Tine",
+          "connection": "It points to materials designed to break down through water-driven chemistry."
+        }
+      ]
+    },
+    {
+      "concept": "ideal gas law",
+      "brainstorms": [
+        {
+          "idea": "Hot Air Balloon",
+          "connection": "It ties temperature, pressure, and volume to a striking real object."
+        },
+        {
+          "idea": "Scuba Tank Gauge",
+          "connection": "Compressed gas makes the law feel practical and measurable."
+        },
+        {
+          "idea": "Bike Pump Barrel",
+          "connection": "It turns gas relationships into a simple physical motion."
+        }
+      ]
+    }
+  ]
+}

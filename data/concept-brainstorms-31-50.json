@@ -1,0 +1,348 @@
+{
+  "source": "concepts",
+  "startIndex": 31,
+  "endIndex": 50,
+  "conceptCount": 20,
+  "items": [
+    {
+      "concept": "barometer",
+      "brainstorms": [
+        {
+          "idea": "Antique Ship Barometer",
+          "connection": "It is a classic real-world pressure object with strong visual character."
+        },
+        {
+          "idea": "Cloud Wrapped Peak",
+          "connection": "Mountain weather makes changing air pressure feel dramatic and immediate."
+        },
+        {
+          "idea": "Storm Glass Bottle",
+          "connection": "It gives weather prediction a moody, shareable object identity."
+        }
+      ]
+    },
+    {
+      "concept": "base",
+      "brainstorms": [
+        {
+          "idea": "Wet Soap Bar",
+          "connection": "Soap gives bases an everyday slippery, alkaline connection."
+        },
+        {
+          "idea": "Baking Soda Box",
+          "connection": "It is a familiar household object tied to mild basic chemistry."
+        },
+        {
+          "idea": "Pool Chlorine Tablet",
+          "connection": "It hints at alkaline pool chemistry through a recognizable object."
+        }
+      ]
+    },
+    {
+      "concept": "battery",
+      "brainstorms": [
+        {
+          "idea": "Phone Power Bank",
+          "connection": "It makes stored electrical energy feel modern and instantly relatable."
+        },
+        {
+          "idea": "Car Jump Pack",
+          "connection": "A portable starter battery gives the concept a rugged visual hook."
+        },
+        {
+          "idea": "Rechargeable AA Cell",
+          "connection": "It grounds battery chemistry in a tiny object people already know."
+        }
+      ]
+    },
+    {
+      "concept": "benzene",
+      "brainstorms": [
+        {
+          "idea": "Vintage Gas Pump",
+          "connection": "It ties benzene to petroleum culture in a bold, familiar way."
+        },
+        {
+          "idea": "Spray Paint Can",
+          "connection": "Solvent-heavy products make aromatic hydrocarbons feel less abstract."
+        },
+        {
+          "idea": "Asphalt Parking Lot",
+          "connection": "It hints at the petrochemical world benzene belongs to."
+        }
+      ]
+    },
+    {
+      "concept": "biochemistry",
+      "brainstorms": [
+        {
+          "idea": "Beating Human Heart",
+          "connection": "It captures chemistry happening inside living systems in the most vivid way."
+        },
+        {
+          "idea": "Glowing Firefly Lantern",
+          "connection": "Bioluminescence makes life chemistry feel magical and memorable."
+        },
+        {
+          "idea": "Ripe Strawberry Slice",
+          "connection": "Food is full of life-driven chemistry people can see and taste."
+        }
+      ]
+    },
+    {
+      "concept": "boiling point",
+      "brainstorms": [
+        {
+          "idea": "Whistling Tea Kettle",
+          "connection": "It is a familiar moment when liquid reaches vigorous boiling."
+        },
+        {
+          "idea": "Volcanic Hot Spring",
+          "connection": "A steaming natural pool makes high-temperature change feel cinematic."
+        },
+        {
+          "idea": "Instant Ramen Cup",
+          "connection": "It connects boiling directly to a fast everyday ritual."
+        }
+      ]
+    },
+    {
+      "concept": "bond dissociation",
+      "brainstorms": [
+        {
+          "idea": "Snapped Rope Fiber",
+          "connection": "It gives the idea of breaking a connection a physical, visible form."
+        },
+        {
+          "idea": "Cracked Guitar String",
+          "connection": "A once-tight link suddenly breaking mirrors bond dissociation well."
+        },
+        {
+          "idea": "Broken Handcuff Link",
+          "connection": "It turns separation energy into a dramatic single object."
+        }
+      ]
+    },
+    {
+      "concept": "bond energy",
+      "brainstorms": [
+        {
+          "idea": "Climbing Carabiner Gate",
+          "connection": "It suggests how much force a connection can withstand before breaking."
+        },
+        {
+          "idea": "Diamond Ring Stone",
+          "connection": "Diamond gives bond strength a flashy, unforgettable symbol."
+        },
+        {
+          "idea": "Spider Silk Strand",
+          "connection": "Its surprising strength makes hidden bonding feel impressive."
+        }
+      ]
+    },
+    {
+      "concept": "bond length",
+      "brainstorms": [
+        {
+          "idea": "Bicycle Chain Link",
+          "connection": "Linked metal parts make connected spacing easy to visualize."
+        },
+        {
+          "idea": "Handcuff Chain Link",
+          "connection": "It turns the distance between connected units into something tangible."
+        },
+        {
+          "idea": "Zipper Tooth Pair",
+          "connection": "Two joined pieces with visible spacing loosely echo bond length."
+        }
+      ]
+    },
+    {
+      "concept": "boyle's law",
+      "brainstorms": [
+        {
+          "idea": "Inflating Bike Pump",
+          "connection": "It shows pressure and volume changing together in a hands-on way."
+        },
+        {
+          "idea": "Deep Sea Bubble",
+          "connection": "A bubble shrinking under pressure makes the law feel visual and cool."
+        },
+        {
+          "idea": "Swollen Snack Bag",
+          "connection": "Altitude puffing turns gas behavior into a social-media-friendly image."
+        }
+      ]
+    },
+    {
+      "concept": "buffer solution",
+      "brainstorms": [
+        {
+          "idea": "Contact Lens Solution",
+          "connection": "It is a real buffered liquid people already trust near their eyes."
+        },
+        {
+          "idea": "Shock Absorber Spring",
+          "connection": "It loosely mirrors resisting sudden change instead of swinging wildly."
+        },
+        {
+          "idea": "Noise Canceling Earbuds",
+          "connection": "They suggest smoothing out harsh shifts before they hit you."
+        }
+      ]
+    },
+    {
+      "concept": "catalyst",
+      "brainstorms": [
+        {
+          "idea": "Spark Plug Electrode",
+          "connection": "It feels like the tiny trigger that gets a much larger process moving."
+        },
+        {
+          "idea": "Sourdough Starter Jar",
+          "connection": "It gives transformation a living, kitchen-scale kickstart."
+        },
+        {
+          "idea": "Engine Catalytic Converter",
+          "connection": "It points straight to a famous everyday use of catalysis."
+        }
+      ]
+    },
+    {
+      "concept": "chemical bond",
+      "brainstorms": [
+        {
+          "idea": "Velcro Sneaker Strap",
+          "connection": "It captures attachment as a simple, tactile connection."
+        },
+        {
+          "idea": "Magnetic Train Coupler",
+          "connection": "Separate pieces locking together makes bonding easy to picture."
+        },
+        {
+          "idea": "Braided Friendship Bracelet",
+          "connection": "A woven link gives the idea of connection a warmer human feel."
+        }
+      ]
+    },
+    {
+      "concept": "chemical change",
+      "brainstorms": [
+        {
+          "idea": "Rusting Iron Gate",
+          "connection": "Rust is a classic visual transformation that people instantly recognize."
+        },
+        {
+          "idea": "Toasted Marshmallow Puff",
+          "connection": "Browning over heat makes chemical change feel fun and edible."
+        },
+        {
+          "idea": "Burning Autumn Leaf",
+          "connection": "Fire makes irreversible transformation look dramatic in a single object."
+        }
+      ]
+    },
+    {
+      "concept": "chemical compound",
+      "brainstorms": [
+        {
+          "idea": "Table Salt Crystal",
+          "connection": "It is a familiar compound with a simple, iconic form."
+        },
+        {
+          "idea": "Quartz Crystal Point",
+          "connection": "Minerals make compounds feel beautiful instead of purely academic."
+        },
+        {
+          "idea": "Ceramic Coffee Mug",
+          "connection": "It shows compounds as the real materials shaping everyday life."
+        }
+      ]
+    },
+    {
+      "concept": "chemical equilibrium",
+      "brainstorms": [
+        {
+          "idea": "Pendulum Clock Bob",
+          "connection": "Its ongoing back-and-forth motion suggests balance within continuous change."
+        },
+        {
+          "idea": "Revolving Door Panel",
+          "connection": "People move both ways while the overall system stays steady."
+        },
+        {
+          "idea": "Tide Pool Basin",
+          "connection": "It feels like a natural system settling into a shifting balance."
+        }
+      ]
+    },
+    {
+      "concept": "chemical formula",
+      "brainstorms": [
+        {
+          "idea": "Nutrition Facts Label",
+          "connection": "It turns complex contents into a compact readable code."
+        },
+        {
+          "idea": "Ingredient List Sticker",
+          "connection": "A short label standing for what something contains matches the idea well."
+        },
+        {
+          "idea": "Recipe Card Index",
+          "connection": "It suggests a concise recipe-style representation of composition."
+        }
+      ]
+    },
+    {
+      "concept": "chemical kinetics",
+      "brainstorms": [
+        {
+          "idea": "Burning Fuse Rope",
+          "connection": "It makes reaction speed visible second by second."
+        },
+        {
+          "idea": "Dissolving Bath Bomb",
+          "connection": "Fast fizzing turns rate of change into something playful and vivid."
+        },
+        {
+          "idea": "Melting Ice Sculpture",
+          "connection": "A dramatic visual pace of change fits the kinetics theme."
+        }
+      ]
+    },
+    {
+      "concept": "chemical nomenclature",
+      "brainstorms": [
+        {
+          "idea": "Library Spine Label",
+          "connection": "It represents a systematic naming scheme that keeps things identifiable."
+        },
+        {
+          "idea": "Botanical Garden Plaque",
+          "connection": "Formal naming on display gives classification a polished real-world feel."
+        },
+        {
+          "idea": "Vintage Apothecary Label",
+          "connection": "It links chemical names to bottles and identity in a visually rich way."
+        }
+      ]
+    },
+    {
+      "concept": "chemical potential energy",
+      "brainstorms": [
+        {
+          "idea": "Gasoline Jerry Can",
+          "connection": "Fuel is a clean everyday example of stored chemical energy."
+        },
+        {
+          "idea": "Granola Energy Bar",
+          "connection": "Food makes stored chemical energy feel personal and familiar."
+        },
+        {
+          "idea": "Camping Fuel Canister",
+          "connection": "It shows compact energy waiting to be released when needed."
+        }
+      ]
+    }
+  ]
+}

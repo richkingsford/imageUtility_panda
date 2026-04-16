@@ -1,1 +1,18 @@
-Using playwright, go to https://chatgpt.com/images on Chrome (I'm already logged in) and wait for the page to load.  Then create a random image using the "Describe a new image" input box then wait for the image to finish generating.  Once the full image is complete (not partial), grab the image and put it in our own Hello World website along with an editable text input box containing the prompt that was used to create the image. 
+Using playwright, go to https://chatgpt.com/images on Chrome (I'm already logged in) and wait for the page to load. Then create a random image using the "Describe a new image" input box then wait for the image to finish generating. Once the full image is complete (not partial), grab the image and put it in our own Hello World website along with an editable text input box containing the prompt that was used to create the image.
+
+V1 implementation notes:
+
+- `server.js` serves a local Hello World site on `http://127.0.0.1:4173`.
+- `scripts/generate-image.js` uses Playwright with a real Chrome profile to open ChatGPT Images, submit a random prompt, wait for the generated image, save it to `public/generated/latest-image.png`, and update `data/latest.json`.
+- The website reads `data/latest.json` through `/api/latest`, shows the latest image, and preloads the editable prompt input with the prompt that created it.
+
+Expected run flow:
+
+1. Install dependencies with `npm install`.
+2. Start the site with `npm start`.
+3. Run the generator with `npm run generate`.
+
+If Playwright gets redirected to sign-in, you have two options:
+
+1. Rerun with `CHROME_USER_DATA_DIR` pointed at your logged-in Chrome user data directory and close other Chrome windows first.
+2. Start Chrome with a debugging port and rerun with `CHROME_DEBUG_URL=http://127.0.0.1:9222` so the script can attach to an already-open ChatGPT Images tab.

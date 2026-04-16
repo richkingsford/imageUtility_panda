@@ -1,0 +1,348 @@
+{
+  "source": "concepts",
+  "startIndex": 11,
+  "endIndex": 30,
+  "conceptCount": 20,
+  "items": [
+    {
+      "concept": "air pollution",
+      "brainstorms": [
+        {
+          "idea": "Soot Covered Leaf",
+          "connection": "A living surface visibly coated by dirty air feels immediate and real."
+        },
+        {
+          "idea": "Diesel Tailpipe Cloud",
+          "connection": "It turns polluted air into something instantly recognizable and visceral."
+        },
+        {
+          "idea": "Hazy Streetlamp Halo",
+          "connection": "Polluted air often shows up as that fuzzy glow around city lights."
+        }
+      ]
+    },
+    {
+      "concept": "alcohol",
+      "brainstorms": [
+        {
+          "idea": "Whiskey Tumbler Glass",
+          "connection": "It taps into the most familiar everyday association people have with alcohol."
+        },
+        {
+          "idea": "Hand Sanitizer Pump",
+          "connection": "It points to alcohol's practical role outside drinks."
+        },
+        {
+          "idea": "Perfume Spray Bottle",
+          "connection": "Many fragrances rely on alcohol as a fast-evaporating carrier."
+        }
+      ]
+    },
+    {
+      "concept": "aldehyde",
+      "brainstorms": [
+        {
+          "idea": "Vanilla Bean Pod",
+          "connection": "Vanilla's iconic aroma is tied to an aldehyde people instantly recognize."
+        },
+        {
+          "idea": "Cinnamon Bark Curl",
+          "connection": "It hints at cinnamaldehyde through a warm, familiar spice object."
+        },
+        {
+          "idea": "Orange Peel Twist",
+          "connection": "Citrusy scent notes make aldehydes feel sensory instead of abstract."
+        }
+      ]
+    },
+    {
+      "concept": "alkali metals",
+      "brainstorms": [
+        {
+          "idea": "Lithium Phone Battery",
+          "connection": "Lithium makes the alkali metals feel modern and pocket-sized."
+        },
+        {
+          "idea": "Table Salt Crystal",
+          "connection": "Sodium gives this whole metal family an everyday hook."
+        },
+        {
+          "idea": "Banana Peel Curve",
+          "connection": "Potassium links alkali metals to a familiar food icon."
+        }
+      ]
+    },
+    {
+      "concept": "alkane",
+      "brainstorms": [
+        {
+          "idea": "Candle Wax Drip",
+          "connection": "Wax is a simple, tangible way to hint at saturated hydrocarbons."
+        },
+        {
+          "idea": "Camping Propane Tank",
+          "connection": "Propane makes alkanes feel useful and outdoorsy instead of textbook flat."
+        },
+        {
+          "idea": "Asphalt Road Stripe",
+          "connection": "Road materials connect hydrocarbon chains to the built world."
+        }
+      ]
+    },
+    {
+      "concept": "alkene",
+      "brainstorms": [
+        {
+          "idea": "Plastic Grocery Bag",
+          "connection": "Common plastics make alkene chemistry feel familiar and everywhere."
+        },
+        {
+          "idea": "Ripening Banana Peel",
+          "connection": "Fruit ripening ties directly to ethylene, a famous alkene."
+        },
+        {
+          "idea": "Vinyl Shower Curtain",
+          "connection": "Vinyl products give alkenes a bold everyday material identity."
+        }
+      ]
+    },
+    {
+      "concept": "alkyne",
+      "brainstorms": [
+        {
+          "idea": "Blue Flame Lighter",
+          "connection": "Its hot flame echoes the energetic feel people associate with acetylene."
+        },
+        {
+          "idea": "Razor Straight Arrow",
+          "connection": "The sharp linear form loosely mirrors the geometry of a triple bond."
+        },
+        {
+          "idea": "Neon Tube Sign",
+          "connection": "It gives alkyne chemistry a vivid, high-energy visual instead of a dry formula."
+        }
+      ]
+    },
+    {
+      "concept": "allotropes",
+      "brainstorms": [
+        {
+          "idea": "Diamond Engagement Ring",
+          "connection": "Diamond is the flashy allotrope everyone instantly knows."
+        },
+        {
+          "idea": "Pencil Graphite Tip",
+          "connection": "Graphite shows how the same element can look completely different."
+        },
+        {
+          "idea": "Charcoal Briquette Chunk",
+          "connection": "It adds a rough, familiar carbon form to the contrast."
+        }
+      ]
+    },
+    {
+      "concept": "amino acid",
+      "brainstorms": [
+        {
+          "idea": "Protein Shake Bottle",
+          "connection": "It gives amino acids an instantly recognizable fitness culture link."
+        },
+        {
+          "idea": "Salmon Sushi Slice",
+          "connection": "Food makes the building blocks of protein feel concrete and edible."
+        },
+        {
+          "idea": "Peacock Feather Plume",
+          "connection": "Amino acids build the proteins behind striking biological structures like feathers."
+        }
+      ]
+    },
+    {
+      "concept": "amphiphilic molecules",
+      "brainstorms": [
+        {
+          "idea": "Soap Bubble Orb",
+          "connection": "Soap is the most visual everyday example of amphiphilic behavior."
+        },
+        {
+          "idea": "Oil Slick Droplet",
+          "connection": "It hints at the tension between oily and watery worlds."
+        },
+        {
+          "idea": "Lotus Leaf Pad",
+          "connection": "Its dramatic water behavior makes surface chemistry feel cool and natural."
+        }
+      ]
+    },
+    {
+      "concept": "anion",
+      "brainstorms": [
+        {
+          "idea": "Battery Minus Terminal",
+          "connection": "The minus sign makes negative charge instantly legible."
+        },
+        {
+          "idea": "Static Cling Balloon",
+          "connection": "Extra electrons give negative charge a playful, familiar visual."
+        },
+        {
+          "idea": "Ocean Salt Crystal",
+          "connection": "Chloride helps ground the idea of anions in everyday salt."
+        }
+      ]
+    },
+    {
+      "concept": "anode",
+      "brainstorms": [
+        {
+          "idea": "Lithium Battery Cell",
+          "connection": "It ties the anode to something modern people handle all the time."
+        },
+        {
+          "idea": "Sacrificial Dock Zinc",
+          "connection": "A zinc block on marine hardware makes the anode role feel real-world rugged."
+        },
+        {
+          "idea": "Rusting Iron Nail",
+          "connection": "Oxidation on metal gives the anode idea a simple visible story."
+        }
+      ]
+    },
+    {
+      "concept": "aqueous solution",
+      "brainstorms": [
+        {
+          "idea": "Lemonade Glass Pitcher",
+          "connection": "Water with dissolved flavor makes the idea instantly approachable."
+        },
+        {
+          "idea": "Sports Drink Bottle",
+          "connection": "It suggests water carrying dissolved sugars, salts, and color."
+        },
+        {
+          "idea": "Snow Globe Swirl",
+          "connection": "It gives liquid mixing a visually satisfying, shareable feel."
+        }
+      ]
+    },
+    {
+      "concept": "aromatic compound",
+      "brainstorms": [
+        {
+          "idea": "Perfume Atomizer Bottle",
+          "connection": "Fragrance makes aromatic compounds feel sensory and stylish."
+        },
+        {
+          "idea": "Citrus Peel Spiral",
+          "connection": "Its punchy scent links chemistry to something instantly smelled and remembered."
+        },
+        {
+          "idea": "Cedar Cigar Box",
+          "connection": "Rich woody aroma gives the concept a premium, tangible identity."
+        }
+      ]
+    },
+    {
+      "concept": "atom",
+      "brainstorms": [
+        {
+          "idea": "Single Sand Grain",
+          "connection": "It feels like the smallest visible piece of a bigger whole."
+        },
+        {
+          "idea": "Sunlit Dust Mote",
+          "connection": "Tiny floating specks make invisible building blocks easier to imagine."
+        },
+        {
+          "idea": "Poppy Seed Speck",
+          "connection": "A tiny seed gives the atom idea a simple size metaphor."
+        }
+      ]
+    },
+    {
+      "concept": "atomic mass",
+      "brainstorms": [
+        {
+          "idea": "Helium Party Balloon",
+          "connection": "It suggests a very light element in a way people instantly feel."
+        },
+        {
+          "idea": "Lead Diving Weight",
+          "connection": "Heavy lead gives atomic mass a blunt, tactile contrast."
+        },
+        {
+          "idea": "Iron Meteorite Chunk",
+          "connection": "A dense space rock makes elemental heft feel dramatic."
+        }
+      ]
+    },
+    {
+      "concept": "atomic number",
+      "brainstorms": [
+        {
+          "idea": "Passport Number Stamp",
+          "connection": "It captures the idea of identity being defined by a number."
+        },
+        {
+          "idea": "Racing Bib Number",
+          "connection": "A simple number tag makes one entry distinct from another."
+        },
+        {
+          "idea": "Barcode Sticker Label",
+          "connection": "It turns numeric identity into something visual and instantly familiar."
+        }
+      ]
+    },
+    {
+      "concept": "average kinetic energy",
+      "brainstorms": [
+        {
+          "idea": "Boiling Tea Kettle",
+          "connection": "More heat means more particle motion, which this object makes easy to picture."
+        },
+        {
+          "idea": "Shaking Soda Can",
+          "connection": "It suggests restless motion building inside a familiar object."
+        },
+        {
+          "idea": "Popping Corn Kernel",
+          "connection": "The jump from still to explosive motion gives energy a memorable hook."
+        }
+      ]
+    },
+    {
+      "concept": "balanced equation",
+      "brainstorms": [
+        {
+          "idea": "Double Pan Scale",
+          "connection": "It makes equal amounts on both sides feel instantly obvious."
+        },
+        {
+          "idea": "Centered Playground Seesaw",
+          "connection": "A level seesaw is a clean visual metaphor for balance."
+        },
+        {
+          "idea": "Symmetric Suspension Bridge",
+          "connection": "Matching forces on each side echo the idea of conserved totals."
+        }
+      ]
+    },
+    {
+      "concept": "band of stability",
+      "brainstorms": [
+        {
+          "idea": "Tightrope Safety Net",
+          "connection": "It hints at a narrow zone where things stay secure instead of falling apart."
+        },
+        {
+          "idea": "Jenga Tower Center",
+          "connection": "There is a sweet spot where the structure holds before instability takes over."
+        },
+        {
+          "idea": "Skateboard Balance Point",
+          "connection": "It captures the idea of stability living inside a limited range."
+        }
+      ]
+    }
+  ]
+}

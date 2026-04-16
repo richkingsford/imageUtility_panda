@@ -1,0 +1,348 @@
+{
+  "source": "concepts",
+  "startIndex": 151,
+  "endIndex": 170,
+  "conceptCount": 20,
+  "items": [
+    {
+      "concept": "precision",
+      "brainstorms": [
+        {
+          "idea": "Swiss Watch Mechanism",
+          "connection": "Its tightly repeated motion gives precision a premium visual feel."
+        },
+        {
+          "idea": "Digital Caliper Screen",
+          "connection": "It makes tiny consistent measurements feel crisp and exact."
+        },
+        {
+          "idea": "Laser Cut Key",
+          "connection": "Its exact edges suggest repeatable accuracy at small scale."
+        }
+      ]
+    },
+    {
+      "concept": "pressure",
+      "brainstorms": [
+        {
+          "idea": "Pressure Cooker Valve",
+          "connection": "It is a vivid everyday object built around managing pressure."
+        },
+        {
+          "idea": "Deep Sea Helmet",
+          "connection": "It hints at intense external pressure in a dramatic way."
+        },
+        {
+          "idea": "Compressed Air Tank",
+          "connection": "Stored gas makes pressure feel tangible and powerful."
+        }
+      ]
+    },
+    {
+      "concept": "product",
+      "brainstorms": [
+        {
+          "idea": "Fresh Bread Loaf",
+          "connection": "It is the finished result after ingredients and heat do their work."
+        },
+        {
+          "idea": "Developed Polaroid Photo",
+          "connection": "It captures the idea of a final outcome appearing after a process."
+        },
+        {
+          "idea": "Finished Ceramic Mug",
+          "connection": "A completed object makes product feel concrete and satisfying."
+        }
+      ]
+    },
+    {
+      "concept": "protein",
+      "brainstorms": [
+        {
+          "idea": "Spider Silk Strand",
+          "connection": "It shows protein as a real material with surprising strength."
+        },
+        {
+          "idea": "Grilled Salmon Fillet",
+          "connection": "Food makes protein feel familiar and instantly recognizable."
+        },
+        {
+          "idea": "Chicken Egg White",
+          "connection": "It gives protein a simple everyday kitchen connection."
+        }
+      ]
+    },
+    {
+      "concept": "proton",
+      "brainstorms": [
+        {
+          "idea": "Battery Plus Terminal",
+          "connection": "The plus sign gives proton its simplest real-world visual cue."
+        },
+        {
+          "idea": "Peach Pit Core",
+          "connection": "A dense central core loosely echoes the proton's place in the nucleus."
+        },
+        {
+          "idea": "Boxing Ring Corner",
+          "connection": "The red positive corner gives the idea a bold graphic hook."
+        }
+      ]
+    },
+    {
+      "concept": "quantum number",
+      "brainstorms": [
+        {
+          "idea": "Library Call Number",
+          "connection": "It identifies an exact place within a larger organized system."
+        },
+        {
+          "idea": "Airline Boarding Pass",
+          "connection": "Several coded details pinpoint one specific state and location."
+        },
+        {
+          "idea": "Apartment Door Number",
+          "connection": "It gives identity and position through a compact label."
+        }
+      ]
+    },
+    {
+      "concept": "radiation",
+      "brainstorms": [
+        {
+          "idea": "Sun Tanning Lamp",
+          "connection": "It makes invisible electromagnetic radiation feel immediate and familiar."
+        },
+        {
+          "idea": "Glowing Radium Clock",
+          "connection": "It links radiation to a striking historical object people remember."
+        },
+        {
+          "idea": "Microwave Oven Door",
+          "connection": "It hints at contained radiation in an everyday appliance."
+        }
+      ]
+    },
+    {
+      "concept": "radioactive decay",
+      "brainstorms": [
+        {
+          "idea": "Fading Radium Dial",
+          "connection": "Its glow dimming over time makes decay feel visual and real."
+        },
+        {
+          "idea": "Smoke Detector Disk",
+          "connection": "It hides radioactive material inside a familiar household object."
+        },
+        {
+          "idea": "Ancient Lava Pebble",
+          "connection": "Old rock hints at isotopes slowly changing over immense time."
+        }
+      ]
+    },
+    {
+      "concept": "rate of reaction",
+      "brainstorms": [
+        {
+          "idea": "Burning Fuse Rope",
+          "connection": "It makes reaction speed easy to watch second by second."
+        },
+        {
+          "idea": "Fizzing Bath Bomb",
+          "connection": "Fast bubbling gives the idea a fun and shareable pace."
+        },
+        {
+          "idea": "Ripening Banana Peel",
+          "connection": "A slower visible change helps contrast reaction rates naturally."
+        }
+      ]
+    },
+    {
+      "concept": "reactant",
+      "brainstorms": [
+        {
+          "idea": "Unpopped Popcorn Kernel",
+          "connection": "It is the starting material before heat turns it into something new."
+        },
+        {
+          "idea": "Unlit Match Head",
+          "connection": "It captures the idea of a substance waiting to react."
+        },
+        {
+          "idea": "Raw Bread Dough",
+          "connection": "It is the before-state that enters a transformation process."
+        }
+      ]
+    },
+    {
+      "concept": "reaction intermediate",
+      "brainstorms": [
+        {
+          "idea": "Half Popped Kernel",
+          "connection": "It lives in the brief in-between stage between start and finish."
+        },
+        {
+          "idea": "Molten Glass Blob",
+          "connection": "It is neither raw material nor finished object, just a transition state."
+        },
+        {
+          "idea": "Rising Bread Dough",
+          "connection": "It captures a temporary stage on the way to the final product."
+        }
+      ]
+    },
+    {
+      "concept": "reaction mechanism",
+      "brainstorms": [
+        {
+          "idea": "Rube Goldberg Machine",
+          "connection": "It turns a multistep process into a single memorable object."
+        },
+        {
+          "idea": "Domino Chain Track",
+          "connection": "One step triggers the next in a clear sequential pattern."
+        },
+        {
+          "idea": "Watch Gear Train",
+          "connection": "Interlocking steps make the hidden pathway feel mechanical and real."
+        }
+      ]
+    },
+    {
+      "concept": "recrystallization",
+      "brainstorms": [
+        {
+          "idea": "Rock Candy Stick",
+          "connection": "Crystal growth out of solution gives the concept a sweet visual hook."
+        },
+        {
+          "idea": "Snowflake Window Frost",
+          "connection": "It turns crystal formation into something delicate and instantly visual."
+        },
+        {
+          "idea": "Sea Salt Crystal",
+          "connection": "It makes purified solid formation feel natural and familiar."
+        }
+      ]
+    },
+    {
+      "concept": "redox reaction",
+      "brainstorms": [
+        {
+          "idea": "Rusting Bicycle Chain",
+          "connection": "Rust gives oxidation and reduction a simple real-world story."
+        },
+        {
+          "idea": "Glowing Campfire Ember",
+          "connection": "It captures electron transfer through a vivid burning object."
+        },
+        {
+          "idea": "Tarnished Silver Spoon",
+          "connection": "Surface change makes redox chemistry feel close to everyday life."
+        }
+      ]
+    },
+    {
+      "concept": "reducing agent",
+      "brainstorms": [
+        {
+          "idea": "Vitamin C Tablet",
+          "connection": "Its antioxidant role makes electron donation feel familiar."
+        },
+        {
+          "idea": "Anti Tarnish Cloth",
+          "connection": "It suggests reversing oxidation in a way people can picture."
+        },
+        {
+          "idea": "Sacrificial Zinc Block",
+          "connection": "It gives up itself to protect something else, which fits the concept nicely."
+        }
+      ]
+    },
+    {
+      "concept": "resonance",
+      "brainstorms": [
+        {
+          "idea": "Tuning Fork Prong",
+          "connection": "It gives resonance an intuitive real-world vibration metaphor."
+        },
+        {
+          "idea": "Singing Wine Glass",
+          "connection": "A ringing glass makes shared vibration feel elegant and memorable."
+        },
+        {
+          "idea": "Echo Chamber Shell",
+          "connection": "It hints at energy distributed across a larger space."
+        }
+      ]
+    },
+    {
+      "concept": "saturated compound",
+      "brainstorms": [
+        {
+          "idea": "Paraffin Wax Candle",
+          "connection": "Wax gives saturated hydrocarbons a familiar everyday material form."
+        },
+        {
+          "idea": "Beeswax Lip Balm",
+          "connection": "It keeps the concept soft, relatable, and product-friendly."
+        },
+        {
+          "idea": "Coconut Oil Jar",
+          "connection": "It loosely connects saturation to familiar fats people know."
+        }
+      ]
+    },
+    {
+      "concept": "scientific method",
+      "brainstorms": [
+        {
+          "idea": "Field Notes Journal",
+          "connection": "Observation and record keeping are the heart of the process."
+        },
+        {
+          "idea": "Trail Camera Trap",
+          "connection": "It makes evidence gathering feel adventurous instead of textbooky."
+        },
+        {
+          "idea": "Detective Evidence Board",
+          "connection": "It turns hypothesis, testing, and pattern finding into a vivid image."
+        }
+      ]
+    },
+    {
+      "concept": "second law of thermodynamics",
+      "brainstorms": [
+        {
+          "idea": "Melting Ice Cream",
+          "connection": "It is a perfect everyday symbol of order slipping toward disorder."
+        },
+        {
+          "idea": "Shattered Wine Glass",
+          "connection": "Breaking into many pieces gives the law a dramatic one-way feel."
+        },
+        {
+          "idea": "Cooling Coffee Mug",
+          "connection": "Heat spreading out naturally captures the idea in a simple scene."
+        }
+      ]
+    },
+    {
+      "concept": "significant figures",
+      "brainstorms": [
+        {
+          "idea": "Digital Kitchen Scale",
+          "connection": "Its displayed digits make meaningful precision feel concrete."
+        },
+        {
+          "idea": "Laser Etched Ruler",
+          "connection": "Fine markings show that not every decimal place carries equal meaning."
+        },
+        {
+          "idea": "Marked Measuring Tape",
+          "connection": "It ties recorded numbers directly to practical measurement."
+        }
+      ]
+    }
+  ]
+}

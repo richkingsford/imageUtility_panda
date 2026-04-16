@@ -1,0 +1,21 @@
+{
+  "name": "imageutility-panda",
+  "version": "1.0.0",
+  "description": "V1 image utility that captures a ChatGPT-generated image into a local Hello World site.",
+  "main": "server.js",
+  "scripts": {
+    "generate": "node scripts/generate-image.js",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "playwright",
+    "chatgpt",
+    "image"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.53.0"
+  }
+}

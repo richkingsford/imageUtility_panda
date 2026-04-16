@@ -1,0 +1,348 @@
+{
+  "source": "concepts",
+  "startIndex": 71,
+  "endIndex": 90,
+  "conceptCount": 20,
+  "items": [
+    {
+      "concept": "electrochemical cell",
+      "brainstorms": [
+        {
+          "idea": "Electric Car Battery",
+          "connection": "It turns stored chemistry into usable power in a very modern object."
+        },
+        {
+          "idea": "AA Battery Cell",
+          "connection": "A tiny battery makes the concept feel familiar and pocket-sized."
+        },
+        {
+          "idea": "Lemon Clock Battery",
+          "connection": "It gives electrochemistry a playful DIY visual hook."
+        }
+      ]
+    },
+    {
+      "concept": "electrolyte",
+      "brainstorms": [
+        {
+          "idea": "Sports Drink Bottle",
+          "connection": "It is the most recognizable everyday source of electrolytes."
+        },
+        {
+          "idea": "Coconut Water Carton",
+          "connection": "It links electrolytes to hydration in a natural, shareable way."
+        },
+        {
+          "idea": "Hydration Tablet Tube",
+          "connection": "It suggests ions dissolving into water for quick replenishment."
+        }
+      ]
+    },
+    {
+      "concept": "electromagnetic spectrum",
+      "brainstorms": [
+        {
+          "idea": "Glass Prism Pendant",
+          "connection": "A prism makes the visible slice of the spectrum instantly beautiful."
+        },
+        {
+          "idea": "Infrared TV Remote",
+          "connection": "It points to invisible light people use every day without seeing."
+        },
+        {
+          "idea": "Ham Radio Tower",
+          "connection": "It stretches the idea out to the radio-wave end of the spectrum."
+        }
+      ]
+    },
+    {
+      "concept": "electron",
+      "brainstorms": [
+        {
+          "idea": "Static Cling Balloon",
+          "connection": "It gives electrons a playful negative-charge connection people remember."
+        },
+        {
+          "idea": "Plasma Globe Filament",
+          "connection": "The glowing arcs make moving electrons feel vivid and alive."
+        },
+        {
+          "idea": "Neon Sign Spark",
+          "connection": "It hints at electrons creating light in a bold city-style object."
+        }
+      ]
+    },
+    {
+      "concept": "electron configuration",
+      "brainstorms": [
+        {
+          "idea": "Stadium Seating Bowl",
+          "connection": "Its organized tiers loosely mirror electrons arranged in levels."
+        },
+        {
+          "idea": "Apartment Window Grid",
+          "connection": "It suggests many allowed positions filled in a structured pattern."
+        },
+        {
+          "idea": "Parking Garage Spiral",
+          "connection": "Layered parking levels give the arrangement idea a real-world shape."
+        }
+      ]
+    },
+    {
+      "concept": "electron pair",
+      "brainstorms": [
+        {
+          "idea": "Bobby Pin Clip",
+          "connection": "Two close sides sharing one small space fits the pairing idea nicely."
+        },
+        {
+          "idea": "Double Knot Bow",
+          "connection": "A matched pair of loops makes togetherness feel compact and stable."
+        },
+        {
+          "idea": "Butterfly Hair Clip",
+          "connection": "Its mirrored sides give the concept a simple paired visual."
+        }
+      ]
+    },
+    {
+      "concept": "electronegativity",
+      "brainstorms": [
+        {
+          "idea": "Powerful Horseshoe Magnet",
+          "connection": "It is an easy metaphor for strongly pulling something closer."
+        },
+        {
+          "idea": "Velcro Catch Mitt",
+          "connection": "It suggests grabbing and holding tightly instead of letting go."
+        },
+        {
+          "idea": "Static Laundry Shirt",
+          "connection": "Clinging fabric makes attraction feel annoying but memorable."
+        }
+      ]
+    },
+    {
+      "concept": "element",
+      "brainstorms": [
+        {
+          "idea": "Gold Nugget Pendant",
+          "connection": "Gold gives the idea of a pure element a flashy familiar symbol."
+        },
+        {
+          "idea": "Helium Party Balloon",
+          "connection": "It ties an element to a floating object people instantly recognize."
+        },
+        {
+          "idea": "Iron Meteorite Chunk",
+          "connection": "A space rock makes elemental matter feel dramatic and real."
+        }
+      ]
+    },
+    {
+      "concept": "empirical formula",
+      "brainstorms": [
+        {
+          "idea": "Cocktail Recipe Card",
+          "connection": "It captures the idea of a simplified ingredient ratio."
+        },
+        {
+          "idea": "Trail Map Legend",
+          "connection": "A compact key stands in for something bigger and more detailed."
+        },
+        {
+          "idea": "LEGO Build Manual",
+          "connection": "It reduces a complex result into the simplest useful pattern."
+        }
+      ]
+    },
+    {
+      "concept": "energy conservation",
+      "brainstorms": [
+        {
+          "idea": "Newton Cradle Desktoy",
+          "connection": "It shows energy moving through a system instead of disappearing."
+        },
+        {
+          "idea": "Roller Coaster Car",
+          "connection": "It turns energy shifts between height and speed into something exciting."
+        },
+        {
+          "idea": "Hydroelectric Dam Turbine",
+          "connection": "It makes energy transfer feel massive and visible."
+        }
+      ]
+    },
+    {
+      "concept": "energy levels",
+      "brainstorms": [
+        {
+          "idea": "Tiered Cake Stand",
+          "connection": "Its stacked levels make discrete steps easy to picture."
+        },
+        {
+          "idea": "Elevator Button Panel",
+          "connection": "Separate floors are a relatable metaphor for allowed energy states."
+        },
+        {
+          "idea": "Mountain Trail Switchback",
+          "connection": "It suggests climbing through distinct levels rather than a smooth blur."
+        }
+      ]
+    },
+    {
+      "concept": "enthalpy",
+      "brainstorms": [
+        {
+          "idea": "Hot Coffee Thermos",
+          "connection": "It gives stored heat content a cozy everyday form."
+        },
+        {
+          "idea": "Reusable Heat Pack",
+          "connection": "It hints at energy held inside and released when triggered."
+        },
+        {
+          "idea": "Sunbaked Desert Rock",
+          "connection": "A heated rock makes thermal content feel physical and natural."
+        }
+      ]
+    },
+    {
+      "concept": "entropy",
+      "brainstorms": [
+        {
+          "idea": "Tangled Earbud Cords",
+          "connection": "They instantly communicate disorder without needing any explanation."
+        },
+        {
+          "idea": "Shattered Glass Bottle",
+          "connection": "Breaking into many scattered pieces fits entropy viscerally."
+        },
+        {
+          "idea": "Jumbled Puzzle Box",
+          "connection": "Loose mixed pieces give disorder a familiar, frustrating form."
+        }
+      ]
+    },
+    {
+      "concept": "enzyme",
+      "brainstorms": [
+        {
+          "idea": "Pineapple Ring Slice",
+          "connection": "Pineapple connects enzymes to food in a vivid, tasty way."
+        },
+        {
+          "idea": "Laundry Detergent Pod",
+          "connection": "It shows enzymes doing useful work in an everyday product."
+        },
+        {
+          "idea": "Papaya Fruit Wedge",
+          "connection": "Papaya gives the concept a natural, tropical feel."
+        }
+      ]
+    },
+    {
+      "concept": "equilibrium",
+      "brainstorms": [
+        {
+          "idea": "Balanced Rock Stack",
+          "connection": "It makes stable balance feel calm, visual, and shareable."
+        },
+        {
+          "idea": "Level Seesaw Plank",
+          "connection": "A perfectly level seesaw is a clean symbol for equilibrium."
+        },
+        {
+          "idea": "Hanging Mobile Sculpture",
+          "connection": "Its parts settle into a balanced arrangement that still feels alive."
+        }
+      ]
+    },
+    {
+      "concept": "esterification",
+      "brainstorms": [
+        {
+          "idea": "Banana Candy Chew",
+          "connection": "Esters are behind the fruity smell that candy instantly suggests."
+        },
+        {
+          "idea": "Pineapple Air Freshener",
+          "connection": "It turns ester scents into a bold everyday object."
+        },
+        {
+          "idea": "Strawberry Lip Balm",
+          "connection": "Sweet fruity aroma gives ester formation a relatable sensory hook."
+        }
+      ]
+    },
+    {
+      "concept": "ether",
+      "brainstorms": [
+        {
+          "idea": "Aerosol Starter Can",
+          "connection": "Starter fluids give ethers a real-world fuel-and-solvent connection."
+        },
+        {
+          "idea": "Vintage Anesthesia Mask",
+          "connection": "It nods to ether's famous historical role in medicine."
+        },
+        {
+          "idea": "Perfume Spray Bottle",
+          "connection": "Many fragrant compounds and solvents make ethers feel less abstract."
+        }
+      ]
+    },
+    {
+      "concept": "evaporation",
+      "brainstorms": [
+        {
+          "idea": "Sunlit Puddle Patch",
+          "connection": "A shrinking puddle is one of the clearest everyday evaporation visuals."
+        },
+        {
+          "idea": "Drying Beach Towel",
+          "connection": "It shows water leaving a surface in a relatable outdoor scene."
+        },
+        {
+          "idea": "Salt Flat Puddle",
+          "connection": "It hints at water vanishing and leaving material behind."
+        }
+      ]
+    },
+    {
+      "concept": "exothermic reaction",
+      "brainstorms": [
+        {
+          "idea": "Hand Warmer Packet",
+          "connection": "It gives off heat in a small object people can literally feel."
+        },
+        {
+          "idea": "Firework Sparkler Stick",
+          "connection": "It makes heat release bright, festive, and obvious."
+        },
+        {
+          "idea": "Campfire Ember Log",
+          "connection": "A glowing log turns released heat into a primal visual."
+        }
+      ]
+    },
+    {
+      "concept": "filtration",
+      "brainstorms": [
+        {
+          "idea": "Water Pitcher Filter",
+          "connection": "It is a clean everyday object for separating unwanted particles."
+        },
+        {
+          "idea": "Camping Straw Filter",
+          "connection": "It makes filtration feel adventurous and survival-ready."
+        },
+        {
+          "idea": "Dusty Furnace Filter",
+          "connection": "The trapped debris makes filtering instantly visible."
+        }
+      ]
+    }
+  ]
+}

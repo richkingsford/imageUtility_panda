@@ -1,0 +1,348 @@
+{
+  "source": "concepts",
+  "startIndex": 51,
+  "endIndex": 70,
+  "conceptCount": 20,
+  "items": [
+    {
+      "concept": "chemical reaction",
+      "brainstorms": [
+        {
+          "idea": "Rusting Bicycle Chain",
+          "connection": "Rust makes an everyday chemical change instantly visible."
+        },
+        {
+          "idea": "Burning Match Head",
+          "connection": "It turns reaction into a fast, dramatic flash people recognize."
+        },
+        {
+          "idea": "Toasted Marshmallow Skewer",
+          "connection": "Heat-driven transformation makes chemistry feel fun and familiar."
+        }
+      ]
+    },
+    {
+      "concept": "chemical reactivity",
+      "brainstorms": [
+        {
+          "idea": "Fizzing Antacid Tablet",
+          "connection": "Its quick bubbling shows a substance reacting eagerly."
+        },
+        {
+          "idea": "Tarnished Silver Spoon",
+          "connection": "Surface change hints at how readily a material reacts over time."
+        },
+        {
+          "idea": "Cracked Glow Stick",
+          "connection": "It suggests a fast response once the contents are triggered."
+        }
+      ]
+    },
+    {
+      "concept": "chemical solution",
+      "brainstorms": [
+        {
+          "idea": "Blue Mouthwash Bottle",
+          "connection": "It is a familiar liquid mixture with dissolved ingredients."
+        },
+        {
+          "idea": "Iced Tea Pitcher",
+          "connection": "It makes dissolved flavor in water feel simple and real."
+        },
+        {
+          "idea": "Sports Drink Bottle",
+          "connection": "It shows water carrying sugars, salts, and color together."
+        }
+      ]
+    },
+    {
+      "concept": "chemical stability",
+      "brainstorms": [
+        {
+          "idea": "Ancient Bronze Coin",
+          "connection": "Its long survival suggests a material that resists change well."
+        },
+        {
+          "idea": "Granite Kitchen Counter",
+          "connection": "Stone gives stability a sturdy, everyday visual anchor."
+        },
+        {
+          "idea": "Sealed Food Can",
+          "connection": "It implies contents designed to stay unchanged over time."
+        }
+      ]
+    },
+    {
+      "concept": "chirality",
+      "brainstorms": [
+        {
+          "idea": "Left Hand Glove",
+          "connection": "It captures handedness perfectly because the mirror version is different."
+        },
+        {
+          "idea": "Spiral Snail Shell",
+          "connection": "Its twist direction gives chirality a striking natural form."
+        },
+        {
+          "idea": "Curled Ram Horn",
+          "connection": "A directional spiral makes left-versus-right easy to feel."
+        }
+      ]
+    },
+    {
+      "concept": "colloid",
+      "brainstorms": [
+        {
+          "idea": "Whipped Cream Swirl",
+          "connection": "Foam makes a colloid look rich, light, and instantly recognizable."
+        },
+        {
+          "idea": "Milk Glass Bottle",
+          "connection": "Milk is a classic everyday colloid with a clean visual identity."
+        },
+        {
+          "idea": "Shaving Cream Can",
+          "connection": "It points to a foamy colloid people see in real life."
+        }
+      ]
+    },
+    {
+      "concept": "combustion reaction",
+      "brainstorms": [
+        {
+          "idea": "Rocket Firework Stick",
+          "connection": "It turns burning into a loud, shareable burst of energy."
+        },
+        {
+          "idea": "Charred Campfire Log",
+          "connection": "A burned log makes combustion feel earthy and obvious."
+        },
+        {
+          "idea": "Jet Engine Turbine",
+          "connection": "It ties combustion to powerful motion in the real world."
+        }
+      ]
+    },
+    {
+      "concept": "concentration",
+      "brainstorms": [
+        {
+          "idea": "Espresso Shot Glass",
+          "connection": "A tiny volume with intense flavor fits concentration neatly."
+        },
+        {
+          "idea": "Perfume Sample Vial",
+          "connection": "Small size and strong scent suggest a packed mixture."
+        },
+        {
+          "idea": "Dark Soy Bottle",
+          "connection": "Its dense color hints at a high amount in little liquid."
+        }
+      ]
+    },
+    {
+      "concept": "condensation reaction",
+      "brainstorms": [
+        {
+          "idea": "Pearl Necklace Strand",
+          "connection": "It suggests small units joining into a longer connected structure."
+        },
+        {
+          "idea": "Linked Paperclip Chain",
+          "connection": "Separate pieces snapping into a growing chain loosely fits the idea."
+        },
+        {
+          "idea": "Knitted Wool Scarf",
+          "connection": "It conveys many small pieces becoming one larger creation."
+        }
+      ]
+    },
+    {
+      "concept": "covalent bond",
+      "brainstorms": [
+        {
+          "idea": "Braided Friendship Bracelet",
+          "connection": "Its strength comes from parts closely sharing a connection."
+        },
+        {
+          "idea": "Wedding Ring Band",
+          "connection": "It gives bonding a simple, emotionally sticky visual."
+        },
+        {
+          "idea": "Woven Hammock Net",
+          "connection": "Shared structure makes the idea of linked parts feel tangible."
+        }
+      ]
+    },
+    {
+      "concept": "critical temperature",
+      "brainstorms": [
+        {
+          "idea": "Pressure Cooker Valve",
+          "connection": "It hints at a heat threshold where behavior changes dramatically."
+        },
+        {
+          "idea": "Dry Ice Pellet",
+          "connection": "It gives temperature-dependent phase behavior a memorable visual."
+        },
+        {
+          "idea": "Thermal Warning Gauge",
+          "connection": "A threshold marker is a relatable way to show a critical point."
+        }
+      ]
+    },
+    {
+      "concept": "crystalline solid",
+      "brainstorms": [
+        {
+          "idea": "Snowflake Ice Crystal",
+          "connection": "Its repeating geometry makes crystal structure instantly beautiful."
+        },
+        {
+          "idea": "Quartz Geode Cluster",
+          "connection": "Natural crystal faces give the concept visual drama."
+        },
+        {
+          "idea": "Table Salt Crystal",
+          "connection": "A familiar crystal turns the idea into something everyday."
+        }
+      ]
+    },
+    {
+      "concept": "density",
+      "brainstorms": [
+        {
+          "idea": "Lead Fishing Sinker",
+          "connection": "Its surprising heaviness in a small object nails density."
+        },
+        {
+          "idea": "Pumice Lava Rock",
+          "connection": "It contrasts by looking solid while staying unusually light."
+        },
+        {
+          "idea": "Bowling Ball Core",
+          "connection": "Compact weight makes density feel physical and obvious."
+        }
+      ]
+    },
+    {
+      "concept": "diatomic molecules",
+      "brainstorms": [
+        {
+          "idea": "Scuba Oxygen Tank",
+          "connection": "It links the idea to oxygen, a famous diatomic gas."
+        },
+        {
+          "idea": "Hydrogen Fuel Cell",
+          "connection": "Hydrogen makes the two-atom concept feel modern and useful."
+        },
+        {
+          "idea": "Nitrogen Tire Inflator",
+          "connection": "Nitrogen connects diatomic molecules to everyday performance gear."
+        }
+      ]
+    },
+    {
+      "concept": "diffusion",
+      "brainstorms": [
+        {
+          "idea": "Perfume Atomizer Bottle",
+          "connection": "Its scent spreading through air is diffusion people instantly know."
+        },
+        {
+          "idea": "Tea Bag Sachet",
+          "connection": "Flavor drifting into water makes diffusion easy to picture."
+        },
+        {
+          "idea": "Ink Dropper Bottle",
+          "connection": "A drop spreading outward gives the concept a clean visual story."
+        }
+      ]
+    },
+    {
+      "concept": "dilution",
+      "brainstorms": [
+        {
+          "idea": "Orange Juice Pitcher",
+          "connection": "It suggests a drink becoming weaker as more water is added."
+        },
+        {
+          "idea": "Soap Refill Bottle",
+          "connection": "Many cleaners are mixed down before use, which fits dilution well."
+        },
+        {
+          "idea": "Watercolor Paint Tray",
+          "connection": "Adding water to soften color makes dilution visually obvious."
+        }
+      ]
+    },
+    {
+      "concept": "dipole-dipole forces",
+      "brainstorms": [
+        {
+          "idea": "Bar Magnet Rod",
+          "connection": "Opposite ends attracting gives a relatable stand-in for polar pull."
+        },
+        {
+          "idea": "Compass Needle Arrow",
+          "connection": "Directional attraction helps make invisible forces feel concrete."
+        },
+        {
+          "idea": "Water Droplet Bead",
+          "connection": "Water's polarity makes tiny droplets a natural visual cue."
+        }
+      ]
+    },
+    {
+      "concept": "distillation",
+      "brainstorms": [
+        {
+          "idea": "Copper Moonshine Still",
+          "connection": "It is a classic object for separating liquids by boiling."
+        },
+        {
+          "idea": "Perfume Glass Bottle",
+          "connection": "Fragrance links distillation to something stylish and familiar."
+        },
+        {
+          "idea": "Whistling Tea Kettle",
+          "connection": "Steam rising and condensing hints at the separation process."
+        }
+      ]
+    },
+    {
+      "concept": "double bond",
+      "brainstorms": [
+        {
+          "idea": "Double Zipper Teeth",
+          "connection": "Two close connections suggest a stronger shared link."
+        },
+        {
+          "idea": "Double Knot Shoelace",
+          "connection": "It feels like an extra level of attachment beyond a single tie."
+        },
+        {
+          "idea": "Twin Cable Bridge",
+          "connection": "Parallel supports give a strong visual for doubled connection."
+        }
+      ]
+    },
+    {
+      "concept": "dynamic equilibrium",
+      "brainstorms": [
+        {
+          "idea": "Escalator Step Loop",
+          "connection": "Constant motion with a steady overall system fits the concept well."
+        },
+        {
+          "idea": "Lava Lamp Globe",
+          "connection": "It looks active and shifting while holding a stable overall pattern."
+        },
+        {
+          "idea": "Hourglass Sand Timer",
+          "connection": "Ongoing movement inside a balanced setup gives the right feel."
+        }
+      ]
+    }
+  ]
+}

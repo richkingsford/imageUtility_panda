@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Image Utility Panda v1</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <p id="status-line" class="status-line page-status">Waiting for image data...</p>
+
+      <section id="gallery" class="gallery" aria-live="polite">
+        <article id="empty-state" class="panel empty-card">
+          <p class="empty-state">No image has been generated yet.</p>
+        </article>
+      </section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
