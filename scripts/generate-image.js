@@ -2,6 +2,7 @@ const fs = require("fs");
 const os = require("os");
 const path = require("path");
 const { chromium } = require("playwright");
+const { buildImagePromptFromIdea } = require("./prompt-template");
 
 const ROOT = path.resolve(__dirname, "..");
 const PUBLIC_DIR = path.join(ROOT, "public");
@@ -9,7 +10,6 @@ const GENERATED_DIR = path.join(PUBLIC_DIR, "generated");
 const DATA_DIR = path.join(ROOT, "data");
 const DATA_FILE = path.join(DATA_DIR, "latest.json");
 const PUBLIC_DATA_FILE = path.join(PUBLIC_DIR, "latest.json");
-const IMAGE_FILE = path.join(GENERATED_DIR, "latest-image.png");
 const SCREENSHOT_FILE = path.join(ROOT, "artifacts", "final-v1.png");
 
 const DEFAULT_PROMPTS = [
@@ -24,7 +24,7 @@ async function main() {
   fs.mkdirSync(DATA_DIR, { recursive: true });
   fs.mkdirSync(path.join(ROOT, "artifacts"), { recursive: true });
 
-  const prompt = process.env.IMAGE_PROMPT || pickRandom(DEFAULT_PROMPTS);
+  const prompt = resolvePrompt();
   const existingData = readExistingData();
   const images = preserveExistingImages(existingData);
   const session = await createBrowserSession();
@@ -46,9 +46,8 @@ async function main() {
     const input = await findPromptInput(page);
     const baselineImageKeys = await listGeneratedImageKeys(page);
     console.log(`Found prompt input. Baseline generated image count: ${baselineImageKeys.length}`);
-    await input.click();
-    await input.fill(prompt);
-    await submitPrompt(page, input);
+    await setPromptText(page, prompt);
+    await submitPrompt(page);
 
     console.log("Prompt submitted. Waiting for final image...");
     const image = await waitForFinalImage(page, baselineImageKeys);
@@ -56,8 +55,12 @@ async function main() {
     const nextImagePath = buildPublicImagePath(generatedAt);
     const nextImageFile = path.join(PUBLIC_DIR, nextImagePath.replace(/^\//, ""));
 
-    await image.screenshot({ path: nextImageFile });
-    fs.copyFileSync(nextImageFile, IMAGE_FILE);
+    await saveGeneratedImageFile({
+      context,
+      imageLocator: image.locator,
+      imageSource: image.source,
+      nextImageFile,
+    });
 
     images.push({
       id: buildImageId(generatedAt),
@@ -88,7 +91,7 @@ async function main() {
     }
 
     console.log(`Prompt used: ${prompt}`);
-    console.log(`Saved image to ${IMAGE_FILE}`);
+    console.log(`Saved image to ${nextImageFile}`);
     console.log(`Saved page preview to ${SCREENSHOT_FILE}`);
   } finally {
     await session.dispose();
@@ -197,7 +200,50 @@ async function findPromptInput(page) {
   throw new Error("Could not find the ChatGPT image prompt input.");
 }
 
-async function submitPrompt(page, input) {
+async function setPromptText(page, prompt) {
+  const setResult = await page.evaluate((value) => {
+    const candidates = Array.from(document.querySelectorAll("[contenteditable='true'][role='textbox'], textarea"));
+
+    const visible = candidates.find((node) => {
+      const rect = node.getBoundingClientRect();
+      const style = getComputedStyle(node);
+      return rect.width > 0 && rect.height > 0 && style.display !== "none" && style.visibility !== "hidden";
+    });
+
+    if (!visible) {
+      return false;
+    }
+
+    visible.focus();
+
+    if (visible.matches("[contenteditable='true'][role='textbox']")) {
+      visible.innerHTML = "";
+
+      const paragraph = document.createElement("p");
+      paragraph.textContent = value;
+      visible.appendChild(paragraph);
+
+      visible.dispatchEvent(new InputEvent("input", {
+        bubbles: true,
+        cancelable: true,
+        inputType: "insertText",
+        data: value,
+      }));
+
+      return true;
+    }
+
+    visible.value = value;
+    visible.dispatchEvent(new Event("input", { bubbles: true }));
+    return true;
+  }, prompt);
+
+  if (!setResult) {
+    throw new Error("Could not set the ChatGPT image prompt text.");
+  }
+}
+
+async function submitPrompt(page) {
   const sendButtonSelectors = [
     "button[aria-label='Send prompt']",
     "button[aria-label*='Send']",
@@ -219,7 +265,7 @@ async function submitPrompt(page, input) {
     }
   }
 
-  await input.press("Enter");
+  await page.keyboard.press("Enter");
   await page.waitForTimeout(1000);
 }
 
@@ -355,7 +401,8 @@ async function waitForFinalImage(page, baselineImageKeys = []) {
     try {
       await locator.scrollIntoViewIfNeeded();
       await locator.waitFor({ state: "visible", timeout: 10000 });
-      return locator;
+      const source = await locator.evaluate((node) => node.currentSrc || node.src || "");
+      return { locator, source };
     } catch (error) {
       if (attempt === 1) {
         throw error;
@@ -367,6 +414,29 @@ async function waitForFinalImage(page, baselineImageKeys = []) {
   }
 
   throw new Error("Unable to stabilize the generated image for capture.");
+}
+
+async function saveGeneratedImageFile({ context, imageLocator, imageSource, nextImageFile }) {
+  if (imageSource) {
+    try {
+      const response = await context.request.get(imageSource);
+      const contentType = String(response.headers()["content-type"] || "").toLowerCase();
+
+      if (response.ok() && contentType.startsWith("image/png")) {
+        const buffer = await response.body();
+        fs.writeFileSync(nextImageFile, buffer);
+        return;
+      }
+
+      console.warn(
+        `Falling back to screenshot capture. Download response was ${response.status()} with content type "${contentType || "unknown"}".`
+      );
+    } catch (error) {
+      console.warn(`Falling back to screenshot capture: ${error.message}`);
+    }
+  }
+
+  await imageLocator.screenshot({ path: nextImageFile });
 }
 
 async function findBestNewImageIndex(page, baselineImageKeys = []) {
@@ -412,6 +482,20 @@ async function findBestNewImageIndex(page, baselineImageKeys = []) {
 
 function pickRandom(values) {
   return values[Math.floor(Math.random() * values.length)];
+}
+
+function resolvePrompt() {
+  if (process.env.IMAGE_PROMPT) {
+    return process.env.IMAGE_PROMPT;
+  }
+
+  if (process.env.IMAGE_IDEA) {
+    return buildImagePromptFromIdea(process.env.IMAGE_IDEA, {
+      personGender: process.env.IMAGE_PERSON_GENDER || "random",
+    });
+  }
+
+  return pickRandom(DEFAULT_PROMPTS);
 }
 
 function readExistingData() {
@@ -471,11 +555,30 @@ function buildImageId(isoDate) {
 }
 
 function buildPublicImagePath(isoDate) {
+  const explicitFileName = resolveOutputFileName();
+  if (explicitFileName) {
+    return `/generated/${explicitFileName}`;
+  }
+
   return `/generated/${buildImageId(isoDate)}.png`;
 }
 
 function sanitizeTimestamp(isoDate) {
   return String(isoDate || Date.now()).replace(/[^0-9a-z]/gi, "").toLowerCase();
+}
+
+function resolveOutputFileName() {
+  const raw = String(process.env.IMAGE_OUTPUT_NAME || "").trim();
+  if (!raw) {
+    return null;
+  }
+
+  const baseName = path.basename(raw);
+  if (!baseName) {
+    return null;
+  }
+
+  return /\.png$/i.test(baseName) ? baseName : `${baseName}.png`;
 }
 
 async function launchChromeContext({ chromePath, profileDirectory, userDataDir }) {

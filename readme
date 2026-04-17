@@ -16,3 +16,10 @@ If Playwright gets redirected to sign-in, you have two options:
 
 1. Rerun with `CHROME_USER_DATA_DIR` pointed at your logged-in Chrome user data directory and close other Chrome windows first.
 2. Start Chrome with a debugging port and rerun with `CHROME_DEBUG_URL=http://127.0.0.1:9222` so the script can attach to an already-open ChatGPT Images tab.
+
+Prompt template notes:
+
+- You can still pass a full prompt with `IMAGE_PROMPT`.
+- Or pass `IMAGE_IDEA` and let the script build the prompt template automatically.
+- The template now includes a randomly chosen attractive male or female interacting with the object while keeping the object as the primary subject.
+- You can force the secondary person with `IMAGE_PERSON_GENDER=male` or `IMAGE_PERSON_GENDER=female`. The default is `random`.
