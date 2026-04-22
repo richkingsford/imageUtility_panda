@@ -1,7 +1,7 @@
 {
-  "prompt": "attention-getter of a single Rusty Bicycle Chain object, include an attractive male somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
-  "imagePath": "/generated/rusty bicycle chain.png",
-  "generatedAt": "2026-04-17T20:40:21.179Z",
+  "prompt": "attention-getter of a single Hourglass Sand Timer object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+  "imagePath": "/generated/hourglass sand timer.png",
+  "generatedAt": "2026-04-20T17:13:25.303Z",
   "status": "ready",
   "images": [
     {
@@ -398,29 +398,706 @@
       "id": "image-20260417t203009893z",
       "prompt": "attention-getter of a single Velcro Catch Mitt object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
       "imagePath": "/generated/velcro catch mitt.png",
-      "generatedAt": "2026-04-17T20:30:09.893Z",
-      "provider": "chatgpt"
+      "generatedAt": "2026-04-17T20:30:09.893Z"
     },
     {
       "id": "image-20260417t203031362z",
       "prompt": "attention-getter of a single Eight Slice Pizza object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
       "imagePath": "/generated/eight slice pizza.png",
-      "generatedAt": "2026-04-17T20:30:31.362Z",
-      "provider": "meta"
+      "generatedAt": "2026-04-17T20:30:31.362Z"
     },
     {
       "id": "image-20260417t203114419z",
       "prompt": "attention-getter of a single Swollen Gummy Bear object, include an attractive male somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
       "imagePath": "/generated/swollen gummy bear.png",
-      "generatedAt": "2026-04-17T20:31:14.419Z",
-      "provider": "gemini"
+      "generatedAt": "2026-04-17T20:31:14.419Z"
     },
     {
       "id": "image-20260417t204021179z",
       "prompt": "attention-getter of a single Rusty Bicycle Chain object, include an attractive male somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
       "imagePath": "/generated/rusty bicycle chain.png",
-      "generatedAt": "2026-04-17T20:40:21.179Z",
+      "generatedAt": "2026-04-17T20:40:21.179Z"
+    },
+    {
+      "id": "image-20260417t204854736z",
+      "prompt": "attention-getter of a single Bleach Spray Bottle object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/bleach spray bottle.png",
+      "generatedAt": "2026-04-17T20:48:54.736Z"
+    },
+    {
+      "id": "image-20260417t204955202z",
+      "prompt": "attention-getter of a single Vintage Apothecary Cabinet object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/vintage apothecary cabinet.png",
+      "generatedAt": "2026-04-17T20:49:55.202Z"
+    },
+    {
+      "id": "image-20260417t205015544z",
+      "prompt": "attention-getter of a single Sunflower Face Disk object, include an attractive male somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/sunflower face disk.png",
+      "generatedAt": "2026-04-17T20:50:15.544Z"
+    },
+    {
+      "id": "image-20260417t205212875z",
+      "prompt": "attention-getter of a single Crushed Soda Can object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/crushed soda can.png",
+      "generatedAt": "2026-04-17T20:52:12.875Z"
+    },
+    {
+      "id": "image-20260417t205258779z",
+      "prompt": "attention-getter of a single Double Zipper Teeth object, include an attractive male somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/double zipper teeth.png",
+      "generatedAt": "2026-04-17T20:52:58.779Z"
+    },
+    {
+      "id": "image-20260417t205340480z",
+      "prompt": "attention-getter of a single Water Droplet Bead object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/water droplet bead.png",
+      "generatedAt": "2026-04-17T20:53:40.480Z"
+    },
+    {
+      "id": "image-20260417t205519788z",
+      "prompt": "attention-getter of a single Rock Candy Crystal object, include an attractive male somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/rock candy crystal.png",
+      "generatedAt": "2026-04-17T20:55:19.788Z"
+    },
+    {
+      "id": "image-20260417t205604728z",
+      "prompt": "attention-getter of a single Swiss Watch Mechanism object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/swiss watch mechanism.png",
+      "generatedAt": "2026-04-17T20:56:04.728Z"
+    },
+    {
+      "id": "image-20260417t205644935z",
+      "prompt": "attention-getter of a single Pressure Cooker Valve object, include an attractive male somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/pressure cooker valve.png",
+      "generatedAt": "2026-04-17T20:56:44.935Z"
+    },
+    {
+      "id": "image-20260417t205804177z",
+      "prompt": "attention-getter of a single Fresh Bread Loaf object, include an attractive male somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/fresh bread loaf.png",
+      "generatedAt": "2026-04-17T20:58:04.177Z"
+    },
+    {
+      "id": "image-20260417t205852746z",
+      "prompt": "attention-getter of a single Spider Silk Strand object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/spider silk strand.png",
+      "generatedAt": "2026-04-17T20:58:52.746Z"
+    },
+    {
+      "id": "image-20260417t205930976z",
+      "prompt": "attention-getter of a single Battery Plus Terminal object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/battery plus terminal.png",
+      "generatedAt": "2026-04-17T20:59:30.976Z"
+    },
+    {
+      "id": "image-20260417t210102726z",
+      "prompt": "attention-getter of a single Library Call Number object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/library call number.png",
+      "generatedAt": "2026-04-17T21:01:02.726Z"
+    },
+    {
+      "id": "image-20260417t210200183z",
+      "prompt": "attention-getter of a single Sun Tanning Lamp object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/sun tanning lamp.png",
+      "generatedAt": "2026-04-17T21:02:00.183Z"
+    },
+    {
+      "id": "image-20260417t210238555z",
+      "prompt": "attention-getter of a single Fading Radium Dial object, include an attractive male somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/fading radium dial.png",
+      "generatedAt": "2026-04-17T21:02:38.555Z"
+    },
+    {
+      "id": "image-20260417t210414557z",
+      "prompt": "attention-getter of a single Burning Fuse Rope object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/burning fuse rope.png",
+      "generatedAt": "2026-04-17T21:04:14.557Z"
+    },
+    {
+      "id": "image-20260417t210457928z",
+      "prompt": "attention-getter of a single Unpopped Popcorn Kernel object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/unpopped popcorn kernel.png",
+      "generatedAt": "2026-04-17T21:04:57.928Z"
+    },
+    {
+      "id": "image-20260417t210541968z",
+      "prompt": "attention-getter of a single Half Popped Kernel object, include an attractive male somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/half popped kernel.png",
+      "generatedAt": "2026-04-17T21:05:41.968Z"
+    },
+    {
+      "id": "image-20260417t210724348z",
+      "prompt": "attention-getter of a single Rube Goldberg Machine object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/rube goldberg machine.png",
+      "generatedAt": "2026-04-17T21:07:24.348Z"
+    },
+    {
+      "id": "image-20260417t210811423z",
+      "prompt": "attention-getter of a single Rock Candy Stick object, include an attractive female somehow interacting with the object. The object should be the main subject of the image and the person secondary. simple and clean background - not cluttered or messy or chaotic at all - but natural. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/rock candy stick.png",
+      "generatedAt": "2026-04-17T21:08:11.423Z"
+    },
+    {
+      "id": "image-20260417t212832708z",
+      "prompt": "attention-getter of a single Rusting Bicycle Chain object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/rusting bicycle chain.png",
+      "generatedAt": "2026-04-17T21:28:32.708Z"
+    },
+    {
+      "id": "image-20260417t212922528z",
+      "prompt": "attention-getter of a single Vitamin C Tablet object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/vitamin c tablet.png",
+      "generatedAt": "2026-04-17T21:29:22.528Z"
+    },
+    {
+      "id": "image-20260417t213053638z",
+      "prompt": "attention-getter of a single Tuning Fork Prong object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/tuning fork prong.png",
+      "generatedAt": "2026-04-17T21:30:53.638Z"
+    },
+    {
+      "id": "image-20260417t213141233z",
+      "prompt": "attention-getter of a single Paraffin Wax Candle object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/paraffin wax candle.png",
+      "generatedAt": "2026-04-17T21:31:41.233Z"
+    },
+    {
+      "id": "image-20260417t213224255z",
+      "prompt": "attention-getter of a single Field Notes Journal object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/field notes journal.png",
+      "generatedAt": "2026-04-17T21:32:24.255Z"
+    },
+    {
+      "id": "image-20260417t213354462z",
+      "prompt": "attention-getter of a single Melting Ice Cream object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/melting ice cream.png",
+      "generatedAt": "2026-04-17T21:33:54.462Z"
+    },
+    {
+      "id": "image-20260417t213440785z",
+      "prompt": "attention-getter of a single Digital Kitchen Scale object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/digital kitchen scale.png",
+      "generatedAt": "2026-04-17T21:34:40.785Z"
+    },
+    {
+      "id": "image-20260417t213538794z",
+      "prompt": "attention-getter of a single Substitute Player Jersey object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/substitute player jersey.png",
+      "generatedAt": "2026-04-17T21:35:38.794Z"
+    },
+    {
+      "id": "image-20260417t213722117z",
+      "prompt": "attention-getter of a single Sugar Cube Stack object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/sugar cube stack.png",
+      "generatedAt": "2026-04-17T21:37:22.117Z"
+    },
+    {
+      "id": "image-20260417t213812059z",
+      "prompt": "attention-getter of a single Sugar Packet Sachet object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/sugar packet sachet.png",
+      "generatedAt": "2026-04-17T21:38:12.059Z"
+    },
+    {
+      "id": "image-20260417t213857036z",
+      "prompt": "attention-getter of a single Iced Lemonade Pitcher object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/iced lemonade pitcher.png",
+      "generatedAt": "2026-04-17T21:38:57.036Z"
+    },
+    {
+      "id": "image-20260417t213951466z",
+      "prompt": "attention-getter of a single Nail Polish Remover object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/nail polish remover.png",
+      "generatedAt": "2026-04-17T21:39:51.466Z"
+    },
+    {
+      "id": "image-20260417t214039094z",
+      "prompt": "attention-getter of a single Cast Iron Skillet object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/cast iron skillet.png",
+      "generatedAt": "2026-04-17T21:40:39.094Z"
+    },
+    {
+      "id": "image-20260417t214121630z",
+      "prompt": "attention-getter of a single Glass Prism Pendant object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/glass prism pendant.png",
+      "generatedAt": "2026-04-17T21:41:21.630Z"
+    },
+    {
+      "id": "image-20260417t214216565z",
+      "prompt": "attention-getter of a single Cairn Stone Tower object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/cairn stone tower.png",
+      "generatedAt": "2026-04-17T21:42:16.565Z"
+    },
+    {
+      "id": "image-20260417t214254801z",
+      "prompt": "attention-getter of a single Recipe Measuring Cups object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/recipe measuring cups.png",
+      "generatedAt": "2026-04-17T21:42:54.801Z"
+    },
+    {
+      "id": "image-20260417t214335809z",
+      "prompt": "attention-getter of a single Dry Ice Cube object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/dry ice cube.png",
+      "generatedAt": "2026-04-17T21:43:35.809Z"
+    },
+    {
+      "id": "image-20260417t214428790z",
+      "prompt": "attention-getter of a single Interchangeable Camera Lens object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/interchangeable camera lens.png",
+      "generatedAt": "2026-04-17T21:44:28.790Z"
+    },
+    {
+      "id": "image-20260417t214514127z",
+      "prompt": "attention-getter of a single Woven Basket Bowl object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/woven basket bowl.png",
+      "generatedAt": "2026-04-17T21:45:14.127Z"
+    },
+    {
+      "id": "image-20260417t214557339z",
+      "prompt": "attention-getter of a single Digital Thermometer Probe object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/digital thermometer probe.png",
+      "generatedAt": "2026-04-17T21:45:57.339Z"
+    },
+    {
+      "id": "image-20260417t220626184z",
+      "prompt": "attention-getter of a single Harvest Apple Crate object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/harvest apple crate.png",
+      "generatedAt": "2026-04-17T22:06:26.184Z"
+    },
+    {
+      "id": "image-20260417t220712140z",
+      "prompt": "Imagine attention-getter of a single Contact Lens Solution object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/contact lens solution.png",
+      "generatedAt": "2026-04-17T22:07:12.140Z"
+    },
+    {
+      "id": "image-20260417t235040550z",
+      "prompt": "attention-getter of a single Spark Plug Electrode object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/spark plug electrode.png",
+      "generatedAt": "2026-04-17T23:50:40.550Z"
+    },
+    {
+      "id": "image-20260417t235135008z",
+      "prompt": "attention-getter of a single Velcro Sneaker Strap object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/velcro sneaker strap.png ",
+      "generatedAt": "2026-04-17T23:51:35.008Z"
+    },
+    {
+      "id": "image-20260418t000136681z",
+      "prompt": "attention-getter of a single Glowing Lava Rock object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/glowing lava rock.png",
+      "generatedAt": "2026-04-18T00:01:36.681Z"
+    },
+    {
+      "id": "image-20260418t000237832z",
+      "prompt": "attention-getter of a single Self Heating Meal object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/self heating meal.png",
+      "generatedAt": "2026-04-18T00:02:37.832Z"
+    },
+    {
+      "id": "image-20260418t000344749z",
+      "prompt": "attention-getter of a single Pool Test Strip object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/pool test strip.png",
+      "generatedAt": "2026-04-18T00:03:44.749Z"
+    },
+    {
+      "id": "image-20260418t000431283z",
+      "prompt": "attention-getter of a single Titanium Bike Frame object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/titanium bike frame.png",
+      "generatedAt": "2026-04-18T00:04:31.283Z"
+    },
+    {
+      "id": "image-20260418t000532427z",
+      "prompt": "attention-getter of a single Triple Braided Rope object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/triple braided rope.png",
+      "generatedAt": "2026-04-18T00:05:32.427Z"
+    },
+    {
+      "id": "image-20260418t000627288z",
+      "prompt": "attention-getter of a single Honey Drip Jar object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/honey drip jar.png",
+      "generatedAt": "2026-04-18T00:06:27.288Z"
+    },
+    {
+      "id": "image-20260418t000726005z",
+      "prompt": "attention-getter of a single Raindrop Window Bead object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/raindrop window bead.png",
+      "generatedAt": "2026-04-18T00:07:26.005Z"
+    },
+    {
+      "id": "image-20260418t000825083z",
+      "prompt": "attention-getter of a single Apple Cider Vinegar object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/apple cider vinegar.png",
+      "generatedAt": "2026-04-18T00:08:25.083Z"
+    },
+    {
+      "id": "image-20260418t000922817z",
+      "prompt": "attention-getter of a single Baking Soda Box object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/baking soda box.png",
+      "generatedAt": "2026-04-18T00:09:22.817Z"
+    },
+    {
+      "id": "image-20260418t001017477z",
+      "prompt": "attention-getter of a single Bathroom Scale Dial object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/bathroom scale dial.png",
+      "generatedAt": "2026-04-18T00:10:17.477Z"
+    },
+    {
+      "id": "image-20260418t001113460z",
+      "prompt": "attention-getter of a single Rusting Iron Gate object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/rusting iron gate.png",
+      "generatedAt": "2026-04-18T00:11:13.460Z"
+    },
+    {
+      "id": "image-20260418t001212877z",
+      "prompt": "attention-getter of a single Pendulum Clock Bob object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/pendulum clock bob.png",
+      "generatedAt": "2026-04-18T00:12:12.877Z"
+    },
+    {
+      "id": "image-20260418t001304213z",
+      "prompt": "attention-getter of a single Library Spine Label object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/library spine label.png",
+      "generatedAt": "2026-04-18T00:13:04.213Z"
+    },
+    {
+      "id": "image-20260418t001401406z",
+      "prompt": "attention-getter of a single Gasoline Jerry Can object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/gasoline jerry can.png",
+      "generatedAt": "2026-04-18T00:14:01.406Z"
+    },
+    {
+      "id": "image-20260418t001458963z",
+      "prompt": "attention-getter of a single Fizzing Antacid Tablet object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/fizzing antacid tablet.png",
+      "generatedAt": "2026-04-18T00:14:58.963Z"
+    },
+    {
+      "id": "image-20260418t001558273z",
+      "prompt": "attention-getter of a single Blue Mouthwash Bottle object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/blue mouthwash bottle.png",
+      "generatedAt": "2026-04-18T00:15:58.273Z"
+    },
+    {
+      "id": "image-20260418t001650347z",
+      "prompt": "attention-getter of a single Ancient Bronze Coin object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/ancient bronze coin.png",
+      "generatedAt": "2026-04-18T00:16:50.347Z"
+    },
+    {
+      "id": "image-20260418t001744626z",
+      "prompt": "attention-getter of a single Left Hand Glove object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/left hand glove.png",
+      "generatedAt": "2026-04-18T00:17:44.626Z"
+    },
+    {
+      "id": "image-20260418t001837032z",
+      "prompt": "attention-getter of a single Whipped Cream Swirl object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/whipped cream swirl.png",
+      "generatedAt": "2026-04-18T00:18:37.032Z"
+    },
+    {
+      "id": "image-20260418t001938291z",
+      "prompt": "attention-getter of a single Rocket Firework Stick object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/rocket firework stick.png",
+      "generatedAt": "2026-04-18T00:19:38.291Z"
+    },
+    {
+      "id": "image-20260418t002828380z",
+      "prompt": "attention-getter of a single Pearl Necklace Strand object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/pearl necklace strand.png",
+      "generatedAt": "2026-04-18T00:28:28.380Z"
+    },
+    {
+      "id": "image-20260418t002930091z",
+      "prompt": "attention-getter of a single Braided Friendship Bracelet object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/braided friendship bracelet.png",
+      "generatedAt": "2026-04-18T00:29:30.091Z"
+    },
+    {
+      "id": "image-20260418t003024441z",
+      "prompt": "attention-getter of a single Snowflake Ice Crystal object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/snowflake ice crystal.png",
+      "generatedAt": "2026-04-18T00:30:24.441Z"
+    },
+    {
+      "id": "image-20260418t003113980z",
+      "prompt": "attention-getter of a single Lead Fishing Sinker object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/lead fishing sinker.png",
+      "generatedAt": "2026-04-18T00:31:13.980Z"
+    },
+    {
+      "id": "image-20260418t032600907z",
+      "prompt": "attention-getter of a single Scuba Oxygen Tank object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/scuba oxygen tank.png",
+      "generatedAt": "2026-04-18T03:26:00.907Z"
+    },
+    {
+      "id": "image-20260418t032704777z",
+      "prompt": "attention-getter of a single Orange Juice Pitcher object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/orange juice pitcher.png",
+      "generatedAt": "2026-04-18T03:27:04.777Z"
+    },
+    {
+      "id": "image-20260418t032810951z",
+      "prompt": "attention-getter of a single Bar Magnet Rod object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/bar magnet rod.png",
+      "generatedAt": "2026-04-18T03:28:10.951Z"
+    },
+    {
+      "id": "image-20260418t032915310z",
+      "prompt": "attention-getter of a single Copper Moonshine Still object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/copper moonshine still.png",
+      "generatedAt": "2026-04-18T03:29:15.310Z"
+    },
+    {
+      "id": "image-20260418t033010939z",
+      "prompt": "attention-getter of a single Escalator Step Loop object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/escalator step loop.png",
+      "generatedAt": "2026-04-18T03:30:10.939Z"
+    },
+    {
+      "id": "image-20260418t033115728z",
+      "prompt": "attention-getter of a single Electric Car Battery object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/electric car battery.png",
+      "generatedAt": "2026-04-18T03:31:15.728Z"
+    },
+    {
+      "id": "image-20260418t033219225z",
+      "prompt": "attention-getter of a single Sports Drink Bottle object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/sports drink bottle.png",
+      "generatedAt": "2026-04-18T03:32:19.225Z"
+    },
+    {
+      "id": "image-20260420t165238530z",
+      "prompt": "attention-getter of a single Stadium Seating Bowl object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/stadium seating bowl.png",
+      "generatedAt": "2026-04-20T16:52:38.530Z",
+      "provider": "meta"
+    },
+    {
+      "id": "image-20260420t165238531z",
+      "prompt": "attention-getter of a single Bobby Pin Clip object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/bobby pin clip.png",
+      "generatedAt": "2026-04-20T16:52:38.531Z",
+      "provider": "gemini"
+    },
+    {
+      "id": "image-20260420t165238531z",
+      "prompt": "attention-getter of a single Powerful Horseshoe Magnet object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/powerful horseshoe magnet.png",
+      "generatedAt": "2026-04-20T16:52:38.531Z",
       "provider": "copilot"
+    },
+    {
+      "id": "image-20260420t165337347z",
+      "prompt": "attention-getter of a single Static Cling Balloon object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/static cling balloon.png",
+      "generatedAt": "2026-04-20T16:53:37.347Z",
+      "provider": "chatgpt"
+    },
+    {
+      "id": "image-20260420t165818251z",
+      "prompt": "attention-getter of a single Gold Nugget Pendant object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/gold nugget pendant.png",
+      "generatedAt": "2026-04-20T16:58:18.251Z",
+      "provider": "chatgpt"
+    },
+    {
+      "id": "image-20260420t165818253z",
+      "prompt": "attention-getter of a single Cocktail Recipe Card object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/cocktail recipe card.png",
+      "generatedAt": "2026-04-20T16:58:18.253Z",
+      "provider": "meta"
+    },
+    {
+      "id": "image-20260420t165818253z",
+      "prompt": "attention-getter of a single Newton Cradle Desktoy object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/newton cradle desktoy.png",
+      "generatedAt": "2026-04-20T16:58:18.253Z",
+      "provider": "gemini"
+    },
+    {
+      "id": "image-20260420t165818253z",
+      "prompt": "attention-getter of a single Tiered Cake Stand object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/tiered cake stand.png",
+      "generatedAt": "2026-04-20T16:58:18.253Z",
+      "provider": "copilot"
+    },
+    {
+      "id": "image-20260420t165959653z",
+      "prompt": "attention-getter of a single Tangled Earbud Cords object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/tangled earbud cords.png",
+      "generatedAt": "2026-04-20T16:59:59.653Z",
+      "provider": "meta"
+    },
+    {
+      "id": "image-20260420t165959654z",
+      "prompt": "attention-getter of a single Pineapple Ring Slice object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/pineapple ring slice.png",
+      "generatedAt": "2026-04-20T16:59:59.654Z",
+      "provider": "gemini"
+    },
+    {
+      "id": "image-20260420t165959654z",
+      "prompt": "attention-getter of a single Balanced Rock Stack object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/balanced rock stack.png",
+      "generatedAt": "2026-04-20T16:59:59.654Z",
+      "provider": "copilot"
+    },
+    {
+      "id": "image-20260420t170118671z",
+      "prompt": "attention-getter of a single Banana Candy Chew object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/banana candy chew.png",
+      "generatedAt": "2026-04-20T17:01:18.671Z",
+      "provider": "chatgpt"
+    },
+    {
+      "id": "image-20260420t170118671z",
+      "prompt": "attention-getter of a single Aerosol Starter Can object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/aerosol starter can.png",
+      "generatedAt": "2026-04-20T17:01:18.671Z",
+      "provider": "meta"
+    },
+    {
+      "id": "image-20260420t170118671z",
+      "prompt": "attention-getter of a single Sunlit Puddle Patch object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/sunlit puddle patch.png",
+      "generatedAt": "2026-04-20T17:01:18.671Z",
+      "provider": "gemini"
+    },
+    {
+      "id": "image-20260420t170118671z",
+      "prompt": "attention-getter of a single Hand Warmer Packet object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/hand warmer packet.png",
+      "generatedAt": "2026-04-20T17:01:18.671Z",
+      "provider": "copilot"
+    },
+    {
+      "id": "image-20260420t170429803z",
+      "prompt": "attention-getter of a single Water Pitcher Filter object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/water pitcher filter.png",
+      "generatedAt": "2026-04-20T17:04:29.803Z",
+      "provider": "chatgpt"
+    },
+    {
+      "id": "image-20260420t170429803z",
+      "prompt": "attention-getter of a single Burning Incense Stick object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/burning incense stick.png",
+      "generatedAt": "2026-04-20T17:04:29.803Z",
+      "provider": "meta"
+    },
+    {
+      "id": "image-20260420t170429803z",
+      "prompt": "attention-getter of a single Slushy Soda Bottle object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/slushy soda bottle.png",
+      "generatedAt": "2026-04-20T17:04:29.803Z",
+      "provider": "gemini"
+    },
+    {
+      "id": "image-20260420t170525968z",
+      "prompt": "attention-getter of a single Weather Balloon Envelope object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/weather balloon envelope.png",
+      "generatedAt": "2026-04-20T17:05:25.968Z",
+      "provider": "meta"
+    },
+    {
+      "id": "image-20260420t170525968z",
+      "prompt": "attention-getter of a single Twisted Balloon Animal object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/twisted balloon animal.png",
+      "generatedAt": "2026-04-20T17:05:25.968Z",
+      "provider": "gemini"
+    },
+    {
+      "id": "image-20260420t170525968z",
+      "prompt": "attention-getter of a single Wound Clock Spring object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/wound clock spring.png",
+      "generatedAt": "2026-04-20T17:05:25.968Z",
+      "provider": "copilot"
+    },
+    {
+      "id": "image-20260420t171109473z",
+      "prompt": "attention-getter of a single Hot Coffee Thermos object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/hot coffee thermos.png",
+      "generatedAt": "2026-04-20T17:11:09.473Z",
+      "provider": "chatgpt"
+    },
+    {
+      "id": "image-20260420t171109474z",
+      "prompt": "attention-getter of a single Metronome Pendulum Arm object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/metronome pendulum arm.png",
+      "generatedAt": "2026-04-20T17:11:09.474Z",
+      "provider": "meta"
+    },
+    {
+      "id": "image-20260420t171109474z",
+      "prompt": "attention-getter of a single Swiss Army Corkscrew object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/swiss army corkscrew.png",
+      "generatedAt": "2026-04-20T17:11:09.474Z",
+      "provider": "gemini"
+    },
+    {
+      "id": "image-20260420t171109474z",
+      "prompt": "attention-getter of a single Solar Roof Panel object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/solar roof panel.png",
+      "generatedAt": "2026-04-20T17:11:09.474Z",
+      "provider": "copilot"
+    },
+    {
+      "id": "image-20260420t171157668z",
+      "prompt": "attention-getter of a single Melting Ice Sculpture object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/melting ice sculpture.png",
+      "generatedAt": "2026-04-20T17:11:57.668Z",
+      "provider": "meta"
+    },
+    {
+      "id": "image-20260420t171157668z",
+      "prompt": "attention-getter of a single Chocolate Chip Cookie object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/chocolate chip cookie.png",
+      "generatedAt": "2026-04-20T17:11:57.668Z",
+      "provider": "gemini"
+    },
+    {
+      "id": "image-20260420t171157668z",
+      "prompt": "attention-getter of a single Concrete Mix Bag object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/concrete mix bag.png",
+      "generatedAt": "2026-04-20T17:11:57.668Z",
+      "provider": "copilot"
+    },
+    {
+      "id": "image-20260420t171250718z",
+      "prompt": "attention-getter of a single Motor Oil Bottle object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/motor oil bottle.png",
+      "generatedAt": "2026-04-20T17:12:50.718Z",
+      "provider": "chatgpt"
+    },
+    {
+      "id": "image-20260420t171250718z",
+      "prompt": "attention-getter of a single Hydrogen Fuel Cell object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/hydrogen fuel cell.png",
+      "generatedAt": "2026-04-20T17:12:50.718Z",
+      "provider": "meta"
+    },
+    {
+      "id": "image-20260420t171250718z",
+      "prompt": "attention-getter of a single Laundry Detergent Pod object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/laundry detergent pod.png",
+      "generatedAt": "2026-04-20T17:12:50.718Z",
+      "provider": "gemini"
+    },
+    {
+      "id": "image-20260420t171250718z",
+      "prompt": "attention-getter of a single Hot Air Balloon object, include an attractive female interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/hot air balloon.png",
+      "generatedAt": "2026-04-20T17:12:50.718Z",
+      "provider": "copilot"
+    },
+    {
+      "id": "image-20260420t171325303z",
+      "prompt": "attention-getter of a single Hourglass Sand Timer object, include an attractive male interacting with the object in a natural, organic, realistic way (not just staring and smiling at it). The object should be the main subject of the image and the person secondary. Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic. Visually interesting, professional, and clean.",
+      "imagePath": "/generated/hourglass sand timer.png",
+      "generatedAt": "2026-04-20T17:13:25.303Z",
+      "provider": "chatgpt"
     }
   ]
 }

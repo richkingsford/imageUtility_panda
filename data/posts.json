@@ -1,0 +1,1371 @@
+{
+  "generatedAt": "2026-04-18T00:00:00.000Z",
+  "description": "Social media posts for STEM educators, one per concept image.",
+  "posts": [
+    {
+      "index": 1,
+      "concept": "air pollution",
+      "selectedIdea": "Soot Covered Leaf",
+      "imagePath": "/generated/soot covered leaf.png",
+      "post": "A leaf coated in soot is one of the most honest visuals in environmental science — no graphs, no models, just a living surface that collected evidence. I use it to teach students that chemistry doesn't stay in the flask. It lands on things. It accumulates. What's an object you've used to make an invisible problem feel visible?"
+    },
+    {
+      "index": 2,
+      "concept": "alcohol",
+      "selectedIdea": "Whiskey Tumbler Glass",
+      "imagePath": "/generated/whiskey tumbler glass.png",
+      "post": "Students hear 'alcohol' and think drinks. Hand them a whiskey glass and ask: why does this evaporate faster than water? Suddenly you're teaching vapor pressure, hydrogen bonding, and functional groups through one object they already have opinions about. What's a loaded word in your subject that you lean into instead of avoiding?"
+    },
+    {
+      "index": 3,
+      "concept": "aldehyde",
+      "selectedIdea": "Vanilla Bean Pod",
+      "imagePath": "/generated/vanilla bean pod.png",
+      "post": "Vanillin is an aldehyde. That one sentence turns a forgettable functional group into something a student can smell from across the room. The best STEM teaching moments happen when a concept hijacks a sense the student wasn't expecting to use. What's a concept in your field that has a surprising sensory hook?"
+    },
+    {
+      "index": 4,
+      "concept": "alkali metals",
+      "selectedIdea": "Lithium Phone Battery",
+      "imagePath": "/generated/lithium phone battery.png",
+      "post": "Every student carries an alkali metal in their pocket and charges it every night. The phone battery is a better entry point to Group 1 than any sodium-in-water video because it raises a harder question: why does lithium work here when it's supposedly so reactive? What 'obvious' question from a student has caught you off guard?"
+    },
+    {
+      "index": 5,
+      "concept": "alkane",
+      "selectedIdea": "Candle Wax Drip",
+      "imagePath": "/generated/candle wax drip.png",
+      "post": "A candle is a saturated hydrocarbon burning in real time. Melting, vaporizing, combusting — three phase changes and a chemical reaction happening simultaneously in something a student lights for ambiance. How often do we walk past a perfect lesson without noticing? What's hiding in plain sight in your discipline?"
+    },
+    {
+      "index": 6,
+      "concept": "alkene",
+      "selectedIdea": "Plastic Grocery Bag",
+      "imagePath": "/generated/plastic grocery bag.png",
+      "post": "A plastic grocery bag is polymerized ethylene. That means every debate about single-use plastics is secretly a conversation about double bonds, addition reactions, and polymer chain length. I love when social issues and molecular structure collide — students suddenly care about the mechanism. Where does your subject intersect with something students already argue about?"
+    },
+    {
+      "index": 7,
+      "concept": "alkyne",
+      "selectedIdea": "Blue Flame Lighter",
+      "imagePath": "/generated/blue flame lighter.png",
+      "post": "A blue flame burns hotter than a yellow one. Students accept that without question — until you ask them why acetylene welders can cut steel but a candle can't melt ice cream fast enough. Triple bonds store serious energy, and a lighter is the cheapest demo you'll ever own. What's your lowest-cost, highest-impact teaching prop?"
+    },
+    {
+      "index": 8,
+      "concept": "allotropes",
+      "selectedIdea": "Diamond Engagement Ring",
+      "imagePath": "/generated/diamond engagement ring.png",
+      "post": "Diamond and pencil graphite are the same element arranged differently. I open with that fact every time I teach allotropes because it breaks a student's assumption that identity = composition. Structure matters. Arrangement matters. It's a lesson that transfers to biology, materials science, even writing. Where else do you teach that arrangement changes everything?"
+    },
+    {
+      "index": 9,
+      "concept": "amino acid",
+      "selectedIdea": "Protein Shake Bottle",
+      "imagePath": "/generated/protein shake bottle.png",
+      "post": "A protein shake bottle is a Trojan horse for teaching biochemistry. Students who'd never voluntarily read about peptide bonds will happily argue about whether their post-workout shake actually does anything. Start with the argument, sneak in the science. What's a 'lifestyle' object that secretly teaches your hardest unit?"
+    },
+    {
+      "index": 10,
+      "concept": "amphiphilic molecules",
+      "selectedIdea": "Soap Bubble Orb",
+      "imagePath": "/generated/soap bubble orb.png",
+      "post": "A soap bubble exists because one end of the molecule loves water and the other end runs from it. That tension — wanting two incompatible things at once — is something every student understands emotionally before they understand it chemically. The best analogies work because the feeling comes first. What concept do you teach through a feeling before a formula?"
+    },
+    {
+      "index": 11,
+      "concept": "anion",
+      "selectedIdea": "Battery Minus Terminal",
+      "imagePath": "/generated/battery minus.png",
+      "post": "The minus terminal on a battery is where electrons gather. Students see that symbol every day without connecting it to ions, charge flow, or electrochemistry. Sometimes the hardest part of teaching isn't explaining something new — it's getting students to look again at something they think they already understand. What familiar symbol do you re-teach?"
+    },
+    {
+      "index": 12,
+      "concept": "anode",
+      "selectedIdea": "Lithium Battery Cell",
+      "imagePath": "/generated/battery cell.png",
+      "post": "Students mix up anode and cathode constantly — until you give them a physical battery and ask which side loses electrons. Suddenly it's not vocabulary anymore, it's a story about sacrifice. The anode gives itself up. Anthropomorphizing isn't cheating; it's how memory works. What concept did you finally learn by giving it a personality?"
+    },
+    {
+      "index": 13,
+      "concept": "aqueous solution",
+      "selectedIdea": "Lemonade Glass Pitcher",
+      "imagePath": "/generated/lemonade pitcher.png",
+      "post": "Lemonade is an aqueous solution. So is blood, ocean water, and the tears a student cries during finals. Once you frame it that way, 'aqueous' stops being a vocab word and starts being a category students see everywhere. Categorization is an underrated teaching move. What category label transformed how your students saw the world?"
+    },
+    {
+      "index": 14,
+      "concept": "aromatic compound",
+      "selectedIdea": "Perfume Atomizer Bottle",
+      "imagePath": "/generated/perfume bottle.png",
+      "post": "The word 'aromatic' in chemistry has nothing to do with smell — but perfume bottles are full of aromatic compounds anyway. I love when a historical naming accident becomes a teaching moment about how science language evolves and misleads. What term in your field confuses students because of its everyday meaning?"
+    },
+    {
+      "index": 15,
+      "concept": "atom",
+      "selectedIdea": "Single Sand Grain",
+      "imagePath": "/generated/sand grain.png",
+      "post": "Hold a single grain of sand. Now imagine splitting it into something smaller that still behaves like silicon dioxide. That's where the atom lives — at the boundary between 'stuff' and 'idea.' Teaching scale is brutal because intuition breaks. How do you teach something students literally cannot see?"
+    },
+    {
+      "index": 16,
+      "concept": "atomic mass",
+      "selectedIdea": "Helium Party Balloon",
+      "imagePath": "/generated/helium balloon.png",
+      "post": "A helium balloon floats because helium is lighter than the nitrogen and oxygen around it. That's atomic mass doing real, visible work — not a number on a periodic table, but a reason something rises. Students remember concepts that move. What's a concept in your subject that you teach through motion?"
+    },
+    {
+      "index": 17,
+      "concept": "atomic number",
+      "selectedIdea": "Passport Number Stamp",
+      "imagePath": "/generated/passport stamp.png",
+      "post": "An atomic number is an element's identity — change it and you've got a different element entirely. I compare it to a passport number: you can change your name, your appearance, even your mass, but that number is what makes you *you*. What metaphor do you use to teach identity vs. property?"
+    },
+    {
+      "index": 18,
+      "concept": "average kinetic energy",
+      "selectedIdea": "Boiling Tea Kettle",
+      "imagePath": "/generated/tea kettle.png",
+      "post": "A boiling kettle isn't just hot water — it's a population of molecules where the average kinetic energy finally crossed a threshold. The word 'average' does heavy lifting here, and students miss it. Not every molecule is moving the same speed. Teaching distributions matters in every STEM field. How do you get students to stop thinking in single values?"
+    },
+    {
+      "index": 19,
+      "concept": "balanced equation",
+      "selectedIdea": "Double Pan Scale",
+      "imagePath": "/generated/pan scale.png",
+      "post": "A balanced equation isn't about making both sides look the same — it's about conservation. Nothing appeared. Nothing vanished. A pan scale makes that visceral in a way that coefficients on a whiteboard never will. What physical object do you use to teach a law that's fundamentally about what *doesn't* change?"
+    },
+    {
+      "index": 20,
+      "concept": "band of stability",
+      "selectedIdea": "Tightrope Safety Net",
+      "imagePath": "/generated/safety net.png",
+      "post": "The band of stability is a narrow zone where nuclei hold together. Step outside it and you get radioactive decay. A tightrope net captures that idea — there's a safe region, and falling off has consequences. Students intuitively understand boundaries when you frame them as survival. What concept do you teach as a 'safe zone vs. danger zone'?"
+    },
+    {
+      "index": 21,
+      "concept": "independent variable",
+      "selectedIdea": "DJ Volume Slider",
+      "imagePath": "/generated/dj volume slider.png",
+      "post": "A DJ volume slider is the perfect independent variable — you move it, and the room responds. Students struggle with experimental design until you frame it this way: what are you choosing to change, and what are you watching happen? Every STEM discipline runs on that distinction. How do you teach the difference between what you control and what you measure?"
+    },
+    {
+      "index": 22,
+      "concept": "inorganic chemistry",
+      "selectedIdea": "Granite Mountain Face",
+      "imagePath": "/generated/granite mountain face.png",
+      "post": "Inorganic chemistry built the planet. Every mountain face is a showcase of silicates, feldspars, and metal oxides that formed without a single carbon backbone. Students default to thinking chemistry means organic — showing them a granite cliff resets that assumption fast. What assumption do your students carry in that you have to break early?"
+    },
+    {
+      "index": 23,
+      "concept": "intermolecular force",
+      "selectedIdea": "Water Strider Insect",
+      "imagePath": "/generated/water strider insect.png",
+      "post": "A water strider stands on liquid because intermolecular forces create a surface strong enough to hold it. That insect is living proof that weak forces, collectively, aren't weak at all. It's a lesson that scales beyond chemistry — small consistent things compound. What's your favorite example of something weak becoming strong through repetition?"
+    },
+    {
+      "index": 24,
+      "concept": "intramolecular forces",
+      "selectedIdea": "Diamond Ring Stone",
+      "imagePath": "/generated/diamond ring stone.png",
+      "post": "Diamond is hard because of what happens inside the molecule — covalent bonds in every direction, no weak points. Intramolecular forces are the reason some materials survive and others shatter. I teach it as internal architecture vs. external relationships. What metaphor helps your students separate the inside from the outside?"
+    },
+    {
+      "index": 25,
+      "concept": "ionic bond",
+      "selectedIdea": "Table Salt Crystal",
+      "imagePath": "/generated/table salt crystal.png",
+      "post": "Table salt: a metal that explodes in water bonded to a gas that kills on contact, forming something you sprinkle on eggs. Ionic bonding is the ultimate lesson in emergent properties — the whole is nothing like its parts. Where else in STEM do you teach that combining things creates something unrecognizable?"
+    },
+    {
+      "index": 26,
+      "concept": "ionization",
+      "selectedIdea": "Neon Bar Sign",
+      "imagePath": "/generated/neon bar sign.png",
+      "post": "A neon sign glows because electrons got ripped away from atoms and then fell back, releasing light. Ionization sounds abstract until you point at a bar sign and say: that glow is electrons coming home. Students remember stories about leaving and returning. What concept do you teach as a journey?"
+    },
+    {
+      "index": 27,
+      "concept": "isomerization",
+      "selectedIdea": "Folding Pocket Knife",
+      "imagePath": "/generated/folding pocket knife.png",
+      "post": "A folding knife open and a folding knife closed — same parts, different arrangement, completely different function. That's isomerization. Same atoms, new geometry, new behavior. Students get this instantly with physical objects that transform. What everyday object do you use to show that rearrangement changes everything?"
+    },
+    {
+      "index": 28,
+      "concept": "kinetic energy",
+      "selectedIdea": "Speeding Hockey Puck",
+      "imagePath": "/generated/speeding hockey puck.png",
+      "post": "A hockey puck sitting on ice has zero kinetic energy. The same puck at 100 mph can shatter plexiglass. Nothing changed about the puck — only its speed. Students underestimate how much motion matters until you give them a before-and-after that hits differently. What's your favorite way to make energy feel dangerous?"
+    },
+    {
+      "index": 29,
+      "concept": "law of conservation of mass",
+      "selectedIdea": "Sealed Mason Jar",
+      "imagePath": "/generated/sealed mason jar.png",
+      "post": "Burn steel wool inside a sealed mason jar. Weigh it before, weigh it after — same mass. Students expect fire to destroy things, so when the scale doesn't budge, their mental model breaks in the best way. The best demos aren't the flashiest — they're the ones that contradict expectations. What demo breaks your students' assumptions?"
+    },
+    {
+      "index": 30,
+      "concept": "law of definite proportions",
+      "selectedIdea": "Table Salt Crystal",
+      "imagePath": "/generated/table salt crystal.png",
+      "post": "Every grain of salt on Earth has the same ratio of sodium to chlorine. Not approximately — exactly. The law of definite proportions is chemistry's way of saying nature doesn't freestyle. Students find that either comforting or unsettling, and both reactions are worth exploring. What law in your field surprises students with how rigid it is?"
+    },
+    {
+      "index": 31,
+      "concept": "le chatelier's principle",
+      "selectedIdea": "Pressure Valve Cap",
+      "imagePath": "/generated/pressure valve cap.png",
+      "post": "Push a system and it pushes back. That's Le Chatelier's principle, and a pressure valve is it in action — build up too much stress and the system finds a way to relieve it. Students connect with this because it feels like life advice. What science principle do your students accidentally apply to their own lives?"
+    },
+    {
+      "index": 32,
+      "concept": "limiting reactant",
+      "selectedIdea": "Last Pizza Slice",
+      "imagePath": "/generated/last pizza slice.png",
+      "post": "You can have infinite toppings, but if there's only one slice of dough left, you're making one pizza. The limiting reactant determines the yield — everything else is excess. Students who struggle with stoichiometry often get it the moment you frame it as scarcity. What concept clicked for your students once you reframed it as a constraint?"
+    },
+    {
+      "index": 33,
+      "concept": "lithium-ion battery",
+      "selectedIdea": "Electric Bike Battery",
+      "imagePath": "/generated/electric bike battery.png",
+      "post": "A lithium-ion battery is electrochemistry, materials science, and thermodynamics packed into a rectangle that powers someone's commute. It's interdisciplinary by nature — no single course owns it. The best teaching topics are the ones that refuse to stay in one lane. What topic in your field bleeds into every other discipline?"
+    },
+    {
+      "index": 34,
+      "concept": "mass",
+      "selectedIdea": "Cast Iron Kettlebell",
+      "imagePath": "/generated/cast iron kettlebell.png",
+      "post": "Mass isn't weight. A kettlebell on the moon is lighter but just as hard to accelerate. Students conflate the two until you separate the feeling of heaviness from the resistance to motion. Unlearning is harder than learning. What's something your students have to unlearn before they can move forward?"
+    },
+    {
+      "index": 35,
+      "concept": "molarity",
+      "selectedIdea": "Espresso Shot Glass",
+      "imagePath": "/generated/espresso shot glass.png",
+      "post": "An espresso shot and a large drip coffee can have the same amount of caffeine — but the espresso is more concentrated. That's molarity: how much is packed into how little. Students who drink coffee already understand this; they just don't know the word yet. What concept are your students already living before you name it?"
+    },
+    {
+      "index": 36,
+      "concept": "molecule",
+      "selectedIdea": "Soap Bubble Sphere",
+      "imagePath": "/generated/soap bubble sphere.png",
+      "post": "A soap bubble is trillions of molecules cooperating to form a sphere — the shape that minimizes surface tension. One molecule does nothing visible. Trillions create something beautiful. I use this to teach that scale changes behavior, not just size. Where in your subject does zooming out reveal something zooming in can't?"
+    },
+    {
+      "index": 37,
+      "concept": "molecular formula",
+      "selectedIdea": "Nutrition Facts Label",
+      "imagePath": "/generated/nutrition facts label.png",
+      "post": "A nutrition label tells you what's inside without showing you the structure. A molecular formula does the same — counts the atoms but hides the architecture. Students need to understand that knowing the ingredients isn't the same as knowing the recipe. What's a distinction in your field between knowing what and knowing how?"
+    },
+    {
+      "index": 38,
+      "concept": "molecular geometry",
+      "selectedIdea": "Tripod Camera Stand",
+      "imagePath": "/generated/tripod camera stand.png",
+      "post": "A tripod is stable because three legs push away from each other equally — the same logic that gives molecules their shape. VSEPR theory sounds intimidating until you hand a student a tripod and say: electron pairs do this. Physical intuition before mathematical formalism. What abstract theory do you ground in something a student can hold?"
+    },
+    {
+      "index": 39,
+      "concept": "molecular orbital",
+      "selectedIdea": "Ceiling Fan Blur",
+      "imagePath": "/generated/ceiling fan blur.png",
+      "post": "Turn on a ceiling fan and the blades disappear into a blur. That blur is closer to what an orbital actually looks like than any textbook dot diagram — a region of probability, not a fixed path. Students want orbits. Giving them orbitals requires letting go of certainty. What concept requires your students to get comfortable with uncertainty?"
+    },
+    {
+      "index": 40,
+      "concept": "neutralization reaction",
+      "selectedIdea": "Antacid Tablet Tube",
+      "imagePath": "/generated/antacid tablet tube.png",
+      "post": "An antacid tablet is a neutralization reaction you swallow. Acid meets base, pH shifts toward 7, and your stomach stops burning. Students engage differently when the chemistry is happening inside their own body. What concept becomes more urgent when you make it personal?"
+    },
+    {
+      "index": 41,
+      "concept": "newman projection",
+      "selectedIdea": "Spinning Fidget Spinner",
+      "imagePath": "/generated/spinning fidget spinner.png",
+      "post": "A Newman projection is what you see when you look straight down a bond — like staring at a fidget spinner from above. Students struggle with it because they're used to seeing molecules from the side. Changing the viewing angle changes everything. What concept in your field only makes sense from an unusual perspective?"
+    },
+    {
+      "index": 42,
+      "concept": "noble gases",
+      "selectedIdea": "Neon Diner Sign",
+      "imagePath": "/generated/neon diner sign.png",
+      "post": "Noble gases don't react, don't bond, don't need anything from anyone. A neon sign works precisely because neon is chemically aloof — it just glows when you run current through it. There's a lesson here about stability coming from completeness, not from activity. What do you teach about the value of not reacting?"
+    },
+    {
+      "index": 43,
+      "concept": "nuclear chemistry",
+      "selectedIdea": "Uranium Glass Vase",
+      "imagePath": "/generated/uranium glass vase.png",
+      "post": "Uranium glass was sold in department stores. People drank from it. Nuclear chemistry isn't always mushroom clouds — sometimes it's a glowing green vase on your grandmother's shelf. Students engage more when you show them that 'nuclear' lived in ordinary homes. What scary-sounding topic becomes approachable when you show its mundane side?"
+    },
+    {
+      "index": 44,
+      "concept": "nuclear fission",
+      "selectedIdea": "Popping Corn Kernel",
+      "imagePath": "/generated/popping corn kernel.png",
+      "post": "One kernel pops and releases energy. In fission, one nucleus splits and releases neutrons that split more nuclei. The chain reaction logic is identical — students just need a version they can hear happening in their microwave. What complex mechanism do you teach by starting with something from the kitchen?"
+    },
+    {
+      "index": 45,
+      "concept": "nuclear fusion",
+      "selectedIdea": "Blazing Solar Surface",
+      "imagePath": "/generated/blazing solar surface.png",
+      "post": "The sun fuses hydrogen into helium and loses a little mass in the process. That missing mass becomes the light hitting your face right now. E=mc² isn't abstract when you're standing in its output. What equation do you teach by pointing at its consequences instead of its symbols?"
+    },
+    {
+      "index": 46,
+      "concept": "nucleic acid",
+      "selectedIdea": "Ancestry DNA Swab",
+      "imagePath": "/generated/ancestry dna swab.png",
+      "post": "A cotton swab and some saliva — that's all it takes to read the nucleic acid that makes you, you. Students care about DNA the moment it becomes personal. The fastest path to engagement is relevance, and nothing is more relevant than identity. What concept do you make personal to make it stick?"
+    },
+    {
+      "index": 47,
+      "concept": "nucleophile",
+      "selectedIdea": "Velcro Catch Mitt",
+      "imagePath": "/generated/velcro catch mitt.png",
+      "post": "A nucleophile is an electron-rich species looking for something positive to attach to — like a velcro mitt reaching for a ball. Students who can't remember 'nucleophile vs. electrophile' never forget 'catcher vs. thrower.' Renaming things in student language isn't dumbing down — it's building a bridge. What term did you rename to make it land?"
+    },
+    {
+      "index": 48,
+      "concept": "octet rule",
+      "selectedIdea": "Eight Slice Pizza",
+      "imagePath": "/generated/eight slice pizza.png",
+      "post": "Eight slices make a complete pizza. Eight electrons make a complete outer shell. Students remember the octet rule when you tie it to the satisfaction of a full set — and the discomfort of a missing piece. Completeness is a feeling before it's a rule. What rule do you teach through the feeling of something being finished?"
+    },
+    {
+      "index": 49,
+      "concept": "organic chemistry",
+      "selectedIdea": "Vanilla Bean Pod",
+      "imagePath": "/generated/vanilla bean pod.png",
+      "post": "Organic chemistry has a branding problem — students hear 'organic' and think health food. Hand them a vanilla pod and explain that vanillin is a carbon-based molecule synthesized in a lab and found in nature. The line between natural and synthetic dissolves. What misconception in your field comes from everyday language?"
+    },
+    {
+      "index": 50,
+      "concept": "osmosis",
+      "selectedIdea": "Swollen Gummy Bear",
+      "imagePath": "/generated/swollen gummy bear.png",
+      "post": "Drop a gummy bear in water overnight and it swells to three times its size. That's osmosis — water moving across a membrane toward higher solute concentration. Students remember it because the result is absurd and visible. What demo produces a result so dramatic that students can't look away?"
+    },
+    {
+      "index": 51,
+      "concept": "oxidation",
+      "selectedIdea": "Rusty Bicycle Chain",
+      "imagePath": "/generated/rusty bicycle chain.png",
+      "post": "A rusty bike chain is oxidation you can touch — iron giving up electrons to oxygen, one rainy day at a time. Students think reactions happen fast. Rust teaches them that chemistry is patient. Some of the most important processes are the slow ones. What slow process do you wish students respected more?"
+    },
+    {
+      "index": 52,
+      "concept": "oxidizing agent",
+      "selectedIdea": "Bleach Spray Bottle",
+      "imagePath": "/generated/bleach spray bottle.png",
+      "post": "Bleach doesn't clean by scrubbing — it steals electrons from stains until they fall apart. An oxidizing agent is a thief, and bleach is the most common one in every household. Students remember villains better than definitions. What concept do you teach by giving it a role in a story?"
+    },
+    {
+      "index": 53,
+      "concept": "pH",
+      "selectedIdea": "Bitten Lemon Wedge",
+      "imagePath": "/generated/lemon.png",
+      "post": "Bite a lemon and your face tells you the pH before any indicator strip could. That wince is your body's built-in acid detector. I teach pH by starting with taste and working backward to hydrogen ion concentration. Sensation first, math second. What concept do you introduce through the body before the brain?"
+    },
+    {
+      "index": 54,
+      "concept": "periodic table",
+      "selectedIdea": "Vintage Apothecary Cabinet",
+      "imagePath": "/generated/vintage apothecary cabinet.png",
+      "post": "The periodic table is an apothecary cabinet — every drawer holds something with specific properties, and the organization tells you what to expect before you open it. Students who see it as a wall of symbols need to see it as a filing system first. What organizational tool do you use as a metaphor for your field's structure?"
+    },
+    {
+      "index": 55,
+      "concept": "photosynthesis",
+      "selectedIdea": "Sunflower Face Disk",
+      "imagePath": "/generated/sunflower face disk.png",
+      "post": "A sunflower literally tracks the sun across the sky to maximize photosynthesis. It's not passive — it's strategic. Students think plants just sit there, but photosynthesis is an active, optimized, light-harvesting operation. What process do your students underestimate because it looks effortless?"
+    },
+    {
+      "index": 56,
+      "concept": "physical change",
+      "selectedIdea": "Crushed Soda Can",
+      "imagePath": "/generated/crushed soda can.png",
+      "post": "Crush a soda can and it's still aluminum. Melt it and it's still aluminum. Physical changes alter form but not identity — and students confuse this with chemical change constantly. The distinction matters because it teaches them that appearance isn't essence. Where else do you teach your students not to trust appearances?"
+    },
+    {
+      "index": 57,
+      "concept": "pi bond",
+      "selectedIdea": "Double Zipper Teeth",
+      "imagePath": "/generated/double zipper teeth.png",
+      "post": "A sigma bond is the zipper's main track. A pi bond is the second row of teeth that locks it tighter. Students who can't visualize orbital overlap often get it when you show them that a double connection restricts rotation — just like a double zipper won't twist. What physical constraint do you use to explain a molecular one?"
+    },
+    {
+      "index": 58,
+      "concept": "polar covalent bond",
+      "selectedIdea": "Water Droplet Bead",
+      "imagePath": "/generated/water droplet bead.png",
+      "post": "Water beads on a surface because its bonds are polar — electrons spend more time near oxygen, creating a lopsided molecule that sticks to itself. Every water droplet is a lesson in unequal sharing. Students understand unfairness intuitively. What concept do you teach through inequality?"
+    },
+    {
+      "index": 59,
+      "concept": "polymerization",
+      "selectedIdea": "Plastic Grocery Bag",
+      "imagePath": "/generated/plastic grocery bag.png",
+      "post": "A plastic bag is one small molecule repeated thousands of times in a chain. Polymerization turns something invisible into something you carry groceries in. Students grasp it when you frame it as repetition creating strength — the same principle behind habits, practice, and compound interest. What chemistry concept has a life lesson hiding inside it?"
+    },
+    {
+      "index": 60,
+      "concept": "precipitate",
+      "selectedIdea": "Rock Candy Crystal",
+      "imagePath": "/generated/rock candy crystal.png",
+      "post": "Rock candy forms because sugar molecules fall out of solution as the water cools — a precipitate you can eat. Students who've grown crystals on a string already understand precipitation; they just need the vocabulary to match the experience. What lab do you run where students already know the outcome before they know the science?"
+    },
+    {
+      "index": 61,
+      "concept": "precision",
+      "selectedIdea": "Swiss Watch Mechanism",
+      "imagePath": "/generated/swiss watch mechanism.png",
+      "post": "A Swiss watch doesn't need to be accurate to be precise — it just needs to tick the same way every time. Students confuse precision with accuracy constantly, and a watch that's consistently two minutes fast is the clearest way to split them apart. What pair of terms do your students collapse into one until you force the distinction?"
+    },
+    {
+      "index": 62,
+      "concept": "pressure",
+      "selectedIdea": "Pressure Cooker Valve",
+      "imagePath": "/generated/pressure cooker valve.png",
+      "post": "A pressure cooker valve exists because confined molecules hit walls harder when they're hot. That valve is the engineering solution to a physics problem students can hear — the hiss is pressure finding an exit. What concept in your field has a sound that makes it real?"
+    },
+    {
+      "index": 63,
+      "concept": "product",
+      "selectedIdea": "Fresh Bread Loaf",
+      "imagePath": "/generated/fresh bread loaf.png",
+      "post": "A loaf of bread is the product of a reaction — flour, water, yeast, and heat go in, and something entirely new comes out. You can't unbake bread. Students understand irreversibility when it smells good. What product do you use to show that reactions create things that didn't exist before?"
+    },
+    {
+      "index": 64,
+      "concept": "protein",
+      "selectedIdea": "Spider Silk Strand",
+      "imagePath": "/generated/spider silk strand.png",
+      "post": "Spider silk is a protein stronger than steel by weight. Students think proteins are just meat and shakes — showing them silk reframes protein as an engineering material. Biology built better structures than we have, and it did it with amino acids. What fact from your field makes students rethink a category they thought they understood?"
+    },
+    {
+      "index": 65,
+      "concept": "proton",
+      "selectedIdea": "Battery Plus Terminal",
+      "imagePath": "/generated/battery plus terminal.png",
+      "post": "The plus sign on a battery is the simplest visual for a proton's role — positive charge, attracting electrons, defining the element. Students who can't remember proton vs. electron never forget which terminal is which on a battery. What everyday symbol do you hijack to teach a particle concept?"
+    },
+    {
+      "index": 66,
+      "concept": "quantum number",
+      "selectedIdea": "Library Call Number",
+      "imagePath": "/generated/library call number.png",
+      "post": "A library call number tells you the floor, the section, the shelf, and the position. Quantum numbers do the same for electrons — four values that pinpoint exactly where something lives in a system. Students who hate quantum mechanics often love libraries. What familiar system do you use to teach an unfamiliar addressing scheme?"
+    },
+    {
+      "index": 67,
+      "concept": "radiation",
+      "selectedIdea": "Sun Tanning Lamp",
+      "imagePath": "/generated/sun tanning lamp.png",
+      "post": "A tanning lamp emits UV radiation — the same kind the sun does, just concentrated and pointed at your skin on purpose. Students fear the word 'radiation' until you show them they've been voluntarily sitting under it. Familiarity dissolves fear. What scary topic in your field becomes manageable once students realize they already interact with it?"
+    },
+    {
+      "index": 68,
+      "concept": "radioactive decay",
+      "selectedIdea": "Fading Radium Dial",
+      "imagePath": "/generated/fading radium dial.png",
+      "post": "Old radium watch dials glow dimmer every decade — that's radioactive decay you can literally watch happen across a human lifetime. Students think decay is instant or invisible. A fading glow teaches them it's neither. What process do you teach by showing its evidence over time?"
+    },
+    {
+      "index": 69,
+      "concept": "rate of reaction",
+      "selectedIdea": "Burning Fuse Rope",
+      "imagePath": "/generated/burning fuse rope.png",
+      "post": "A burning fuse makes reaction rate visible — you can watch the front advance and measure how fast chemistry is eating through material. Speed becomes spatial. Students who struggle with rate equations often get it when you turn time into distance. What abstract quantity do you convert into something spatial?"
+    },
+    {
+      "index": 70,
+      "concept": "reactant",
+      "selectedIdea": "Unpopped Popcorn Kernel",
+      "imagePath": "/generated/unpopped popcorn kernel.png",
+      "post": "An unpopped kernel is pure potential — a reactant waiting for activation energy. Every student has held one and wondered if it would pop. That anticipation is exactly what a reactant is: the before-state, loaded and ready. What object do you use to teach the tension of 'not yet'?"
+    },
+    {
+      "index": 71,
+      "concept": "reaction intermediate",
+      "selectedIdea": "Half Popped Kernel",
+      "imagePath": "/generated/half popped kernel.png",
+      "post": "A half-popped kernel is neither corn nor popcorn — it's the in-between state that exists for a moment and then vanishes. Reaction intermediates are the same: real but fleeting, never the final answer. Students struggle with things that exist temporarily. What concept do you teach that only makes sense as a transition?"
+    },
+    {
+      "index": 72,
+      "concept": "reaction mechanism",
+      "selectedIdea": "Rube Goldberg Machine",
+      "imagePath": "/generated/rube goldberg machine.png",
+      "post": "A Rube Goldberg machine turns a simple outcome into a visible sequence of steps — exactly what a reaction mechanism does for a chemical equation. Students see the balanced equation and think it happens in one leap. Mechanisms teach them that simplicity hides complexity. Where do you pull back the curtain on a process students assumed was one step?"
+    },
+    {
+      "index": 73,
+      "concept": "recrystallization",
+      "selectedIdea": "Rock Candy Stick",
+      "imagePath": "/generated/rock candy stick.png",
+      "post": "Rock candy is recrystallization you can taste — dissolve sugar hot, cool it slow, and pure crystals grow on a string. Students who've made rock candy already know the technique; they just didn't know it had a name used in every organic chemistry lab. What advanced technique are your students already doing without realizing it?"
+    },
+    {
+      "index": 74,
+      "concept": "redox reaction",
+      "selectedIdea": "Rusting Bicycle Chain",
+      "imagePath": "/generated/rusting bicycle chain.png",
+      "post": "Rust is a redox reaction happening in slow motion on every neglected bike chain. One species loses electrons, another gains them — and the evidence is that orange crust students can scrape off with their thumbnail. Redox is everywhere once you train your eye. What reaction is happening right now in your classroom that students don't notice?"
+    },
+    {
+      "index": 75,
+      "concept": "reducing agent",
+      "selectedIdea": "Vitamin C Tablet",
+      "imagePath": "/generated/vitamin c tablet.png",
+      "post": "Vitamin C is a reducing agent — it donates electrons to neutralize free radicals. Students take it to 'stay healthy' without knowing they're swallowing electron donors. The moment you connect a supplement to electron transfer, antioxidants stop being marketing and start being chemistry. What health claim do you decode with your students?"
+    },
+    {
+      "index": 76,
+      "concept": "resonance",
+      "selectedIdea": "Tuning Fork Prong",
+      "imagePath": "/generated/tuning fork prong.png",
+      "post": "Strike a tuning fork and both prongs vibrate — the energy isn't in one place, it's distributed across the whole structure. Resonance in chemistry works the same way: electrons delocalized, shared across bonds, stabilizing the molecule. What concept do you teach by showing that spreading out creates stability?"
+    },
+    {
+      "index": 77,
+      "concept": "saturated compound",
+      "selectedIdea": "Paraffin Wax Candle",
+      "imagePath": "/generated/paraffin wax candle.png",
+      "post": "Paraffin wax is a saturated hydrocarbon — every carbon holds as many hydrogens as it can. No double bonds, no room for addition. It's chemically 'full.' Students understand saturation better when you frame it as capacity: this molecule has no empty seats. What concept do you teach through the idea of being full vs. having room?"
+    },
+    {
+      "index": 78,
+      "concept": "scientific method",
+      "selectedIdea": "Field Notes Journal",
+      "imagePath": "/generated/field notes journal.png",
+      "post": "The scientific method isn't a rigid five-step recipe — it's a habit of writing things down, questioning what you see, and testing whether you're wrong. A field journal captures that better than any flowchart. Students need to see science as a practice, not a procedure. How do you teach method as a mindset rather than a checklist?"
+    },
+    {
+      "index": 79,
+      "concept": "second law of thermodynamics",
+      "selectedIdea": "Melting Ice Cream",
+      "imagePath": "/generated/melting ice cream.png",
+      "post": "Ice cream melts. It never un-melts. The second law of thermodynamics is the reason — entropy increases, order decays, and no amount of wishing puts the scoop back together. Students feel this law before they learn it. Every STEM field has a version of irreversibility. What's yours?"
+    },
+    {
+      "index": 80,
+      "concept": "significant figures",
+      "selectedIdea": "Digital Kitchen Scale",
+      "imagePath": "/generated/digital kitchen scale.png",
+      "post": "A kitchen scale that reads 142.3g is making a claim: I'm confident to the tenths place. Sig figs aren't about rounding — they're about honesty. How certain are you? Students hate sig figs until you frame them as intellectual humility. What concept in your field is secretly about admitting what you don't know?"
+    },
+    {
+      "index": 81,
+      "concept": "single displacement reaction",
+      "selectedIdea": "Substitute Player Jersey",
+      "imagePath": "/generated/substitute player jersey.png",
+      "post": "A substitute player walks on, the starter walks off — same team, different lineup. Single displacement reactions work the same way: one element kicks another out of a compound and takes its place. Students remember reactions better when they have characters with motives. What reaction do you teach as a story with a protagonist?"
+    },
+    {
+      "index": 82,
+      "concept": "solubility",
+      "selectedIdea": "Sugar Cube Stack",
+      "imagePath": "/generated/sugar cube stack.png",
+      "post": "Drop sugar cubes into water one at a time. At some point, the water says no — it can't dissolve any more. That limit is solubility, and students understand it viscerally when they watch the sugar pile up on the bottom. What concept do you teach by pushing a system past its limit?"
+    },
+    {
+      "index": 83,
+      "concept": "solute",
+      "selectedIdea": "Sugar Packet Sachet",
+      "imagePath": "/generated/sugar packet sachet.png",
+      "post": "The sugar packet is the solute — the thing that disappears into the coffee. Students mix up solute and solvent until you ask: which one vanished? The one that disappears is the guest. The one that stays is the host. What naming confusion do you solve with a simple role assignment?"
+    },
+    {
+      "index": 84,
+      "concept": "solution",
+      "selectedIdea": "Iced Lemonade Pitcher",
+      "imagePath": "/generated/iced lemonade pitcher.png",
+      "post": "Lemonade looks uniform — you can't see where the sugar ends and the water begins. That's what makes it a solution, not a mixture with visible parts. Students need to understand that 'mixed well enough to look like one thing' is a real chemical category. What invisible boundary do you teach students to recognize?"
+    },
+    {
+      "index": 85,
+      "concept": "solvent",
+      "selectedIdea": "Nail Polish Remover",
+      "imagePath": "/generated/nail polish remover.png",
+      "post": "Nail polish remover dissolves what water can't — because acetone is a different kind of solvent with different molecular preferences. 'Like dissolves like' is one of those rules that sounds too simple until students try to dissolve oil in water and fail. What rule in your field sounds too simple but holds up every time?"
+    },
+    {
+      "index": 86,
+      "concept": "specific heat",
+      "selectedIdea": "Cast Iron Skillet",
+      "imagePath": "/generated/cast iron skillet.png",
+      "post": "A cast iron skillet stays hot long after you turn off the burner. That's high specific heat — it takes a lot of energy to change its temperature, and it gives that energy back slowly. Students who cook already know this; they just need the vocabulary. What kitchen intuition maps directly to a concept in your curriculum?"
+    },
+    {
+      "index": 87,
+      "concept": "spectroscopy",
+      "selectedIdea": "Glass Prism Pendant",
+      "imagePath": "/generated/glass prism pendant.png",
+      "post": "A prism splits white light into colors — and each element has its own color fingerprint. Spectroscopy is how we know what stars are made of without ever touching them. Students love the detective angle: reading light like a crime scene. What tool in your field lets you learn about something without direct contact?"
+    },
+    {
+      "index": 88,
+      "concept": "stability",
+      "selectedIdea": "Cairn Stone Tower",
+      "imagePath": "/generated/cairn stone tower.png",
+      "post": "A cairn stands because each stone found a position where forces balance. Remove one and the whole thing collapses. Stability isn't about being strong — it's about being in the right arrangement. Students confuse strength with stability constantly. What distinction do you teach that sounds like the same thing but isn't?"
+    },
+    {
+      "index": 89,
+      "concept": "stoichiometry",
+      "selectedIdea": "Recipe Measuring Cups",
+      "imagePath": "/generated/recipe measuring cups.png",
+      "post": "Stoichiometry is baking. Two cups flour, one cup sugar, half cup butter — change the ratio and you get a different result. Students who panic at mole ratios relax when you tell them they've been doing stoichiometry since they first followed a recipe. What intimidating topic in your field has a domestic equivalent that calms students down?"
+    },
+    {
+      "index": 90,
+      "concept": "sublimation",
+      "selectedIdea": "Dry Ice Cube",
+      "imagePath": "/generated/dry ice cube.png",
+      "post": "Dry ice skips liquid entirely — solid straight to gas. Students expect phase changes to follow a sequence, and sublimation breaks that expectation. The fog rolling off a chunk of dry ice is chemistry being theatrical on purpose. What concept do you teach that violates a pattern students assumed was universal?"
+    },
+    {
+      "index": 91,
+      "concept": "substitution reaction",
+      "selectedIdea": "Interchangeable Camera Lens",
+      "imagePath": "/generated/interchangeable camera lens.png",
+      "post": "Swap a camera lens and the body stays the same but the output changes completely. Substitution reactions work identically — one group leaves, another takes its place, and the molecule's behavior shifts. Students grasp mechanisms faster when the metaphor involves something they'd actually want to own. What object makes your hardest topic covetable?"
+    },
+    {
+      "index": 92,
+      "concept": "surface tension",
+      "selectedIdea": "Water Strider Insect",
+      "imagePath": "/generated/water strider insect.png",
+      "post": "A water strider doesn't float — it stands on a molecular trampoline. Surface tension is strong enough to hold an insect but weak enough that a drop of soap destroys it. Students love that fragility. What concept do you teach by showing how easily it breaks?"
+    },
+    {
+      "index": 93,
+      "concept": "synthesis",
+      "selectedIdea": "Woven Basket Bowl",
+      "imagePath": "/generated/woven basket bowl.png",
+      "post": "A woven basket is synthesis made visible — separate strands becoming one functional object that's stronger than any individual piece. Synthesis reactions do the same at the molecular level: parts combine into something new. What hands-on activity do you use to teach that combining creates properties none of the parts had alone?"
+    },
+    {
+      "index": 94,
+      "concept": "temperature",
+      "selectedIdea": "Digital Thermometer Probe",
+      "imagePath": "/generated/digital thermometer probe.png",
+      "post": "A thermometer doesn't measure heat — it measures average molecular speed. Students conflate temperature with energy until you show them that a bathtub of lukewarm water holds more thermal energy than a spark. What measurement do your students misinterpret because they confuse it with a related quantity?"
+    },
+    {
+      "index": 95,
+      "concept": "thermal energy",
+      "selectedIdea": "Glowing Lava Rock",
+      "imagePath": "/generated/glowing lava rock.png",
+      "post": "A glowing lava rock is thermal energy you can see — molecules vibrating so intensely they emit light. Students think heat is invisible, but at high enough temperatures, it announces itself. What concept in your field becomes visible only at extremes?"
+    },
+    {
+      "index": 96,
+      "concept": "thermochemistry",
+      "selectedIdea": "Self Heating Meal",
+      "imagePath": "/generated/self heating meal.png",
+      "post": "A self-heating meal uses a chemical reaction to cook food without a stove — thermochemistry packaged for a backpack. Students engage when chemistry solves a problem they've actually had. Relevance isn't a gimmick; it's the fastest path to retention. What real-world product do you reverse-engineer with your students?"
+    },
+    {
+      "index": 97,
+      "concept": "titration",
+      "selectedIdea": "Pool Test Strip",
+      "imagePath": "/generated/pool test strip.png",
+      "post": "A pool test strip is titration simplified — dip, compare colors, adjust chemicals. Students who dread burets and endpoints relax when they realize they've been doing crude titrations every summer. Meeting students where they already are isn't lowering the bar — it's finding the on-ramp. Where do you find your on-ramp?"
+    },
+    {
+      "index": 98,
+      "concept": "transition metal",
+      "selectedIdea": "Titanium Bike Frame",
+      "imagePath": "/generated/titanium bike frame.png",
+      "post": "Titanium is light, strong, corrosion-resistant, and biocompatible — all because of how its d-electrons behave. Transition metals aren't just a block on the periodic table; they're the reason we have colored glass, MRI machines, and bike frames that outlast their riders. What group of elements or concepts do your students dismiss until you show them the applications?"
+    },
+    {
+      "index": 99,
+      "concept": "triple bond",
+      "selectedIdea": "Triple Braided Rope",
+      "imagePath": "/generated/triple braided rope.png",
+      "post": "Three strands braided together are stronger than three strands side by side — and shorter. A triple bond works the same way: stronger, shorter, and more rigid than a single or double. Students remember bond order when you let them pull on ropes of different braid counts. What concept do you teach by letting students feel the difference?"
+    },
+    {
+      "index": 100,
+      "concept": "vapor pressure",
+      "selectedIdea": "Perfume Atomizer Bottle",
+      "imagePath": "/generated/perfume bottle.png",
+      "post": "Perfume works because its molecules escape the liquid surface and reach your nose — that's vapor pressure doing its job. High vapor pressure means a substance is eager to become gas. Students understand 'eagerness' as a personality trait before they understand it as a thermodynamic property. What concept do you anthropomorphize to make it stick?"
+    },
+    {
+      "index": 101,
+      "concept": "viscosity",
+      "selectedIdea": "Honey Drip Jar",
+      "imagePath": "/generated/honey drip jar.png",
+      "post": "Honey pours slow because its molecules tangle and drag against each other. That resistance is viscosity — and students understand it the moment you ask them to race honey against water down a tilted plate. Competition makes measurement intuitive. What concept do you teach by turning it into a race?"
+    },
+    {
+      "index": 102,
+      "concept": "water molecule",
+      "selectedIdea": "Raindrop Window Bead",
+      "imagePath": "/generated/raindrop window bead.png",
+      "post": "A raindrop beads on glass because water molecules are stickier to each other than to the surface. One molecule explains rain, sweat, oceans, and life. Students underestimate water until you show them how much chemistry depends on its weird bent shape. What simple thing in your field turns out to explain everything?"
+    },
+    {
+      "index": 103,
+      "concept": "weak acid",
+      "selectedIdea": "Apple Cider Vinegar",
+      "imagePath": "/generated/apple cider vinegar.png",
+      "post": "Apple cider vinegar is acidic enough to sting a cut but not enough to dissolve metal. That's what 'weak acid' means — partial dissociation, not harmlessness. Students hear 'weak' and think 'safe,' which is a dangerous conflation. What word in your field misleads students because of its everyday connotation?"
+    },
+    {
+      "index": 104,
+      "concept": "weak base",
+      "selectedIdea": "Baking Soda Box",
+      "imagePath": "/generated/baking soda box.png",
+      "post": "Baking soda is a weak base that deodorizes fridges, leavens bread, and soothes heartburn — three completely different applications of the same mild chemistry. Students love when one substance does multiple jobs because it makes memorization feel like a shortcut. What single example do you use to cover three topics at once?"
+    },
+    {
+      "index": 105,
+      "concept": "weight",
+      "selectedIdea": "Bathroom Scale Dial",
+      "imagePath": "/generated/bathroom scale dial.png",
+      "post": "A bathroom scale measures force, not mass — it's reading how hard gravity pulls you down. Move to Mars and the number drops. Students think weight is intrinsic until you change the planet. Context-dependence is one of the hardest ideas in STEM. What quantity do your students treat as fixed that's actually relative?"
+    },
+    {
+      "index": 106,
+      "concept": "barometer",
+      "selectedIdea": "Antique Ship Barometer",
+      "imagePath": "/generated/ship barometer.png",
+      "post": "Sailors used barometers to predict storms before satellites existed — falling pressure meant bad weather was coming. A barometer turns invisible atmospheric weight into a readable number. Students respect instruments more when you show them the era before technology made measurement easy. What old-school tool do you wish your students appreciated?"
+    },
+    {
+      "index": 107,
+      "concept": "base",
+      "selectedIdea": "Wet Soap Bar",
+      "imagePath": "/generated/soap bar.png",
+      "post": "Soap feels slippery because bases react with oils on your skin to form new compounds — you're literally making soap on your hands while washing them. Students think slippery means smooth surface. It actually means chemistry is happening. What sensation do you reframe as evidence of a reaction?"
+    },
+    {
+      "index": 108,
+      "concept": "battery",
+      "selectedIdea": "Phone Power Bank",
+      "imagePath": "/generated/power bank.png",
+      "post": "A power bank is a portable redox reaction — electrons flowing from anode to cathode through your phone's circuits. Students charge their devices daily without realizing they're managing electrochemistry. The best teaching moments hide inside habits. What daily habit do you interrupt with a 'did you know what's actually happening here?'"
+    },
+    {
+      "index": 109,
+      "concept": "benzene",
+      "selectedIdea": "Vintage Gas Pump",
+      "imagePath": "/generated/gas pump.png",
+      "post": "Benzene was once added to gasoline freely — the word 'benzene' literally shares a root with 'gasoline' in some languages. Its ring structure revolutionized organic chemistry, and its health risks revolutionized safety regulations. Students engage when a molecule has a controversial history. What topic do you teach through its backstory?"
+    },
+    {
+      "index": 110,
+      "concept": "biochemistry",
+      "selectedIdea": "Beating Human Heart",
+      "imagePath": "/generated/human heart.png",
+      "post": "A beating heart is biochemistry in real time — ion channels firing, ATP burning, proteins contracting sixty times a minute. Students forget that biology runs on chemistry until you point at their chest and say: that's a chemical engine. What organ or system do you use to collapse the wall between biology and chemistry?"
+    },
+    {
+      "index": 111,
+      "concept": "boiling point",
+      "selectedIdea": "Whistling Tea Kettle",
+      "imagePath": "/generated/whistling kettle.png",
+      "post": "A whistling kettle announces the boiling point — the exact temperature where liquid water has enough energy to become gas throughout the bulk, not just at the surface. That whistle is a phase transition you can hear. What concept in your field has an audible signal that students can learn to recognize?"
+    },
+    {
+      "index": 112,
+      "concept": "bond dissociation",
+      "selectedIdea": "Snapped Rope Fiber",
+      "imagePath": "/generated/rope fiber.png",
+      "post": "Snap a rope and you feel how much force it took — that's bond dissociation energy in your hands. Some bonds break easily; others require enormous input. Students who've ever broken something tough understand that breaking isn't free. What concept do you teach by asking students how much effort destruction requires?"
+    },
+    {
+      "index": 113,
+      "concept": "bond energy",
+      "selectedIdea": "Climbing Carabiner Gate",
+      "imagePath": "/generated/carabiner.png",
+      "post": "A carabiner holds a climber's weight because its gate mechanism can withstand enormous force before failing. Bond energy is the same idea — how much stress a connection can absorb before it breaks. Students respect bonds more when you frame them as load-bearing. What concept do you teach by asking 'how much can this handle before it fails?'"
+    },
+    {
+      "index": 114,
+      "concept": "bond length",
+      "selectedIdea": "Bicycle Chain Link",
+      "imagePath": "/generated/chain link.png",
+      "post": "Every link in a bicycle chain has the same length — change it and the chain jams. Bond length in molecules works similarly: specific distances that keep the structure functional. Students who've ever fixed a bike chain understand that spacing matters. What mechanical intuition do you borrow from your students' hobbies?"
+    },
+    {
+      "index": 115,
+      "concept": "boyle's law",
+      "selectedIdea": "Inflating Bike Pump",
+      "imagePath": "/generated/bike pump.png",
+      "post": "Push a bike pump and the air inside gets smaller and pushes back harder. That's Boyle's law — pressure and volume moving in opposite directions at constant temperature. Students get it in one pump stroke. The best physics lives in objects that push back. What concept do you teach through resistance?"
+    },
+    {
+      "index": 116,
+      "concept": "buffer solution",
+      "selectedIdea": "Contact Lens Solution",
+      "imagePath": "/generated/contact lens solution.png",
+      "post": "Contact lens solution is buffered to match your eye's pH — add a tiny bit of acid or base and it barely flinches. That's what buffers do: absorb shocks without changing. Students who wear contacts trust buffer chemistry with their corneas every morning. What concept do your students already trust with their body without knowing the science?"
+    },
+    {
+      "index": 117,
+      "concept": "catalyst",
+      "selectedIdea": "Spark Plug Electrode",
+      "imagePath": "/generated/spark plug electrode.png",
+      "post": "A spark plug doesn't provide fuel — it just lowers the barrier to ignition. A catalyst does the same for reactions: it doesn't get consumed, it just makes things happen faster. Students confuse catalysts with reactants until you ask: did the spark plug disappear after the engine started? What misconception do you fix with one good question?"
+    },
+    {
+      "index": 118,
+      "concept": "chemical bond",
+      "selectedIdea": "Velcro Sneaker Strap",
+      "imagePath": "/generated/velcro sneaker strap.png",
+      "post": "Velcro holds because hundreds of tiny hooks grab hundreds of tiny loops — weak individually, strong collectively. Chemical bonds range from velcro-weak to diamond-strong, and students need to feel that spectrum. What object pair do you use to show the range between weak and strong connections?"
+    },
+    {
+      "index": 119,
+      "concept": "chemical change",
+      "selectedIdea": "Rusting Iron Gate",
+      "imagePath": "/generated/rusting iron gate.png",
+      "post": "A rusting gate isn't just changing color — it's becoming a different substance. Iron oxide has different properties than iron. Students see surface change and assume it's cosmetic. Teaching them to ask 'is this still the same stuff?' is one of the most transferable skills in science. What question do you teach students to ask reflexively?"
+    },
+    {
+      "index": 120,
+      "concept": "chemical compound",
+      "selectedIdea": "Table Salt Crystal",
+      "imagePath": "/generated/table salt crystal.png",
+      "post": "Table salt is a compound — not a mixture, not an element, but two elements locked in a fixed ratio with properties neither parent has. Students struggle with 'compound vs. mixture' until you challenge them: can you separate salt back into a metal and a gas in your kitchen? The difficulty of undoing something teaches what it is. What do you teach by asking students to reverse it?"
+    },
+    {
+      "index": 121,
+      "concept": "chemical equilibrium",
+      "selectedIdea": "Pendulum Clock Bob",
+      "imagePath": "/generated/pendulum clock bob.png",
+      "post": "A pendulum swings left and right at the same rate — the system is in motion but the overall pattern doesn't change. That's chemical equilibrium: reactions still happening in both directions, just at equal speeds. Students think equilibrium means 'stopped.' It means balanced motion. What concept do your students mistake for stillness when it's actually dynamic?"
+    },
+    {
+      "index": 122,
+      "concept": "chemical formula",
+      "selectedIdea": "Nutrition Facts Label",
+      "imagePath": "/generated/nutrition facts label.png",
+      "post": "A nutrition label compresses complex food into a shorthand anyone can read. A chemical formula does the same — H₂O tells you the atoms and the ratio but nothing about shape, behavior, or context. Students need to learn that formulas are summaries, not stories. What shorthand in your field do students over-trust?"
+    },
+    {
+      "index": 123,
+      "concept": "chemical kinetics",
+      "selectedIdea": "Burning Fuse Rope",
+      "imagePath": "/generated/burning fuse rope.png",
+      "post": "A burning fuse is kinetics made visible — you can measure how fast the reaction front moves and ask what would speed it up or slow it down. Temperature, surface area, concentration — all testable with a piece of rope and a stopwatch. What concept do you teach with nothing more than a timer and a question?"
+    },
+    {
+      "index": 124,
+      "concept": "chemical nomenclature",
+      "selectedIdea": "Library Spine Label",
+      "imagePath": "/generated/library spine label.png",
+      "post": "Chemical nomenclature is a naming system — learn the rules and you can name a molecule you've never seen before, just like a librarian can shelve a book they've never read. Students hate memorizing names until you show them it's a code they can crack. What system in your field rewards pattern recognition over memorization?"
+    },
+    {
+      "index": 125,
+      "concept": "chemical potential energy",
+      "selectedIdea": "Gasoline Jerry Can",
+      "imagePath": "/generated/gasoline jerry can.png",
+      "post": "A jerry can of gasoline sits quietly in a garage holding enough chemical potential energy to move a car 30 miles. Energy doesn't have to look dramatic to be dangerous. Students respect stored energy more when you quantify what it could do if released. What quiet thing in your field holds surprising power?"
+    },
+    {
+      "index": 126,
+      "concept": "chemical reaction",
+      "selectedIdea": "Rusting Bicycle Chain",
+      "imagePath": "/generated/rusting bicycle chain.png",
+      "post": "A rusting chain is proof that chemistry doesn't need a lab — it just needs iron, oxygen, and time. Students think reactions require beakers and Bunsen burners. Showing them that their bike is a reaction vessel reframes where science happens. What example do you use to move science out of the lab and into the world?"
+    },
+    {
+      "index": 127,
+      "concept": "chemical reactivity",
+      "selectedIdea": "Fizzing Antacid Tablet",
+      "imagePath": "/generated/fizzing antacid tablet.png",
+      "post": "Drop an antacid in water and it fizzes immediately — high reactivity means it doesn't wait around. Some substances react eagerly; others need convincing. Students understand personality differences, and reactivity is basically molecular personality. What concept do you humanize to make it memorable?"
+    },
+    {
+      "index": 128,
+      "concept": "chemical solution",
+      "selectedIdea": "Blue Mouthwash Bottle",
+      "imagePath": "/generated/blue mouthwash bottle.png",
+      "post": "Mouthwash is a chemical solution — multiple dissolved substances in a uniform liquid. Students swish it around every morning without thinking about solute-solvent interactions. The gap between 'using chemistry' and 'knowing chemistry' is where teaching lives. What product do your students use daily that's secretly your entire unit?"
+    },
+    {
+      "index": 129,
+      "concept": "chemical stability",
+      "selectedIdea": "Ancient Bronze Coin",
+      "imagePath": "/generated/ancient bronze coin.png",
+      "post": "A bronze coin survives 2,000 years because its alloy resists corrosion — chemical stability measured in centuries. Students think stability is boring until you frame it as survival. The most stable molecules are the ones that outlast everything around them. What do you teach about the value of not changing?"
+    },
+    {
+      "index": 130,
+      "concept": "chirality",
+      "selectedIdea": "Left Hand Glove",
+      "imagePath": "/generated/left hand glove.png",
+      "post": "Your left hand and right hand have the same parts in the same order — but they're not interchangeable. That's chirality. In drug design, the wrong mirror image can be medicine or poison. Students never forget chirality once you ask them to put a left glove on their right hand. What concept do you teach through physical discomfort?"
+    },
+    {
+      "index": 131,
+      "concept": "colloid",
+      "selectedIdea": "Whipped Cream Swirl",
+      "imagePath": "/generated/whipped cream swirl.png",
+      "post": "Whipped cream is a colloid — gas trapped in liquid, stable enough to hold its shape on a pie. It's not a solution and not a suspension, but something in between. Students love categories until they meet something that doesn't fit neatly. What in-between concept challenges your students' need for clean boxes?"
+    },
+    {
+      "index": 132,
+      "concept": "combustion reaction",
+      "selectedIdea": "Rocket Firework Stick",
+      "imagePath": "/generated/rocket firework stick.png",
+      "post": "A firework is a combustion reaction engineered for spectacle — fuel meets oxidizer and releases energy as light, heat, and sound. Students remember combustion when it's loud. But the real lesson is that every combustion follows the same logic, whether it's a rocket or a candle. What dramatic example do you use to teach a principle that also applies quietly?"
+    },
+    {
+      "index": 133,
+      "concept": "concentration",
+      "selectedIdea": "Espresso Shot Glass",
+      "imagePath": "/generated/espresso shot glass.png",
+      "post": "Same beans, less water — that's why espresso hits harder than drip coffee. Concentration isn't about having more; it's about having the same amount in less space. Students who understand espresso already understand molarity intuitively. What everyday comparison do you use to make a quantitative concept feel qualitative?"
+    },
+    {
+      "index": 134,
+      "concept": "condensation reaction",
+      "selectedIdea": "Pearl Necklace Strand",
+      "imagePath": "/generated/pearl necklace strand.png",
+      "post": "A pearl necklace grows one bead at a time — each addition releases a small clasp. Condensation reactions build polymers the same way: monomers join, a small molecule leaves, and the chain gets longer. Students grasp polymerization when you frame it as stringing beads. What building metaphor works best in your field?"
+    },
+    {
+      "index": 135,
+      "concept": "covalent bond",
+      "selectedIdea": "Braided Friendship Bracelet",
+      "imagePath": "/generated/braided friendship bracelet.png",
+      "post": "A friendship bracelet holds because threads share space — intertwined, not just touching. Covalent bonds work the same way: atoms share electrons rather than trading them. The sharing is what makes it strong. Students remember this when you contrast sharing with stealing (ionic). What pair of concepts do you always teach as a contrast?"
+    },
+    {
+      "index": 136,
+      "concept": "critical temperature",
+      "selectedIdea": "Pressure Cooker Valve",
+      "imagePath": "/generated/pressure cooker valve.png",
+      "post": "Above its critical temperature, a gas can't be liquefied no matter how much pressure you apply. That's a hard boundary — not a gradient, not a suggestion. Students need to encounter absolute limits in science because real systems have them. What hard limit in your field surprises students who expect everything to be negotiable?"
+    },
+    {
+      "index": 137,
+      "concept": "crystalline solid",
+      "selectedIdea": "Snowflake Ice Crystal",
+      "imagePath": "/generated/snowflake ice crystal.png",
+      "post": "Every snowflake is a crystalline solid — water molecules locked into a repeating hexagonal lattice. The beauty comes from the order. Students who think crystals are rare need to look at ice, salt, and sugar to realize they're surrounded. What concept do your students think is exotic until you show them it's everywhere?"
+    },
+    {
+      "index": 138,
+      "concept": "density",
+      "selectedIdea": "Lead Fishing Sinker",
+      "imagePath": "/generated/lead fishing sinker.png",
+      "post": "A lead sinker is shockingly heavy for its size — that's density doing what no other property can. Students confuse heavy with big until you hand them a small dense object and a large light one. The surprise on their face is the lesson landing. What concept do you teach through a physical surprise?"
+    },
+    {
+      "index": 139,
+      "concept": "diatomic molecules",
+      "selectedIdea": "Scuba Oxygen Tank",
+      "imagePath": "/generated/scuba oxygen tank.png",
+      "post": "The oxygen in a scuba tank isn't single atoms — it's O₂, two atoms bonded together. Seven elements exist as diatomic molecules, and students forget because they picture elements as loners. Oxygen needs a partner. What fact about a 'simple' topic do your students consistently get wrong because they oversimplify?"
+    },
+    {
+      "index": 140,
+      "concept": "diffusion",
+      "selectedIdea": "Perfume Atomizer Bottle",
+      "imagePath": "/generated/perfume bottle.png",
+      "post": "Spray perfume in one corner and eventually the whole room smells it — that's diffusion, molecules spreading from high concentration to low without anyone pushing them. Students understand diffusion when you frame it as laziness: molecules don't organize, they scatter. What concept do you teach by appealing to entropy's preference for disorder?"
+    },
+    {
+      "index": 141,
+      "concept": "dilution",
+      "selectedIdea": "Orange Juice Pitcher",
+      "imagePath": "/generated/orange juice pitcher.png",
+      "post": "Add water to orange juice and the flavor fades — same amount of solute, more solvent, weaker taste. That's dilution. Students understand it immediately through disappointment: watered-down juice is a sensory lesson in concentration change. What concept do you teach through a deliberately underwhelming experience?"
+    },
+    {
+      "index": 142,
+      "concept": "dipole-dipole forces",
+      "selectedIdea": "Bar Magnet Rod",
+      "imagePath": "/generated/bar magnet rod.png",
+      "post": "Two bar magnets snap together positive-to-negative — dipole-dipole forces between polar molecules work the same way, just weaker and at molecular scale. Students who've played with magnets already have the intuition; you're just shrinking the scale. What macroscopic toy teaches a microscopic truth in your field?"
+    },
+    {
+      "index": 143,
+      "concept": "distillation",
+      "selectedIdea": "Copper Moonshine Still",
+      "imagePath": "/generated/copper moonshine still.png",
+      "post": "A moonshine still separates alcohol from water by exploiting their different boiling points — heat the mixture, catch what evaporates first. Distillation is elegant because it uses a property difference as a sorting mechanism. Students love separation techniques that feel like heists. What technique do you teach as outsmarting a mixture?"
+    },
+    {
+      "index": 144,
+      "concept": "double bond",
+      "selectedIdea": "Double Zipper Teeth",
+      "imagePath": "/generated/double zipper teeth.png",
+      "post": "A double zipper locks tighter and resists twisting — just like a double bond is stronger and prevents rotation around the bond axis. That rigidity matters: it's why fats can be solid or liquid depending on their double bonds. Students remember structural consequences when they feel the stiffness. What molecular feature do you teach through a physical constraint?"
+    },
+    {
+      "index": 145,
+      "concept": "dynamic equilibrium",
+      "selectedIdea": "Escalator Step Loop",
+      "imagePath": "/generated/escalator step loop.png",
+      "post": "An escalator moves steps up while returning them underneath — constant motion, zero net change in step count. Dynamic equilibrium is exactly this: forward and reverse reactions running simultaneously at equal rates. Students who think equilibrium is static need to ride an escalator and count. What moving system do you use to teach a steady state?"
+    },
+    {
+      "index": 146,
+      "concept": "electrochemical cell",
+      "selectedIdea": "Electric Car Battery",
+      "imagePath": "/generated/electric car battery.png",
+      "post": "An electric car battery converts chemical energy to electrical energy through controlled redox reactions — thousands of electrochemical cells working in concert. Students who think batteries are simple black boxes need to see the chemistry inside. What 'simple' technology do you crack open to reveal hidden complexity?"
+    },
+    {
+      "index": 147,
+      "concept": "electrolyte",
+      "selectedIdea": "Sports Drink Bottle",
+      "imagePath": "/generated/sports drink bottle.png",
+      "post": "Sports drinks sell electrolytes — but what students actually need to know is that electrolytes are just ions in solution that conduct electricity. Your sweat is an electrolyte solution. So is your blood. Marketing obscures the science, and unmasking it is half the fun. What marketed term do you strip back to its actual chemistry?"
+    },
+    {
+      "index": 148,
+      "concept": "electromagnetic spectrum",
+      "selectedIdea": "Glass Prism Pendant",
+      "imagePath": "/generated/glass prism pendant.png",
+      "post": "A prism reveals that white light is a crowd of wavelengths pretending to be one thing. The electromagnetic spectrum stretches far beyond what we see — radio, microwave, infrared, UV, X-ray, gamma. Students need to feel how small the visible slice is. What concept do you teach by showing students how little of the whole picture they normally perceive?"
+    },
+    {
+      "index": 149,
+      "concept": "electron",
+      "selectedIdea": "Static Cling Balloon",
+      "imagePath": "/generated/static cling balloon.png",
+      "post": "Rub a balloon on your hair and it sticks to the wall — electrons transferred, charge imbalanced, attraction created. Students can't see electrons, but they can feel static cling. Starting with the effect and working backward to the particle is how you teach the invisible. What invisible thing do you teach by starting with its consequence?"
+    },
+    {
+      "index": 150,
+      "concept": "electron configuration",
+      "selectedIdea": "Stadium Seating Bowl",
+      "imagePath": "/generated/stadium seating bowl.png",
+      "post": "Electrons fill orbitals like fans fill a stadium — lowest rows first, no skipping sections, and every seat has a maximum capacity. Students who struggle with aufbau principle relax when you give them a seating chart metaphor. What abstract filling rule do you teach through a spatial analogy?"
+    },
+    {
+      "index": 151,
+      "concept": "electron pair",
+      "selectedIdea": "Bobby Pin Clip",
+      "imagePath": "/generated/bobby pin clip.png",
+      "post": "A bobby pin holds because two prongs press together in a tight space — an electron pair occupies a single orbital the same way. Paired electrons are stable; unpaired ones are reactive. Students remember pairing when you frame it as 'settled vs. searching.' What concept do you teach through the contrast between paired and unpaired?"
+    },
+    {
+      "index": 152,
+      "concept": "electronegativity",
+      "selectedIdea": "Powerful Horseshoe Magnet",
+      "imagePath": "/generated/powerful horseshoe magnet.png",
+      "post": "Electronegativity is an atom's greed for electrons — some pull hard, others barely try. A horseshoe magnet makes that pull tangible. Fluorine is the strongest puller on the periodic table, and students remember it when you frame electronegativity as a tug-of-war where one side always wins. What concept do you teach as an unfair competition?"
+    },
+    {
+      "index": 153,
+      "concept": "element",
+      "selectedIdea": "Gold Nugget Pendant",
+      "imagePath": "/generated/gold nugget pendant.png",
+      "post": "A gold nugget is pure element — every atom identical, no compounds, no mixtures. It's been gold since before humans existed and it'll be gold long after. Students need to feel that an element is a dead end of simplification: you can't break it into anything simpler by chemistry. What concept do you teach as 'this is the floor — there's nothing beneath it'?"
+    },
+    {
+      "index": 154,
+      "concept": "empirical formula",
+      "selectedIdea": "Cocktail Recipe Card",
+      "imagePath": "/generated/cocktail recipe card.png",
+      "post": "A cocktail recipe says '2 parts gin, 1 part tonic' — that's a ratio, not an amount. An empirical formula works the same way: it tells you the simplest whole-number ratio of atoms, not how many are actually there. Students confuse empirical with molecular until you ask: does '2:1' tell you the batch size? What distinction do you teach by separating ratio from quantity?"
+    },
+    {
+      "index": 155,
+      "concept": "energy conservation",
+      "selectedIdea": "Newton Cradle Desktoy",
+      "imagePath": "/generated/newton cradle desktoy.png",
+      "post": "Pull one ball back, release it, and the ball on the other end swings out — energy transferred, not created or destroyed. A Newton's cradle makes conservation visceral: students can see that nothing was added and nothing was lost. What desk toy or prop do you keep within arm's reach for spontaneous teaching moments?"
+    },
+    {
+      "index": 156,
+      "concept": "energy levels",
+      "selectedIdea": "Tiered Cake Stand",
+      "imagePath": "/generated/tiered cake stand.png",
+      "post": "Electrons can't exist between energy levels — they jump. A tiered cake stand captures this: you can place something on a tier, but not between tiers. Quantization is weird until you show students that stairs work the same way. No one stands at 1.5 steps. What everyday structure do you use to teach that some things are discrete, not continuous?"
+    },
+    {
+      "index": 157,
+      "concept": "enthalpy",
+      "selectedIdea": "Hot Coffee Thermos",
+      "imagePath": "/generated/hot coffee thermos.png",
+      "post": "A thermos keeps coffee hot by trapping enthalpy — the heat content of the system stays put instead of leaking into the surroundings. Students understand enthalpy better when you frame it as 'how much heat is in there right now' rather than a formula. What thermodynamic quantity do you teach by pointing at a container and asking what's inside?"
+    },
+    {
+      "index": 158,
+      "concept": "entropy",
+      "selectedIdea": "Tangled Earbud Cords",
+      "imagePath": "/generated/tangled earbud cords.png",
+      "post": "Earbuds tangle in your pocket because there are astronomically more tangled states than untangled ones. That's entropy — not chaos for chaos's sake, but probability winning. Students stop fighting the concept when you tell them the universe isn't messy on purpose; it's just statistically lazy. What concept do you reframe from 'why does this happen' to 'why wouldn't it'?"
+    },
+    {
+      "index": 159,
+      "concept": "enzyme",
+      "selectedIdea": "Pineapple Ring Slice",
+      "imagePath": "/generated/pineapple ring slice.png",
+      "post": "Fresh pineapple dissolves gelatin because bromelain — an enzyme — breaks down the protein holding it together. Students who've had a ruined Jell-O mold already know enzyme activity; they just didn't know the word. What kitchen failure do you turn into a teaching win?"
+    },
+    {
+      "index": 160,
+      "concept": "equilibrium",
+      "selectedIdea": "Balanced Rock Stack",
+      "imagePath": "/generated/balanced rock stack.png",
+      "post": "A balanced rock stack looks precarious but it's stable — every force is countered by an equal opposite force. Equilibrium isn't about safety; it's about balance. Disturb it and the system shifts to find a new balance point. What visual do you use to teach that balance doesn't mean permanent?"
+    },
+    {
+      "index": 161,
+      "concept": "esterification",
+      "selectedIdea": "Banana Candy Chew",
+      "imagePath": "/generated/banana candy chew.png",
+      "post": "Banana candy doesn't taste like real bananas — it tastes like isoamyl acetate, an ester. Esterification is the reaction that produces fruity smells, and students light up when they realize organic chemistry is why candy smells the way it does. What reaction do you teach through scent or taste instead of equations?"
+    },
+    {
+      "index": 162,
+      "concept": "ether",
+      "selectedIdea": "Aerosol Starter Can",
+      "imagePath": "/generated/aerosol starter can.png",
+      "post": "Diethyl ether was once the go-to anesthetic — patients went under because ether molecules disrupted nerve signaling. Now it's in starter fluid. Students engage when a functional group has a dramatic medical history. What molecule in your curriculum has a story that reads like a thriller?"
+    },
+    {
+      "index": 163,
+      "concept": "evaporation",
+      "selectedIdea": "Sunlit Puddle Patch",
+      "imagePath": "/generated/sunlit puddle patch.png",
+      "post": "A puddle shrinks in the sun without ever boiling — that's evaporation, surface molecules escaping one at a time. Students confuse evaporation with boiling until you point out that puddles don't bubble. The distinction between surface escape and bulk transition matters. What subtle difference do your students gloss over until you force them to look closely?"
+    },
+    {
+      "index": 164,
+      "concept": "exothermic reaction",
+      "selectedIdea": "Hand Warmer Packet",
+      "imagePath": "/generated/hand warmer packet.png",
+      "post": "Crack a hand warmer and iron oxidizes, releasing heat into your palm. That's an exothermic reaction you can literally hold. Students remember exothermic vs. endothermic when one warms their hands and the other doesn't. What concept pair do you teach by making one feel good and the other feel bad?"
+    },
+    {
+      "index": 165,
+      "concept": "filtration",
+      "selectedIdea": "Water Pitcher Filter",
+      "imagePath": "/generated/water pitcher filter.png",
+      "post": "A water filter separates what you want from what you don't — based purely on particle size. Filtration is the simplest separation technique, and students already trust it with their drinking water. The principle scales from kitchen pitchers to industrial wastewater. What simple principle in your field scales from trivial to massive without changing its logic?"
+    },
+    {
+      "index": 166,
+      "concept": "first order reaction",
+      "selectedIdea": "Burning Incense Stick",
+      "imagePath": "/generated/burning incense stick.png",
+      "post": "An incense stick burns at a rate proportional to how much is left — the shorter it gets, the less material feeds the reaction. That's first-order kinetics: rate depends on concentration. Students grasp it when you show them something that slows down as it runs out. What process do you use to teach self-limiting behavior?"
+    },
+    {
+      "index": 167,
+      "concept": "freezing point",
+      "selectedIdea": "Slushy Soda Bottle",
+      "imagePath": "/generated/slushy soda bottle.png",
+      "post": "Supercool a soda bottle and it stays liquid until you disturb it — then it freezes instantly. Students gasp every time. The freezing point isn't just a temperature; it's a threshold that needs a trigger. What concept do you teach by showing a system waiting for a nudge?"
+    },
+    {
+      "index": 168,
+      "concept": "frequency",
+      "selectedIdea": "Metronome Pendulum Arm",
+      "imagePath": "/generated/metronome pendulum arm.png",
+      "post": "A metronome clicks at a set frequency — speed it up and the pitch of the clicks rises. Students who play music already understand frequency as tempo. The jump from beats per minute to cycles per second is smaller than they think. What musical concept maps directly to physics in your teaching?"
+    },
+    {
+      "index": 169,
+      "concept": "functional group",
+      "selectedIdea": "Swiss Army Corkscrew",
+      "imagePath": "/generated/swiss army corkscrew.png",
+      "post": "A Swiss Army knife's corkscrew gives it a specific capability the blade alone doesn't have. Functional groups work the same way — attach a hydroxyl and the molecule becomes an alcohol, attach a carboxyl and it becomes an acid. One small addition changes everything. What small change in your field has disproportionate consequences?"
+    },
+    {
+      "index": 170,
+      "concept": "gas laws",
+      "selectedIdea": "Weather Balloon Envelope",
+      "imagePath": "/generated/weather balloon envelope.png",
+      "post": "A weather balloon expands as it rises because pressure drops and volume increases — Boyle's law playing out in real time across the atmosphere. Students who see gas laws as abstract math need to watch a balloon grow until it pops. What concept do you teach by letting something fail spectacularly?"
+    },
+    {
+      "index": 171,
+      "concept": "geometric isomer",
+      "selectedIdea": "Twisted Balloon Animal",
+      "imagePath": "/generated/twisted balloon animal.png",
+      "post": "Same balloon, different twists — a dog or a giraffe depending on where you bend it. Geometric isomers are the same atoms with different spatial arrangements, and the properties change dramatically. Cis and trans fats are the real-world consequence students eat every day. What isomer example hits closest to your students' daily lives?"
+    },
+    {
+      "index": 172,
+      "concept": "gibbs free energy",
+      "selectedIdea": "Wound Clock Spring",
+      "imagePath": "/generated/wound clock spring.png",
+      "post": "A wound clock spring holds energy that can do useful work — unwind it and the clock runs. Gibbs free energy is the same idea: how much energy in a system is available to actually drive change. Students struggle with 'free' until you reframe it as 'usable.' What thermodynamic term do you have to redefine before students can use it?"
+    },
+    {
+      "index": 173,
+      "concept": "green chemistry",
+      "selectedIdea": "Solar Roof Panel",
+      "imagePath": "/generated/solar roof panel.png",
+      "post": "Green chemistry isn't about being eco-friendly after the fact — it's about designing reactions that produce less waste from the start. A solar panel embodies that philosophy: harvest energy without combustion byproducts. Students engage when sustainability is framed as better engineering, not sacrifice. How do you teach optimization without moralizing?"
+    },
+    {
+      "index": 174,
+      "concept": "half-life",
+      "selectedIdea": "Hourglass Sand Timer",
+      "imagePath": "/generated/hourglass sand timer.png",
+      "post": "Flip an hourglass and half the sand falls in a fixed time — then half of what's left, then half again. Half-life isn't about when something disappears; it's about the pattern of disappearing. Students who expect linear decay need to see exponential decay feel slower and slower. What concept do you teach by showing that the rate of change itself changes?"
+    },
+    {
+      "index": 175,
+      "concept": "heat",
+      "selectedIdea": "Cast Iron Skillet",
+      "imagePath": "/generated/cast iron skillet.png",
+      "post": "Heat flows from hot to cold — always. A cast iron skillet fresh from the oven will burn your hand because thermal energy transfers on contact. Students know this instinctively but can't always articulate why. The gap between intuition and articulation is where teaching lives. What do your students know in their body but can't yet say in words?"
+    },
+    {
+      "index": 176,
+      "concept": "heat of fusion",
+      "selectedIdea": "Melting Ice Sculpture",
+      "imagePath": "/generated/melting ice sculpture.png",
+      "post": "An ice sculpture absorbs heat without getting warmer — all that energy goes into breaking the crystal lattice, not raising temperature. Students expect heating to always mean temperature rise, and the plateau during melting breaks that assumption beautifully. What graph shape surprises your students because it contradicts their expectations?"
+    },
+    {
+      "index": 177,
+      "concept": "heat of vaporization",
+      "selectedIdea": "Whistling Tea Kettle",
+      "imagePath": "/generated/whistling kettle.png",
+      "post": "A kettle at 100°C keeps absorbing energy without getting hotter — all that heat goes into ripping water molecules free from the liquid. Vaporization costs more energy than melting because you're fully separating molecules, not just loosening them. What concept do you teach by comparing two things that sound similar but differ in magnitude?"
+    },
+    {
+      "index": 178,
+      "concept": "heterogeneous mixture",
+      "selectedIdea": "Chocolate Chip Cookie",
+      "imagePath": "/generated/chocolate chip cookie.png",
+      "post": "A chocolate chip cookie is a heterogeneous mixture — you can see and pick out the different components. Every bite is slightly different. Students understand heterogeneous vs. homogeneous the moment you compare a cookie to a glass of milk. What food comparison anchors a classification system in your field?"
+    },
+    {
+      "index": 179,
+      "concept": "homogeneous mixture",
+      "selectedIdea": "Blue Mouthwash Bottle",
+      "imagePath": "/generated/blue mouthwash bottle.png",
+      "post": "Mouthwash looks the same in every drop — that uniformity is what makes it homogeneous. You can't scoop out the 'active ingredient' with a spoon. Students need to understand that looking uniform doesn't mean being pure. What distinction between uniform and pure matters in your discipline?"
+    },
+    {
+      "index": 180,
+      "concept": "hydration reaction",
+      "selectedIdea": "Concrete Mix Bag",
+      "imagePath": "/generated/concrete mix bag.png",
+      "post": "Add water to concrete mix and it doesn't just get wet — it reacts. The powder undergoes hydration, forming new crystalline structures that harden into stone. Students think adding water is always dissolving. Sometimes it's building. What assumption about water do you have to correct in your field?"
+    },
+    {
+      "index": 181,
+      "concept": "hydrocarbon",
+      "selectedIdea": "Motor Oil Bottle",
+      "imagePath": "/generated/motor oil bottle.png",
+      "post": "Motor oil is a hydrocarbon — just carbon and hydrogen in long chains, slippery enough to keep an engine from destroying itself. Students think hydrocarbons are abstract until you show them the bottle under their car's hood. The entire petroleum economy runs on two elements. What concept do you teach by showing how much complexity comes from simplicity?"
+    },
+    {
+      "index": 182,
+      "concept": "hydrogen",
+      "selectedIdea": "Hydrogen Fuel Cell",
+      "imagePath": "/generated/hydrogen fuel cell.png",
+      "post": "Hydrogen is the simplest atom — one proton, one electron — and it might power the future. A fuel cell combines hydrogen and oxygen to produce electricity and water. Nothing else. Students care about hydrogen the moment you frame it as the cleanest possible fuel. What element or concept do you teach through its future potential rather than its past?"
+    },
+    {
+      "index": 183,
+      "concept": "hydrogen bond",
+      "selectedIdea": "Snowflake Ice Crystal",
+      "imagePath": "/generated/snowflake ice crystal.png",
+      "post": "A snowflake's hexagonal symmetry exists because hydrogen bonds hold water molecules at specific angles as they freeze. Without hydrogen bonding, ice would sink, lakes would freeze solid, and life as we know it wouldn't exist. Students need to feel that a 'weak' bond holds the biosphere together. What weak force in your field has outsized consequences?"
+    },
+    {
+      "index": 184,
+      "concept": "hydrolysis",
+      "selectedIdea": "Laundry Detergent Pod",
+      "imagePath": "/generated/laundry detergent pod.png",
+      "post": "A detergent pod's casing dissolves in water — that's hydrolysis breaking polymer bonds on contact. Students see 'dissolving' and think it's physical. It's chemical: water is attacking and breaking bonds. What process do your students misclassify as physical when it's actually chemical?"
+    },
+    {
+      "index": 185,
+      "concept": "ideal gas law",
+      "selectedIdea": "Hot Air Balloon",
+      "imagePath": "/generated/hot air balloon.png",
+      "post": "A hot air balloon rises because heating the air inside decreases its density — PV=nRT in action at human scale. Students who can't connect the variables in the ideal gas law need to see all four changing simultaneously in one object. What equation do you teach by pointing at a single system where everything moves at once?"
+    },
+    {
+      "index": 186,
+      "concept": "absolute temperature",
+      "selectedIdea": "Desert Dashboard Thermometer",
+      "imagePath": "/generated/desert gauge.png",
+      "post": "Absolute zero isn't just cold — it's the point where molecular motion stops entirely. A dashboard thermometer in the desert shows the other extreme: molecules vibrating so fast the air shimmers. Students need both ends of the scale to understand that temperature is motion, not just a number. What concept do you teach by showing both extremes?"
+    },
+    {
+      "index": 187,
+      "concept": "absorbance",
+      "selectedIdea": "Black Velvet Curtain",
+      "imagePath": "/generated/black drapes.png",
+      "post": "Black velvet looks black because it absorbs nearly every wavelength of visible light and reflects almost nothing back. Absorbance isn't about color — it's about what never reaches your eye. Students think color is what's there. It's actually what's left over. What concept do you teach by flipping the student's perspective from presence to absence?"
+    },
+    {
+      "index": 188,
+      "concept": "accuracy",
+      "selectedIdea": "Bullseye Archery Target",
+      "imagePath": "/generated/target.png",
+      "post": "Hitting the bullseye once is luck. Hitting it repeatedly is accuracy plus precision. Students conflate the two until you show them a tight cluster that's off-center — precise but inaccurate. The target makes both concepts visible in one image. What single prop do you use to teach two related but distinct ideas simultaneously?"
+    },
+    {
+      "index": 189,
+      "concept": "acetal",
+      "selectedIdea": "White Guitar Pick",
+      "imagePath": "/generated/guitar pick.png",
+      "post": "Many guitar picks are made from acetal plastic — chosen for its low friction, durability, and resistance to moisture. Students rarely connect functional groups to material properties until you hand them an object and say: this exists because of a specific chemical structure. What material do you use to make structure-property relationships tangible?"
+    },
+    {
+      "index": 190,
+      "concept": "acetic acid",
+      "selectedIdea": "Glass Pickle Jar",
+      "imagePath": "/generated/jar.png",
+      "post": "Pickles exist because acetic acid in vinegar drops the pH low enough to prevent bacterial growth. Preservation is applied chemistry — and students who eat pickles are already benefiting from acid-base equilibrium. What food do you use to show students that chemistry is keeping them alive without asking permission?"
+    },
+    {
+      "index": 191,
+      "concept": "acidity",
+      "selectedIdea": "Bitten Lemon Wedge",
+      "imagePath": "/generated/lemon.png",
+      "post": "Your face after biting a lemon is your body's pH meter — no indicator strip needed. Acidity is one of the few chemistry concepts students can taste. That sensory shortcut is powerful: the wince comes before the explanation, and the explanation sticks because the wince came first. What concept do you let students feel before you name it?"
+    },
+    {
+      "index": 192,
+      "concept": "activated complex",
+      "selectedIdea": "Teetering Domino Tile",
+      "imagePath": "/generated/domino.png",
+      "post": "A domino balanced on its edge is an activated complex — it's not the starting state and not the final state, but the unstable peak between them. One breath and it falls. Students understand transition states when you show them something that can't stay where it is. What object do you use to teach the concept of a point of no return?"
+    },
+    {
+      "index": 193,
+      "concept": "activation energy",
+      "selectedIdea": "Lit Rocket Fuse",
+      "imagePath": "/generated/fuse.png",
+      "post": "A fuse needs a match to start burning — after that, it sustains itself. Activation energy is that initial push: the energy barrier a reaction must overcome before it can proceed on its own. Students get it when you ask: why doesn't paper spontaneously combust on your desk? What question do you ask to make students notice what isn't happening and wonder why?"
+    },
+    {
+      "index": 194,
+      "concept": "actual yield",
+      "selectedIdea": "Harvest Apple Crate",
+      "imagePath": "/generated/harvest apple crate.png",
+      "post": "A farmer expects 100 apples but harvests 73 — that's actual yield vs. theoretical yield. Chemistry works the same way: side reactions, impurities, and losses mean you never get 100%. Students who've ever been disappointed by reality understand percent yield immediately. What concept do you teach through the gap between expectation and reality?"
+    },
+    {
+      "index": 195,
+      "concept": "addition reaction",
+      "selectedIdea": "Snowball Rolling Downhill",
+      "imagePath": "/generated/snowball.png",
+      "post": "A snowball rolling downhill picks up more snow without losing anything — it only grows. Addition reactions work the same way: atoms add across a double bond and nothing leaves. Students remember addition when you contrast it with substitution: one grows, the other swaps. What reaction type do you teach by contrasting it with its opposite?"
+    }
+  ]
+}

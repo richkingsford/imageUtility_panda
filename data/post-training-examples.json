@@ -1,0 +1,109 @@
+{
+  "description": "Good/bad post training examples for edtech, STEM education, and chemistry education social media content.",
+  "qualityKey": {
+    "green": "Substantive — has a point of view, teaches something, invites thought, shows real expertise or passion. Ends with a brief open-ended discussion prompt.",
+    "red": "Low-quality — vague praise, generic cheerleading, no substance, no perspective."
+  },
+  "examples": [
+    {
+      "quality": "red",
+      "text": "This is so cool! I really value what this team is doing."
+    },
+    {
+      "quality": "red",
+      "text": "High quality STEM curricula is so important!"
+    },
+    {
+      "quality": "red",
+      "text": "Chemistry is amazing! Everyone should learn it. 🔬"
+    },
+    {
+      "quality": "red",
+      "text": "Love seeing more STEM content out there. Keep it up!"
+    },
+    {
+      "quality": "red",
+      "text": "We need more people talking about science education. So important!"
+    },
+    {
+      "quality": "red",
+      "text": "This is exactly what the next generation needs. Great work!"
+    },
+    {
+      "quality": "red",
+      "text": "Edtech is changing the world. Excited to see where it goes!"
+    },
+    {
+      "quality": "red",
+      "text": "As a chemistry lover, I approve this message. 👏"
+    },
+    {
+      "quality": "red",
+      "text": "STEM education is the future. Period."
+    },
+    {
+      "quality": "red",
+      "text": "More of this please! Science teachers deserve all the support."
+    },
+    {
+      "quality": "green",
+      "text": "It's painful to watch a teacher take away a student's chance to struggle productively. What's a concept you had to wrestle with before it finally clicked?"
+    },
+    {
+      "quality": "green",
+      "text": "I'm a big believer in low-structure, project-based learning. Sparking a real interest in chemistry matters far more to me than memorizing facts, and I wish our academic incentives reflected that. What would you change first — the grading or the curriculum?"
+    },
+    {
+      "quality": "green",
+      "text": "Comedians are engaging because they tell stories through fun characters. You can make a question more engaging the same way — by framing it as a story told by a playful character. My favorites are the ones narrated by a chemist. Who's a character or persona that made a STEM topic stick for you?"
+    },
+    {
+      "quality": "green",
+      "text": "The moment a student realizes that the rust on their bike chain is the same reaction they just balanced on paper — that's when chemistry stops being a class and starts being a lens. What everyday object made a concept click for you?"
+    },
+    {
+      "quality": "green",
+      "text": "Most chemistry curricula front-load vocabulary and back-load wonder. I'd rather hand a student a rusting nail and a diamond ring on day one and let them wrestle with why carbon does such different things. If you could teach only one concept on day one, what would it be?"
+    },
+    {
+      "quality": "green",
+      "text": "Unpopular take: flashy lab demos can actually hurt learning if the student walks away remembering the explosion but not the exothermic mechanism behind it. A honey jar teaches viscosity better than any slow-motion video. What's a 'boring' object that taught you more than a flashy demo ever did?"
+    },
+    {
+      "quality": "green",
+      "text": "I tutor Gen Z chemistry students and the ones who retain the most are never the ones who memorized the periodic table first. They're the ones who argued with me about whether a soap bubble is really a colloid. When's the last time a student's pushback actually taught you something?"
+    },
+    {
+      "quality": "green",
+      "text": "Edtech keeps building tools that help students answer questions faster. I'm more interested in tools that help students sit with a question longer. What's a tool or technique you use to slow students down in a good way?"
+    },
+    {
+      "quality": "green",
+      "text": "One thing I've noticed teaching AP Chem: students can parrot 'entropy is disorder' but freeze when you ask them why their earbuds tangle in their pocket. What's your go-to real-world example for a concept students always get wrong?"
+    },
+    {
+      "quality": "green",
+      "text": "The best chemistry teachers I've watched don't simplify — they anchor. They pick one concrete object, like a cast iron skillet for specific heat, and build the entire abstraction around it. What's your anchor object?"
+    },
+    {
+      "quality": "green",
+      "text": "Hot take for edtech founders: stop building platforms that replace the teacher. Build ones that give a first-year teacher the same instinct a 20-year veteran has — the instinct to hold up a sealed mason jar when a student asks where the mass goes. What instinct took you years to develop that you wish you'd had on day one?"
+    },
+    {
+      "quality": "green",
+      "text": "I keep a running list of everyday objects that map to chemistry concepts. A bike pump for Boyle's law. A sugar cube for solubility. A DNA swab for nucleic acids. What's on your list that isn't on mine?"
+    },
+    {
+      "quality": "green",
+      "text": "We talk a lot about making STEM 'accessible' but rarely about making it sticky. Accessibility gets a student through the door. Stickiness is what happens when they see a lemon at the grocery store and involuntarily think about pH. What concept lives rent-free in your head because of how you first learned it?"
+    },
+    {
+      "quality": "green",
+      "text": "The gap between a student who passes chemistry and a student who thinks like a chemist is almost always one good analogy. Not a simulation, not a video — just one physical object that made an invisible idea real enough to argue about. What analogy changed how you see a concept?"
+    },
+    {
+      "quality": "green",
+      "text": "If your chemistry visual aid requires a paragraph of explanation before the student gets it, it's not a visual aid — it's another thing to memorize. The best ones work because the student already knows what a melting ice cream cone looks like. You're just giving it a name: second law of thermodynamics. What's the most self-explanatory visual you've ever used?"
+    }
+  ]
+}

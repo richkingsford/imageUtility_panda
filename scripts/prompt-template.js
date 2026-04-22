@@ -11,9 +11,10 @@ function buildImagePromptFromIdea(idea, options = {}) {
 
   return [
     `attention-getter of a single ${trimmedIdea} object,`,
-    `include ${personPhrase} somehow interacting with the object.`,
+    `include ${personPhrase} interacting with the object in a natural, organic, realistic way`,
+    `(not just staring and smiling at it).`,
     "The object should be the main subject of the image and the person secondary.",
-    "simple and clean background - not cluttered or messy or chaotic at all - but natural.",
+    "Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic.",
     "Visually interesting, professional, and clean.",
   ].join(" ");
 }
