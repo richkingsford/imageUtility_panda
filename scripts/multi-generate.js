@@ -13,6 +13,15 @@ const BROWSER_WS = process.env.CHROME_DEBUG_URL || "ws://127.0.0.1:9222/devtools
 
 const PROVIDERS = ["chatgpt", "meta", "gemini", "copilot"];
 
+function extractIdeaFromPrompt(prompt) {
+  const text = String(prompt || "");
+  let match = text.match(/centered on "([^"]+)"/i);
+  if (match) return match[1];
+  match = text.match(/single (.+?) object/i);
+  if (match) return match[1];
+  return null;
+}
+
 async function main() {
   const mode = process.argv[2] || "test";
   const batchSize = mode === "batch" ? parseInt(process.argv[3] || "20", 10) : 1;
@@ -491,8 +500,8 @@ function getMissing() {
   const allPrompts = [latest.prompt || "", ...(latest.images || []).map(i => i.prompt)];
   const done = new Set();
   for (const p of allPrompts) {
-    const m = p.match(/single (.+?) object/i);
-    if (m) done.add(m[1].toLowerCase());
+    const idea = extractIdeaFromPrompt(p);
+    if (idea) done.add(idea.toLowerCase());
   }
   return allConcepts.filter(c => !done.has(c.idea0.toLowerCase()));
 }

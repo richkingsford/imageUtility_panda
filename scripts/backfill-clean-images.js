@@ -17,7 +17,7 @@ async function main() {
   }
 
   const targetImages = existingData.images.filter((entry) =>
-    String(entry.prompt || "").startsWith("attention-getter of a single ")
+    /^attention-getter /i.test(String(entry.prompt || ""))
   );
 
   if (!targetImages.length) {

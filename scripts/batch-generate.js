@@ -6,6 +6,15 @@ const ROOT = path.resolve(__dirname, "..");
 const DATA_DIR = path.join(ROOT, "data");
 const CHROME_DEBUG_URL = "ws://127.0.0.1:9222/devtools/browser/5efd98ee-57e1-4605-b67b-7a749b856bdf";
 
+function extractIdeaFromPrompt(prompt) {
+  const text = String(prompt || "");
+  let match = text.match(/centered on "([^"]+)"/i);
+  if (match) return match[1];
+  match = text.match(/single (.+?) object/i);
+  if (match) return match[1];
+  return null;
+}
+
 function getNext20Missing() {
   const files = fs.readdirSync(DATA_DIR).filter(f => f.startsWith("concept-brainstorms"));
   const allConcepts = [];
@@ -20,8 +29,8 @@ function getNext20Missing() {
   const allPrompts = [latest.prompt, ...(latest.images || []).map(i => i.prompt)];
   const generatedIdeas = new Set();
   for (const p of allPrompts) {
-    const m = p.match(/single (.+?) object/i);
-    if (m) generatedIdeas.add(m[1].toLowerCase());
+    const idea = extractIdeaFromPrompt(p);
+    if (idea) generatedIdeas.add(idea.toLowerCase());
   }
 
   return allConcepts

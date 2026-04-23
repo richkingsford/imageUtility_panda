@@ -1,4 +1,11 @@
+const fs = require("fs");
+const path = require("path");
+
 const PERSON_GENDER_VALUES = new Set(["male", "female", "random"]);
+const PROMPT_VARIANTS_PATH = path.join(__dirname, "..", "data", "prompt-variants.json");
+const PROMPT_VARIANTS_DATA = JSON.parse(fs.readFileSync(PROMPT_VARIANTS_PATH, "utf8"));
+const DEFAULT_VARIANT_ID = PROMPT_VARIANTS_DATA.defaultVariantId;
+const PROMPT_VARIANTS = PROMPT_VARIANTS_DATA.variants;
 
 function buildImagePromptFromIdea(idea, options = {}) {
   const trimmedIdea = String(idea || "").trim();
@@ -8,15 +15,15 @@ function buildImagePromptFromIdea(idea, options = {}) {
 
   const personGender = normalizePersonGender(options.personGender);
   const personPhrase = pickPersonPhrase(personGender);
+  const variant = resolveVariant(options.variantId);
 
-  return [
-    `attention-getter of a single ${trimmedIdea} object,`,
-    `include ${personPhrase} interacting with the object in a natural, organic, realistic way`,
-    `(not just staring and smiling at it).`,
-    "The object should be the main subject of the image and the person secondary.",
-    "Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic.",
-    "Visually interesting, professional, and clean.",
-  ].join(" ");
+  return variant.templateParts
+    .map((part) =>
+      String(part)
+        .replaceAll("{IDEA}", trimmedIdea)
+        .replaceAll("{PERSON}", personPhrase)
+    )
+    .join(" ");
 }
 
 function normalizePersonGender(value) {
@@ -36,6 +43,17 @@ function pickPersonPhrase(personGender) {
   return Math.random() < 0.5 ? "an attractive male" : "an attractive female";
 }
 
+function resolveVariant(variantId) {
+  const requested = String(variantId || DEFAULT_VARIANT_ID).trim();
+  return (
+    PROMPT_VARIANTS.find((variant) => variant.id === requested) ||
+    PROMPT_VARIANTS.find((variant) => variant.id === DEFAULT_VARIANT_ID) ||
+    PROMPT_VARIANTS[0]
+  );
+}
+
 module.exports = {
+  DEFAULT_VARIANT_ID,
+  PROMPT_VARIANTS,
   buildImagePromptFromIdea,
 };

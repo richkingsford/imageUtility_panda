@@ -1,0 +1,10 @@
+{
+  "generatedAt": "2026-04-22T00:00:00.000Z",
+  "signatures": [
+    {
+      "id": "generic-avatar-placeholder",
+      "sha256": "FF9701B8861545E0AFFB2EE074DC757D3D332A032D255E699DA64BA3789B133E",
+      "reason": "Generic avatar placeholder rendered instead of generated artwork."
+    }
+  ]
+}

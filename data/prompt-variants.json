@@ -1,0 +1,33 @@
+{
+  "description": "Reusable prompt variants for provider image generation.",
+  "defaultVariantId": "educator_scene_v2",
+  "variants": [
+    {
+      "id": "single_object_v1",
+      "label": "Single Object",
+      "templateParts": [
+        "attention-getter of a single {IDEA} object,",
+        "include {PERSON} interacting with the object in a natural, organic, realistic way",
+        "(not just staring and smiling at it).",
+        "The object should be the main subject of the image and the person secondary.",
+        "Minimalist or natural/organic/realistic background - not cluttered or messy or chaotic.",
+        "Visually interesting, professional, and clean."
+      ]
+    },
+    {
+      "id": "educator_scene_v2",
+      "label": "Educator Scene",
+      "templateParts": [
+        "attention-getter centered on \"{IDEA}\".",
+        "Feature {PERSON} in a realistic, educator-relevant scene interacting naturally with the main subject",
+        "(not just staring and smiling at it).",
+        "Aim for a visually persuasive image that would make a teacher stop scrolling and read the post text.",
+        "The main subject or scene concept should be primary, with the person clearly visible but secondary.",
+        "Professional, realistic, aspirational, and emotionally intelligent.",
+        "Clean composition, natural lighting, and a minimal or believable real-world background - not cluttered, chaotic, gimmicky, or overly staged.",
+        "Avoid text overlays, collages, split screens, UI mockups, and generic stock-photo energy.",
+        "Generate the image now without asking follow-up questions."
+      ]
+    }
+  ]
+}

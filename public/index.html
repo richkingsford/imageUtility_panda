@@ -9,11 +9,16 @@
   </head>
   <body>
     <main class="shell">
-      <p id="status-line" class="status-line page-status">Waiting for image data...</p>
+      <header class="panel page-header">
+        <p class="eyebrow">Gallery</p>
+        <h1 class="page-title">Image Utility Panda</h1>
+        <p class="page-copy">Browse every generated image with its matching post copy and prompt.</p>
+        <p id="status-line" class="status-line page-status">Loading gallery data...</p>
+      </header>
 
       <section id="gallery" class="gallery" aria-live="polite">
         <article id="empty-state" class="panel empty-card">
-          <p class="empty-state">No image has been generated yet.</p>
+          <p class="empty-state">No gallery items are available yet.</p>
         </article>
       </section>
     </main>

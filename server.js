@@ -8,6 +8,26 @@ const PUBLIC_DIR = path.join(ROOT, "public");
 const DATA_DIR = path.join(ROOT, "data");
 const DATA_FILE = path.join(DATA_DIR, "latest.json");
 const PUBLIC_DATA_FILE = path.join(PUBLIC_DIR, "latest.json");
+const PUBLIC_SYNC_FILES = [
+  { source: DATA_FILE, destination: PUBLIC_DATA_FILE },
+  { source: path.join(DATA_DIR, "posts.json"), destination: path.join(PUBLIC_DIR, "posts.json") },
+  {
+    source: path.join(DATA_DIR, "concepts-complete.json"),
+    destination: path.join(PUBLIC_DIR, "concepts-complete.json"),
+  },
+  {
+    source: path.join(DATA_DIR, "meta-batch-results.json"),
+    destination: path.join(PUBLIC_DIR, "meta-batch-results.json"),
+  },
+  {
+    source: path.join(DATA_DIR, "prompt-variants.json"),
+    destination: path.join(PUBLIC_DIR, "prompt-variants.json"),
+  },
+  {
+    source: path.join(DATA_DIR, "bad-image-signatures.json"),
+    destination: path.join(PUBLIC_DIR, "bad-image-signatures.json"),
+  },
+];
 
 const CONTENT_TYPES = {
   ".css": "text/css; charset=utf-8",
@@ -68,7 +88,7 @@ function ensureDataFiles() {
     fs.writeFileSync(DATA_FILE, `${JSON.stringify(starterData, null, 2)}\n`);
   }
 
-  syncPublicDataFile();
+  syncPublicDataFiles();
 }
 
 function streamFile(filePath, response, onMissing) {
@@ -97,10 +117,12 @@ function isWithinDirectory(targetPath, parentDirectory) {
     || path.resolve(targetPath) === path.resolve(parentDirectory, "index.html");
 }
 
-function syncPublicDataFile() {
-  if (!fs.existsSync(DATA_FILE)) {
-    return;
-  }
+function syncPublicDataFiles() {
+  for (const file of PUBLIC_SYNC_FILES) {
+    if (!fs.existsSync(file.source)) {
+      continue;
+    }
 
-  fs.copyFileSync(DATA_FILE, PUBLIC_DATA_FILE);
+    fs.copyFileSync(file.source, file.destination);
+  }
 }

@@ -1,0 +1,170 @@
+{
+    "generatedAt":  "2026-04-22T23:55:45.2843992Z",
+    "totalPosts":  225,
+    "blankFieldCount":  3,
+    "missingImageCount":  0,
+    "unreadableImageCount":  0,
+    "smallImageCount":  0,
+    "placeholderMatchCount":  0,
+    "duplicateImageRefCount":  17,
+    "duplicatePostTextCount":  0,
+    "blankFields":  [
+                        {
+                            "index":  153,
+                            "concept":  "element",
+                            "selectedIdea":  "Gold Nugget Pendant",
+                            "field":  "imagePath"
+                        },
+                        {
+                            "index":  161,
+                            "concept":  "esterification",
+                            "selectedIdea":  "Banana Candy Chew",
+                            "field":  "imagePath"
+                        },
+                        {
+                            "index":  165,
+                            "concept":  "filtration",
+                            "selectedIdea":  "Water Pitcher Filter",
+                            "field":  "imagePath"
+                        }
+                    ],
+    "missingImages":  [
+
+                      ],
+    "unreadableImages":  [
+
+                         ],
+    "smallImages":  [
+
+                    ],
+    "placeholderMatches":  [
+
+                           ],
+    "duplicateImageRefs":  [
+                               {
+                                   "imagePath":  "/generated/blue mouthwash bottle.png",
+                                   "indexes":  [
+                                                   128,
+                                                   179
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/burning fuse rope.png",
+                                   "indexes":  [
+                                                   69,
+                                                   123
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/cast iron skillet.png",
+                                   "indexes":  [
+                                                   86,
+                                                   175
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/double zipper teeth.png",
+                                   "indexes":  [
+                                                   57,
+                                                   144
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/espresso shot glass.png",
+                                   "indexes":  [
+                                                   35,
+                                                   133
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/glass prism pendant.png",
+                                   "indexes":  [
+                                                   87,
+                                                   148
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/lemon.png",
+                                   "indexes":  [
+                                                   53,
+                                                   191
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/nutrition facts label.png",
+                                   "indexes":  [
+                                                   37,
+                                                   122
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/perfume bottle.png",
+                                   "indexes":  [
+                                                   14,
+                                                   100,
+                                                   140
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/plastic grocery bag.png",
+                                   "indexes":  [
+                                                   6,
+                                                   59
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/pressure cooker valve.png",
+                                   "indexes":  [
+                                                   62,
+                                                   136
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/rusting bicycle chain.png",
+                                   "indexes":  [
+                                                   74,
+                                                   126
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/snowflake ice crystal.png",
+                                   "indexes":  [
+                                                   137,
+                                                   183
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/table salt crystal.png",
+                                   "indexes":  [
+                                                   25,
+                                                   30,
+                                                   120
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/vanilla bean pod.png",
+                                   "indexes":  [
+                                                   3,
+                                                   49
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/water strider insect.png",
+                                   "indexes":  [
+                                                   23,
+                                                   92
+                                               ]
+                               },
+                               {
+                                   "imagePath":  "/generated/whistling kettle.png",
+                                   "indexes":  [
+                                                   111,
+                                                   177
+                                               ]
+                               }
+                           ],
+    "duplicatePostTexts":  [
+
+                           ]
+}
+
