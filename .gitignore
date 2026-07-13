@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Generated image output
+artifacts/
+public/generated/
+3-scene-chemistry-videos/generated-images/
+3-scene-chemistry-videos/batch-output/
+
+# Local run logs
+*.log
