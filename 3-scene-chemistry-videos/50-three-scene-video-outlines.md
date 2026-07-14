@@ -2,7 +2,7 @@
 
 Source list: `data/concepts-complete.json`, first 50 concepts.
 
-Each outline has three image prompts plus chemistry-expert dialogue. Every scene is a one-line story: it should catch attention first, then sneak in one simple middle-school chemistry idea or career connection. The three scenes for a concept must feel like totally different scenarios, not variations of the same tabletop demo.
+Each outline has three image prompts plus chemistry-expert dialogue. Every scene is a one-line story: it should catch attention first, then sneak in one simple high-school chemistry idea or career connection. The three scenes for a concept must feel like totally different scenarios, not variations of the same tabletop demo.
 
 ## Image Generation Profile Rules
 
@@ -16,75 +16,75 @@ Character mix remains intentionally varied across the file, with mostly white ch
 
 **Scene 1 image:** Style: handheld documentary photo. Character: exactly one white adult woman, age 18, supermodel-caliber, unbelievably hot and crazy attractive, long auburn hair, green eyes, wearing a red delivery jacket and black jeans. Scenario: city bus stop after a diesel bus pulls away. One-line story action: the person wipes the Soot Covered Leaf across a clean white sneaker, leaving a black streak. Composition: the Soot Covered Leaf is foreground center, fully visible, sharply focused, and fills 30% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "A clean shoe turns dirty in one swipe, and suddenly invisible air pollution feels real."
+**Dialogue:** "That black streak is particulate matter from traffic; air pollution is not just a smell, it is tiny solids and droplets riding through the air."
 
 **Scene 2 image:** Style: stylized animated adventure frame. Character: exactly one white adult man, age 28, supermodel-caliber, unbelievably hot and crazy attractive, short blond hair, blue eyes, wearing a tailored black work jacket. Scenario: urban tree-care truck parked beside a school route map. One-line story action: the person clips the Soot Covered Leaf to a route map while planning where to plant new trees. Composition: the Soot Covered Leaf is foreground center, fully visible, sharply focused, and fills 35% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "Urban foresters use clues like this to protect the air around schools and sidewalks."
+**Dialogue:** "Leaves can act like cheap pollution collectors, which is why environmental technicians compare roads, trees, and bus routes when they study exposure."
 
 **Scene 3 image:** Style: moody cinematic poster still. Character: exactly one white adult woman, age 40, supermodel-caliber, unbelievably hot and crazy attractive, wavy chestnut hair, brown eyes, wearing a charcoal blazer and leather gloves. Scenario: nighttime community mural wall showing bikes, buses, and trees as simple shapes. One-line story action: the person presses the Soot Covered Leaf into wet mural paint like a stamp. Composition: the Soot Covered Leaf is foreground center, fully visible, sharply focused, and fills 40% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "The lesson sneaks in quietly: pollution is matter, and matter lands on things."
+**Dialogue:** "When soot stamps onto the mural, it shows the core chemistry idea: matter in the air can settle, react, and become part of the surfaces around us."
 
 
 ### 2. Alcohol - Whiskey Tumbler Glass
 
 **Scene 1 image:** Style: bright lifestyle photo. Character: exactly one white adult man, age 18, supermodel-caliber, unbelievably hot and crazy attractive, straight dark blond hair, hazel eyes, wearing a green apron over a striped shirt. Scenario: busy restaurant prep counter during a mocktail rush. One-line story action: the person slides the Whiskey Tumbler Glass away from a row of citrus mocktails and swaps in a zero-proof glass. Composition: the Whiskey Tumbler Glass is foreground center, fully visible, sharply focused, and fills 30% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "One glass changes the whole drink story: chemistry is part of flavor, safety, and choices."
+**Dialogue:** "Swapping the glass changes the dose: ethanol is a chemical with real effects, so food workers care about concentration, labeling, and safety."
 
 **Scene 2 image:** Style: Pixar-style career scene. Character: exactly one white adult woman, age 28, supermodel-caliber, unbelievably hot and crazy attractive, long auburn hair, dark brown eyes, wearing a matte gray presenter jacket. Scenario: beverage design studio with recipe cards, fruit peels, and sealed flavor bottles. One-line story action: the person pours one small splash from the Whiskey Tumbler Glass into three tiny recipe cups for comparison. Composition: the Whiskey Tumbler Glass is foreground center, fully visible, sharply focused, and fills 35% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "Drink designers use chemistry to control smell, strength, and consistency."
+**Dialogue:** "Those tiny recipe cups are formulation chemistry; changing the amount of ethanol changes burn, aroma, evaporation, and how the drink feels."
 
 **Scene 3 image:** Style: vintage editorial painting. Character: exactly one white adult man, age 40, supermodel-caliber, unbelievably hot and crazy attractive, short blond hair, green eyes, wearing a dark wool coat and leather gloves. Scenario: hotel event tray beside a sparkling water station. One-line story action: the person fans aroma from the Whiskey Tumbler Glass toward a paper scent strip while guests blur in the background. Composition: the Whiskey Tumbler Glass is foreground center, fully visible, sharply focused, and fills 40% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "If a smell reaches your nose, tiny particles have escaped into the air."
+**Dialogue:** "That scent strip works because volatile molecules leave the liquid, travel through air, and bind to receptors in your nose."
 
 
 ### 3. Aldehyde - Vanilla Bean Pod
 
 **Scene 1 image:** Style: food magazine watercolor. Character: exactly one white adult woman, age 18, supermodel-caliber, unbelievably hot and crazy attractive, wavy chestnut hair, blue eyes, wearing a denim jacket over a white shirt. Scenario: bakery counter seconds before custard goes into the oven. One-line story action: the person scrapes seeds from the Vanilla Bean Pod into yellow custard. Composition: the Vanilla Bean Pod is foreground center, fully visible, sharply focused, and fills 30% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "A tiny black seed trail can change an entire dessert because molecules carry smell."
+**Dialogue:** "Those vanilla seeds carry vanillin, an aldehyde molecule; a tiny amount can flavor a whole custard because smell molecules are powerful."
 
 **Scene 2 image:** Style: glossy product campaign photo. Character: exactly one white adult man, age 28, supermodel-caliber, unbelievably hot and crazy attractive, straight dark blond hair, brown eyes, wearing a navy field vest over a white tee. Scenario: ice cream factory tasting room with three finished tubs. One-line story action: the person ties the Vanilla Bean Pod to a flavor sample card beside the winning tub. Composition: the Vanilla Bean Pod is foreground center, fully visible, sharply focused, and fills 35% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "Flavor chemists turn plants and smells into products people recognize instantly."
+**Dialogue:** "The winning ice cream is not magic, it is molecular matching: flavor chemists choose compounds that your nose recognizes as vanilla."
 
 **Scene 3 image:** Style: warm community poster art. Character: exactly one white adult woman, age 40, supermodel-caliber, unbelievably hot and crazy attractive, long auburn hair, hazel eyes, wearing a black conservation coat. Scenario: farmers market spice booth with customers reaching for packets. One-line story action: the person bundles the Vanilla Bean Pod into small paper packets for a natural flavor display. Composition: the Vanilla Bean Pod is foreground center, fully visible, sharply focused, and fills 40% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "The small lesson: molecular shape helps decide what your nose notices."
+**Dialogue:** "At the spice booth, the pod is a reminder that structure matters: change a molecule slightly and your nose may read it as a different smell."
 
 
 ### 4. Alkali Metals - Lithium Phone Battery
 
 **Scene 1 image:** Style: repair-shop action photo. Character: exactly one white adult man, age 18, supermodel-caliber, unbelievably hot and crazy attractive, short blond hair, dark brown eyes, wearing a black athletic jacket and canvas gloves. Scenario: mall phone repair kiosk with tools lined up like a pit stop. One-line story action: the person slides the Lithium Phone Battery out of an opened phone shell onto a rubber mat. Composition: the Lithium Phone Battery is foreground center, fully visible, sharply focused, and fills 30% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "A dead phone becomes a chemistry story when the battery comes out."
+**Dialogue:** "Inside that phone battery, lithium compounds move charge back and forth; alkali metals are reactive, but engineers package that reactivity."
 
 **Scene 2 image:** Style: futuristic product demo. Character: exactly one white adult woman, age 28, supermodel-caliber, unbelievably hot and crazy attractive, wavy chestnut hair, green eyes, wearing a tailored charcoal work jacket. Scenario: electric scooter rental dock glowing at dusk. One-line story action: the person snaps the Lithium Phone Battery pack into a charging drawer that turns one green light on. Composition: the Lithium Phone Battery is foreground center, fully visible, sharply focused, and fills 35% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "Battery careers are about moving energy safely from chemistry into motion."
+**Dialogue:** "The scooter lights up because chemical energy becomes electrical energy; that is why battery engineers study ions, metals, and safety."
 
 **Scene 3 image:** Style: realistic safety campaign photo. Character: exactly one white adult man, age 40, supermodel-caliber, unbelievably hot and crazy attractive, straight dark blond hair, blue eyes, wearing a pressed charcoal blazer. Scenario: community recycling table with a fire-safe battery bin. One-line story action: the person drops the Lithium Phone Battery into a padded recycling pouch. Composition: the Lithium Phone Battery is foreground center, fully visible, sharply focused, and fills 40% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "Reactive materials can be useful, but they also need smart handling."
+**Dialogue:** "The recycling pouch matters because lithium batteries can short or overheat; useful chemistry still needs controlled pathways."
 
 
 ### 5. Alkane - Candle Wax Drip
 
 **Scene 1 image:** Style: cozy maker photo. Character: exactly one white adult woman, age 18, supermodel-caliber, unbelievably hot and crazy attractive, long auburn hair, brown eyes, wearing a navy hoodie with clean sneakers. Scenario: artisan candle workshop with colored wax sheets. One-line story action: the person guides the Candle Wax Drip down a handmade candle to form a smooth ridge. Composition: the Candle Wax Drip is foreground center, fully visible, sharply focused, and fills 30% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "A melting candle shows that materials can soften, flow, and harden again."
+**Dialogue:** "Candle wax is mostly long alkane chains; heating lets those chains slide past each other, so solid wax becomes a drip."
 
 **Scene 2 image:** Style: stop-motion movie prop scene. Character: exactly one white adult man, age 28, supermodel-caliber, unbelievably hot and crazy attractive, short blond hair, hazel eyes, wearing a cream utility jacket. Scenario: miniature castle set for a fantasy film. One-line story action: the person builds fake ancient candle drips on a tiny stage lantern. Composition: the Candle Wax Drip is foreground center, fully visible, sharply focused, and fills 35% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "Prop makers use material chemistry whenever they fake age, heat, or texture."
+**Dialogue:** "The prop lantern works because wax cools into shape; material artists use phase changes the same way chemists describe melting and freezing."
 
 **Scene 3 image:** Style: dramatic candlelit painting. Character: exactly one white adult woman, age 40, supermodel-caliber, unbelievably hot and crazy attractive, wavy chestnut hair, dark brown eyes, wearing a green outdoor field jacket. Scenario: power-outage dinner table with flashlights, matches, and a cold phone. One-line story action: the person sets the hardened Candle Wax Drip beside spare candles like a tiny fuel reminder. Composition: the Candle Wax Drip is foreground center, fully visible, sharply focused, and fills 40% of the frame; the scenario must feel like a complete mini story, not a product close-up. Constraints: only one main person; no science lab; no microscope; no simple inspection; no simple holding; no repeated table-demo setup; no readable poster text; no watermark.
 
-**Dialogue:** "The small lesson: everyday materials can store energy until we release it."
+**Dialogue:** "A candle is stored chemical energy: when wax burns, its carbon and hydrogen react with oxygen and release heat and light."
 
 
 ### 6. Alkene - Plastic Grocery Bag
